@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetF1_1 Pin=J3-1
+Added Member To Class: ClassName=Power & SD Member=Component J3 PWR2.5
+Added Member To Class: ClassName=Power & SD Member=Component P10 CAN
+Added Room: Name=AD & i2C & SPI
+Added Room: Name=Audio
+Added Room: Name=LCD
+Added Room: Name=NET & UART
+Added Room: Name=Power & SD
+Added Room: Name=SDIO_WIFI
+Added Room: Name=SODIMM
+Added Room: Name=USB

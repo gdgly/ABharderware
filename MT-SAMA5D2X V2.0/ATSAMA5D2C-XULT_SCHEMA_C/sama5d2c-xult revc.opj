@@ -1,0 +1,115 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\sama5d2c-xult revc.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sama5d2c-xult revc.dsn")
+      (Path "Design Resources" ".\sama5d2c-xult revc.dsn" "SAMA5D2-XULT")
+      (Select "Design Resources" ".\sama5d2c-xult revc.dsn" "SAMA5D2-XULT"
+         "08) Expansion"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 507"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 2454 234 780")
+        (Scroll "-392 0")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "01) CONNECTOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 2480 260 806")
+        (Scroll "320 959")
+        (Zoom "168")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "02) POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 2324 104 650")
+        (Scroll "320 959")
+        (Zoom "168")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "03)  JTAG & DBUG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 2350 130 676")
+        (Scroll "-392 0")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "07) USB & LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 2376 156 702")
+        (Scroll "-392 0")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "04) DI & DO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 182 2402 182 728")
+        (Scroll "-530 -7")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "05) Ethernet_10/100M"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 2428 208 754")
+        (Scroll "47346 238")
+        (Zoom "3962")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "06) SD & eMMC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 2480 260 806")
+        (Scroll "320 959")
+        (Zoom "168")
+        (Occurrence "/"))
+      (Path
+         "G:\MICCHIP\ATSAMA5D2C-XULT__KITSFILES\ATSAMA5D2C-XULT_SCHEMA_C\SAMA5D2C-XULT REVC.DSN")
+      (Schematic "SAMA5D2-XULT")
+      (Page "08) Expansion")))
+  (MPSSessionName "Administrator"))

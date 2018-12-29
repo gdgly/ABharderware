@@ -1,0 +1,12 @@
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- MT-StreetLight V1.0.0.pcb -- Mon Aug 06 16:54:38 2018
+
+
+*NET*
+*SIGNAL* T1 10
+MARKE3.1 T1.4
+
+*DELPIN*
+T1.1    T1
+*END*

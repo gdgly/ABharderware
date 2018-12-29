@@ -1,0 +1,10 @@
+Change Component Library : Designator=R40 Old Library=* New Library=UEEE160329.PcbLib
+Change Component Library : Designator=R42 Old Library=* New Library=UEEE160329.PcbLib
+Change Component Library : Designator=J9 Old Library=Mini9.SCHLIB New Library=直流原理图库.SCHLIB
+Added Component: Designator=C14(0603C)
+Added Component: Designator=C35(0603C)
+Added Component: Designator=C49(0603C)
+Added Component: Designator=C50(0603C)
+Added Component: Designator=C60(0603C)
+Added Component: Designator=C62(0603C)
+Added Component: Designator=C64(0603C)

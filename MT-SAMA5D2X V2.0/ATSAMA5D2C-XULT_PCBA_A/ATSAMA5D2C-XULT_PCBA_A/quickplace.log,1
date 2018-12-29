@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : SAMA5D2-XULT RevA.brd                         )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Oct 30 19:06:54 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Cannot place symbol:  J16 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  J17 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+
+
+Placed 0 of 2 applicable (2 total) symbols.
+
+-----------------------------------------------------------------------
+

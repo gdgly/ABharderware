@@ -1,0 +1,18 @@
+SECTION VBPCBIndicators
+KEY SchematicDesignStatus "0"
+KEY VBPCBForwardAnno "0"
+KEY SchematicDesignBackAnno "0"
+KEY CADBackAnno "3"
+KEY DisableBackAnnoChanges "0"
+KEY FanoutSinglePinNets "1"
+KEY UpdateNetPropsDB "Sync"
+KEY UpdateJobPrefsDB "Sync"
+KEY UpdateNetClassDB "Sync"
+KEY DisableRepackage "0"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY NetClassFile ""
+KEY VBPCBDesignPath "LayoutDB.pcb"
+KEY VBPCBForeignNetlist "LayoutDB.gdb"
+KEY VBPCBForeignNetlistFormat "gdb"
+ENDSECTION

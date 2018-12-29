@@ -1,0 +1,2604 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ACN          pins ADDED TO this new net
+                                 J19.15         R146.2         U24.U1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ACP          pins ADDED TO this new net
+                                 J19.17         R123.2         U24.T1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BOOT_DIS     pins ADDED TO this new net
+                                 J19.11         R226.2         R227.1         
+                                 U15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLASSD_R0_PB1 pins ADDED TO this new net
+                                 J18.16         U24.A8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLASSD_R1_PB2 pins ADDED TO this new net
+                                 J18.17         U24.A7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLASSD_R2_PB3 pins ADDED TO this new net
+                                 J18.18         U24.A6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLASSD_R3_PB4 pins ADDED TO this new net
+                                 J18.19         U24.B6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLK_AUDIO    pins ADDED TO this new net
+                                 J19.22         U24.U3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DBGU_URXD1_PD2 pins ADDED TO this new net
+                                 J19.98         U24.G9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DBGU_UTXD1_PD3 pins ADDED TO this new net
+                                 J19.97         U24.K1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A0       pins ADDED TO this new net
+                                 U4.N3          U8.N3          U24.F12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A1       pins ADDED TO this new net
+                                 U4.P7          U8.P7          U24.C17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A2       pins ADDED TO this new net
+                                 U4.P3          U8.P3          U24.B17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A3       pins ADDED TO this new net
+                                 U4.N2          U8.N2          U24.B16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A4       pins ADDED TO this new net
+                                 U4.P8          U8.P8          U24.C16        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DDR_A5       pins ADDED TO this new net
+                                 U4.P2          U8.P2          U24.G14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A6       pins ADDED TO this new net
+                                 U4.R8          U8.R8          U24.F14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A7       pins ADDED TO this new net
+                                 U4.R2          U8.R2          U24.F11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A8       pins ADDED TO this new net
+                                 U4.T8          U8.T8          U24.C14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A9       pins ADDED TO this new net
+                                 U4.R3          U8.R3          U24.D13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A10      pins ADDED TO this new net
+                                 U4.L7          U8.L7          U24.C15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A11      pins ADDED TO this new net
+                                 U4.R7          U8.R7          U24.A16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A12      pins ADDED TO this new net
+                                 U4.N7          U8.N7          U24.A17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_A13      pins ADDED TO this new net
+                                 U4.T3          U8.T3          U24.G11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_BA0      pins ADDED TO this new net
+                                 U4.M2          U8.M2          U24.H12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_BA1      pins ADDED TO this new net
+                                 U4.N8          U8.N8          U24.H13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_BA2      pins ADDED TO this new net
+                                 U4.M3          U8.M3          U24.F17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_CAS      pins ADDED TO this new net
+                                 U4.K3          U8.K3          U24.G12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_CKE      pins ADDED TO this new net
+                                 R243.2         U4.K9          U8.K9          
+                                 U24.F16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_CLK+     pins ADDED TO this new net
+                                 R153.1         U4.J7          U8.J7          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U24.E17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_CLK-     pins ADDED TO this new net
+                                 R153.2         U4.K7          U8.K7          
+                                 U24.D17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_CS       pins ADDED TO this new net
+                                 U4.L2          U8.L2          U24.G13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D0       pins ADDED TO this new net
+                                 U8.E3          U24.B12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D1       pins ADDED TO this new net
+                                 U8.F7          U24.A12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D2       pins ADDED TO this new net
+                                 U8.F2          U24.C12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D3       pins ADDED TO this new net
+                                 U8.F8          U24.A13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D4       pins ADDED TO this new net
+                                 U8.H3          U24.A14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D5       pins ADDED TO this new net
+                                 U8.H8          U24.C13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D6       pins ADDED TO this new net
+                                 U8.G2          U24.A15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D7       pins ADDED TO this new net
+                                 U8.H7          U24.B15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D8       pins ADDED TO this new net
+                                 U8.D7          U24.G17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D9       pins ADDED TO this new net
+                                 U8.C3          U24.G16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D10      pins ADDED TO this new net
+                                 U8.C8          U24.H17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D11      pins ADDED TO this new net
+                                 U8.C2          U24.K17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DDR_D12      pins ADDED TO this new net
+                                 U8.A7          U24.K16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D13      pins ADDED TO this new net
+                                 U8.A2          U24.J13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D14      pins ADDED TO this new net
+                                 U8.B8          U24.K14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D15      pins ADDED TO this new net
+                                 U8.A3          U24.K15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D16      pins ADDED TO this new net
+                                 U4.E3          U24.B8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D17      pins ADDED TO this new net
+                                 U4.F7          U24.B9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D18      pins ADDED TO this new net
+                                 U4.F2          U24.C9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D19      pins ADDED TO this new net
+                                 U4.F8          U24.A9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D20      pins ADDED TO this new net
+                                 U4.H3          U24.A10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D21      pins ADDED TO this new net
+                                 U4.H8          U24.D10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D22      pins ADDED TO this new net
+                                 U4.G2          U24.B11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D23      pins ADDED TO this new net
+                                 U4.H7          U24.A11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D24      pins ADDED TO this new net
+                                 U4.D7          U24.J12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D25      pins ADDED TO this new net
+                                 U4.C3          U24.H10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D26      pins ADDED TO this new net
+                                 U4.C8          U24.J11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DDR_D27      pins ADDED TO this new net
+                                 U4.C2          U24.K11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D28      pins ADDED TO this new net
+                                 U4.A7          U24.L13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D29      pins ADDED TO this new net
+                                 U4.A2          U24.L11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D30      pins ADDED TO this new net
+                                 U4.B8          U24.L12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_D31      pins ADDED TO this new net
+                                 U4.A3          U24.M17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQM0     pins ADDED TO this new net
+                                 U8.E7          U24.C11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQM1     pins ADDED TO this new net
+                                 U8.D3          U24.G15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQM2     pins ADDED TO this new net
+                                 U4.E7          U24.C8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQM3     pins ADDED TO this new net
+                                 U4.D3          U24.H11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS0+    pins ADDED TO this new net
+                                 U8.F3          U24.B13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS0-    pins ADDED TO this new net
+                                 U8.G3          U24.B14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS1+    pins ADDED TO this new net
+                                 U8.C7          U24.J17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS1-    pins ADDED TO this new net
+                                 U8.B7          U24.J16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS2+    pins ADDED TO this new net
+                                 U4.F3          U24.C10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS2-    pins ADDED TO this new net
+                                 U4.G3          U24.B10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DDR_DQS3+    pins ADDED TO this new net
+                                 U4.C7          U24.L17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_DQS3-    pins ADDED TO this new net
+                                 U4.B7          U24.L16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_RAS      pins ADDED TO this new net
+                                 U4.J3          U8.J3          U24.F13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_RESETN   pins ADDED TO this new net
+                                 R242.1         U4.T2          U8.T2          
+                                 U24.E16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_VREF     pins ADDED TO this new net
+                                 C54.1          C55.2          C72.1          
+                                 C91.1          C99.1          C100.1         
+                                 C121.1         C145.1         R180.1         
+                                 R181.2         U4.H1          U4.M8          
+                                 U8.H1          U8.M8          U24.D16        
+                                 U24.H16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDR_WE       pins ADDED TO this new net
+                                 U4.L3          U8.L3          U24.F15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EEPROM_TWCK1_PD5 pins ADDED TO this new net
+                                 R297.2         U18.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EEPROM_TWD1_PD4 pins ADDED TO this new net
+                                 R296.2         U18.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EEPROM_WP    pins ADDED TO this new net
+                                 R316.1         R320.2         U18.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GMDC_PB22 pins ADDED TO this new net
+                                 J18.45         R87.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GMDIO_PB23 pins ADDED TO this new net
+                                 J18.46         R69.2          R86.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GRX0_PB18 pins ADDED TO this new net
+                                 J18.41         R65.2          R72.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GRX1_PB19 pins ADDED TO this new net
+                                 J18.42         R66.1          R73.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ETH_GRXDV_PB16 pins ADDED TO this new net
+                                 J18.39         R48.1          R61.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GRXER_PB17 pins ADDED TO this new net
+                                 J18.40         R47.2          R60.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GTX0_PB20 pins ADDED TO this new net
+                                 J18.43         R84.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GTX1_PB21 pins ADDED TO this new net
+                                 J18.44         R85.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GTXCK_PB14 pins ADDED TO this new net
+                                 J18.37         R49.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_GTXEN_PB15 pins ADDED TO this new net
+                                 J18.38         R108.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ETH_INT_PC9  pins ADDED TO this new net
+                                 J18.70         R45.2          R115.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PB5 pins ADDED TO this new net
+                                 J18.24         R109.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PB6 pins ADDED TO this new net
+                                 J18.26         R274.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD12 pins ADDED TO this new net
+                                 J19.86         U24.K8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD13 pins ADDED TO this new net
+                                 J19.85         U24.L2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD25 pins ADDED TO this new net
+                                 J19.66         U24.L6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD26 pins ADDED TO this new net
+                                 J19.65         U24.N2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD27 pins ADDED TO this new net
+                                 J19.64         U24.L8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP/XPRO_PD28 pins ADDED TO this new net
+                                 J19.63         U24.M4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EXP/XPRO_PD29 pins ADDED TO this new net
+                                 J19.62         U24.N3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP_PD6      pins ADDED TO this new net
+                                 J19.92         U24.J2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP_PD23     pins ADDED TO this new net
+                                 J19.68         U24.M3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP_PD24     pins ADDED TO this new net
+                                 J19.67         U24.L7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP_PD30     pins ADDED TO this new net
+                                 J19.61         U24.L9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXP_PD31     pins ADDED TO this new net
+                                 J19.60         U24.M7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J18.5          J18.6          J18.11         
+                                 J18.12         J18.21         J18.22         
+                                 J18.27         J18.28         J18.35         
+                                 J18.36         J18.47         J18.48         
+                                 J18.57         J18.58         J18.67         
+                                 J18.68         J18.89         J18.90         
+                                 J18.95         J18.96         J18.99         
+                                 J18.100        J19.1          J19.2          
+                                 J19.7          J19.8          J19.13         
+                                 J19.14         J19.19         J19.20         
+                                 J19.23         J19.24         J19.47         
+                                 J19.48         J19.57         J19.58         
+                                 J19.69         J19.70         J19.77         
+                                 J19.78         J19.83         J19.84         
+                                 J19.93         J19.94         J19.99         
+                                 J19.100        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GNDUTMII     pins ADDED TO this new net
+                                 C127.2         R263.2         R264.1         
+                                 U24.P9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_POWER    pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C7.2           C13.2          C17.2          
+                                 C20.2          C22.2          C23.2          
+                                 C24.2          C27.2          C28.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C29.2          C30.2          C31.2          
+                                 C37.2          C38.2          C40.2          
+                                 C41.2          C43.2          C44.2          
+                                 C45.2          C46.2          C47.2          
+                                 C48.2          C51.2          C52.2          
+                                 C54.2          C56.2          C58.2          
+                                 C59.2          C60.2          C61.2          
+                                 C63.2          C65.2          C66.2          
+                                 C67.2          C68.2          C69.2          
+                                 C70.2          C71.2          C72.2          
+                                 C73.2          C74.2          C76.2          
+                                 C77.2          C78.2          C79.2          
+                                 C80.2          C81.2          C82.2          
+                                 C83.2          C84.2          C85.2          
+                                 C87.2          C88.2          C89.2          
+                                 C90.2          C91.2          C92.2          
+                                 C93.2          C94.2          C95.2          
+                                 C96.2          C97.2          C98.2          
+                                 C99.2          C100.2         C101.2         
+                                 C102.2         C103.2         C104.2         
+                                 C105.2         C106.2         C107.2         
+                                 C108.2         C109.1         C110.2         
+                                 C111.2         C112.2         C113.2         
+                                 C114.2         C115.2         C116.2         
+                                 C117.2         C118.2         C119.2         
+                                 C120.2         C121.2         C122.2         
+                                 C123.2         C124.2         C125.2         
+                                 C126.2         C128.2         C129.2         
+                                 C130.2         C131.2         C132.2         
+                                 C133.2         C134.2         C135.2         
+                                 C136.2         C137.2         C138.2         
+                                 C139.2         C140.2         C141.2         
+                                 C142.2         C143.2         C144.2         
+                                 C145.2         C146.2         C147.2         
+                                 C148.2         C149.2         C150.2         
+                                 C151.2         C152.2         C153.2         
+                                 C154.2         C161.2         C163.2         
+                                 C164.2         C165.2         C166.2         
+                                 C167.2         C169.2         C173.2         
+                                 C176.2         MH1.1          MH2.1          
+                                 Q1.2           Q2.2           Q3.2           
+                                 Q6.2           Q8.2           Q9.2           
+                                 R12.1          R19.2          R22.1          
+                                 R24.2          R26.2          R27.2          
+                                 R41.2          R48.2          R60.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R66.2          R105.2         R124.2         
+                                 R127.1         R139.1         R158.2         
+                                 R178.2         R180.2         R195.2         
+                                 R235.2         R238.2         R243.1         
+                                 R250.1         R256.1         R258.2         
+                                 R264.2         R272.2         R316.2         
+                                 TP13.1         TP19.1         TP26.1         
+                                 U2.3           U2.14          U2.37          
+                                 U2.41          U4.A9          U4.B1          
+                                 U4.B3          U4.B9          U4.D1          
+                                 U4.D8          U4.E1          U4.E2          
+                                 U4.E8          U4.F9          U4.G1          
+                                 U4.G8          U4.G9          U4.J2          
+                                 U4.J8          U4.M1          U4.M9          
+                                 U4.P1          U4.P9          U4.T1          
+                                 U4.T9          U7.3           U8.A9          
+                                 U8.B1          U8.B3          U8.B9          
+                                 U8.D1          U8.D8          U8.E1          
+                                 U8.E2          U8.E8          U8.F9          
+                                 U8.G1          U8.G8          U8.G9          
+                                 U8.J2          U8.J8          U8.M1          
+                                 U8.M9          U8.P1          U8.P9          
+                                 U8.T1          U8.T9          U10.4          
+                                 U11.C4         U11.E7         U11.G5         
+                                 U11.H10        U11.K8         U11.N2         
+                                 U11.N5         U11.P4         U11.P6         
+                                 U15.3          U18.1          U18.2          
+                                 U18.4          U24.D14        U24.E7         
+                                 U24.E9         U24.E11        U24.E12        
+                                 U24.E14        U24.F6         U24.F9         
+                                 U24.G4         U24.G7         U24.H4         
+                                 U24.H14        U24.J14        U24.K5         
+                                 U24.K12        U24.L3         U24.L14        
+                                 U24.M5         U24.M9         U24.M13        
+                                 U24.N6         U24.P14        U24.R7         
+                                 U24.R11        U24.T4         U24.T5         
+                                 U24.T6         U24.U5         Y3.2           
+                                 Y3.3           Y4.2           Y4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HSIC_DATA    pins ADDED TO this new net
+                                 J19.16         U24.T9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HSIC_STRB    pins ADDED TO this new net
+                                 J19.18         U24.U10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ISC_D0/EXP_PB26 pins ADDED TO this new net
+                                 J18.51         U24.E4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D1/EXP_PB27 pins ADDED TO this new net
+                                 J18.52         U24.B1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D10/EXP_PB24 pins ADDED TO this new net
+                                 J18.49         U24.E5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D11/EXP_PB25 pins ADDED TO this new net
+                                 J18.50         U24.B2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D2/EXP/XPRO_PB28 pins ADDED TO this new net
+                                 J18.53         U24.C2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D3/EXP/XPRO_PB29 pins ADDED TO this new net
+                                 J18.54         U24.D3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D4/EXP_PB30 pins ADDED TO this new net
+                                 J18.55         U24.D2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D5/EXP/XPRO_PB31 pins ADDED TO this new net
+                                 J18.56         U24.C1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D6/EXP/XPRO_PC0 pins ADDED TO this new net
+                                 J18.59         U24.P17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D7/SPI1_SPCK_PC1 pins ADDED TO this new net
+                                 J18.60         U24.N12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D8/SPI1_MOSI_PC2 pins ADDED TO this new net
+                                 J18.61         U24.N14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_D9/SPI1_MISO_PC3 pins ADDED TO this new net
+                                 J18.62         U24.M15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_HSYNC/EXP_PC6 pins ADDED TO this new net
+                                 J18.65         U24.K10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_MCK/EXP_PC7 pins ADDED TO this new net
+                                 J18.66         U24.M16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_PCK/SPI1_NPCS0_PC4 pins ADDED TO this new net
+                                 J18.63         U24.M11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ISC_PWD/EXP_PB12 pins ADDED TO this new net
+                                 J18.31         U24.D6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_RST/EXP_PB11 pins ADDED TO this new net
+                                 J18.29         U24.B5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ISC_VSYNC/EXP_PC5 pins ADDED TO this new net
+                                 J18.64         U24.L10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TCK_PD14 pins ADDED TO this new net
+                                 J19.82         R94.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TDI_PD15 pins ADDED TO this new net
+                                 J19.81         R91.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TDO_PD16 pins ADDED TO this new net
+                                 J19.80         R119.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JTAG_TMS_PD17 pins ADDED TO this new net
+                                 J19.79         R117.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_AD0_XP_PD19 pins ADDED TO this new net
+                                 J19.73         R96.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_AD1_XM_PD20 pins ADDED TO this new net
+                                 J19.74         R121.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_AD2_YP_PD21 pins ADDED TO this new net
+                                 J19.71         R102.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_AD3_YM_PD22 pins ADDED TO this new net
+                                 J19.72         R101.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT10_PC16 pins ADDED TO this new net
+                                 J18.77         U24.G6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT11_PC17 pins ADDED TO this new net
+                                 J18.78         U24.F1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT12_PC18 pins ADDED TO this new net
+                                 J18.79         U24.H6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT13_PC19 pins ADDED TO this new net
+                                 J18.80         U24.G2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCD_DAT14_PC20 pins ADDED TO this new net
+                                 J18.81         U24.G3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT15_PC21 pins ADDED TO this new net
+                                 J18.82         U24.G1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT18_PC22 pins ADDED TO this new net
+                                 J18.83         U24.H2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT19_PC23 pins ADDED TO this new net
+                                 J18.84         U24.G5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT20_PC24 pins ADDED TO this new net
+                                 J18.85         U24.H1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT21_PC25 pins ADDED TO this new net
+                                 J18.86         U24.H5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT22_PC26 pins ADDED TO this new net
+                                 J18.87         R289.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT23_PC27 pins ADDED TO this new net
+                                 J18.88         R288.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT2_PC10 pins ADDED TO this new net
+                                 J18.71         R304.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT3_PC11 pins ADDED TO this new net
+                                 J18.72         R90.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT4_PC12 pins ADDED TO this new net
+                                 J18.73         U24.E1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT5_PC13 pins ADDED TO this new net
+                                 J18.74         U24.F3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT6_PC14 pins ADDED TO this new net
+                                 J18.75         U24.F5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DAT7_PC15 pins ADDED TO this new net
+                                 J18.76         U24.F2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_DEN_PD1  pins ADDED TO this new net
+                                 J18.97         R291.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCD_DISP_PC29 pins ADDED TO this new net
+                                 J18.92         U24.G8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_HSYNC_PC31 pins ADDED TO this new net
+                                 J18.94         R282.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_ID_PB0   pins ADDED TO this new net
+                                 J18.15         R89.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_IRQ1_PB7 pins ADDED TO this new net
+                                 J18.23         U24.C6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_IRQ2_PB8 pins ADDED TO this new net
+                                 J18.25         U24.A5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_PCK_PD0  pins ADDED TO this new net
+                                 J18.98         R278.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_PWM_PC28 pins ADDED TO this new net
+                                 J18.91         R279.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_TWCK1_PD5 pins ADDED TO this new net
+                                 J19.95         R308.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_TWD1_PD4 pins ADDED TO this new net
+                                 J19.96         R307.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_VSYNC_PC30 pins ADDED TO this new net
+                                 J18.93         R285.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18279993    pins ADDED TO this new net
+                                 C43.1          R131.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N34092473    pins ADDED TO this new net
+                                 R140.2         R255.2         U11.M6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N34149423    pins ADDED TO this new net
+                                 C79.1          C85.1          U11.C2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35973957    pins ADDED TO this new net
+                                 C166.1         U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35973965    pins ADDED TO this new net
+                                 L5.1           U2.38          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N35973973    pins ADDED TO this new net
+                                 L6.1           U2.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974053    pins ADDED TO this new net
+                                 C13.1          L3.1           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974057    pins ADDED TO this new net
+                                 C10.2          Q3.1           R12.2          
+                                 R13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974077    pins ADDED TO this new net
+                                 R195.1         U2.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974129    pins ADDED TO this new net
+                                 L1.1           U2.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974203    pins ADDED TO this new net
+                                 C10.1          R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974215    pins ADDED TO this new net
+                                 R27.1          U2.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974333    pins ADDED TO this new net
+                                 R44.1          U2.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974365    pins ADDED TO this new net
+                                 R21.2          R22.2          U2.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974369    pins ADDED TO this new net
+                                 Q1.1           Q2.3           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974465    pins ADDED TO this new net
+                                 Q1.3           R15.1          U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974471    pins ADDED TO this new net
+                                 C169.1         R327.2         U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974815    pins ADDED TO this new net
+                                 C173.1         R330.2         U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974827    pins ADDED TO this new net
+                                 R18.2          R24.1          U2.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35974960    pins ADDED TO this new net
+                                 C8.1           R13.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N35974983    pins ADDED TO this new net
+                                 R17.2          U2.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35975004    pins ADDED TO this new net
+                                 R16.2          U2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35975018    pins ADDED TO this new net
+                                 R20.2          U2.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35975048    pins ADDED TO this new net
+                                 D1.2           R44.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35984128    pins ADDED TO this new net
+                                 L23.1          R303.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35984160    pins ADDED TO this new net
+                                 L19.1          R284.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36553366    pins ADDED TO this new net
+                                 C142.1         R269.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36625794    pins ADDED TO this new net
+                                 L12.1          R129.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36630600    pins ADDED TO this new net
+                                 L20.1          R293.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36838917    pins ADDED TO this new net
+                                 C55.1          L14.2          R181.1         
+                                 R182.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36838919    pins ADDED TO this new net
+                                 C56.1          R182.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36840902    pins ADDED TO this new net
+                                 R238.1         U8.L8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36841022    pins ADDED TO this new net
+                                 R124.1         U4.L8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36930008    pins ADDED TO this new net
+                                 R128.2         U24.T2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36981838    pins ADDED TO this new net
+                                 C127.1         R263.1         U24.R6         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N37041066    pins ADDED TO this new net
+                                 C130.1         R270.1         U24.M6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37448162    pins ADDED TO this new net
+                                 R278.1         U24.G10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37449174    pins ADDED TO this new net
+                                 R291.1         U24.E10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37540605    pins ADDED TO this new net
+                                 R297.1         R308.1         R309.1         
+                                 U24.J4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37540654    pins ADDED TO this new net
+                                 R296.1         R306.1         R307.1         
+                                 U24.J6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37719730    pins ADDED TO this new net
+                                 R319.2         U18.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N38034659    pins ADDED TO this new net
+                                 C109.2         R256.2         U24.T10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N38042255    pins ADDED TO this new net
+                                 R127.2         U24.P3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N38248254    pins ADDED TO this new net
+                                 L22.1          R300.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N38426208    pins ADDED TO this new net
+                                 R178.1         R179.1         U8.K1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N38442261    pins ADDED TO this new net
+                                 R254.1         R258.1         U4.K1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39320848    pins ADDED TO this new net
+                                 R30.1          R41.1          U2.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N39383818    pins ADDED TO this new net
+                                 R63.2          R88.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N40868741    pins ADDED TO this new net
+                                 C51.1          R146.1         R152.2         
+                                 R155.1         U7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N40878562    pins ADDED TO this new net
+                                 R155.2         R158.1         U7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N40895083    pins ADDED TO this new net
+                                 R100.2         R105.1         R123.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N41880304    pins ADDED TO this new net
+                                 C106.1         R250.2         U24.E13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42269599    pins ADDED TO this new net
+                                 D6.2           R280.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42277537    pins ADDED TO this new net
+                                 R281.2         U24.U2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42318507    pins ADDED TO this new net
+                                 Q8.3           Q9.1           R332.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42379535    pins ADDED TO this new net
+                                 Q6.1           R227.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42482892    pins ADDED TO this new net
+                                 R19.1          U2.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42876238    pins ADDED TO this new net
+                                 R167.1         U24.T16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N42877639    pins ADDED TO this new net
+                                 D3.2           R63.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPBSTAT      pins ADDED TO this new net
+                                 Q8.1           R333.1         U2.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NRST         pins ADDED TO this new net
+                                 C7.1           J19.9          R6.2           
+                                 R16.1          R281.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA14         pins ADDED TO this new net
+                                 R175.1         U24.M14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA15         pins ADDED TO this new net
+                                 R172.1         U24.N16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA16         pins ADDED TO this new net
+                                 R173.1         U24.M10        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PA17         pins ADDED TO this new net
+                                 R174.1         U24.N17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA18         pins ADDED TO this new net
+                                 R154.1         U24.U14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA19         pins ADDED TO this new net
+                                 R159.1         U24.T14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA20         pins ADDED TO this new net
+                                 R143.1         U24.P12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA21         pins ADDED TO this new net
+                                 R145.1         U24.R13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA22         pins ADDED TO this new net
+                                 R163.1         R165.1         U24.U15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA23         pins ADDED TO this new net
+                                 R164.1         U24.U16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA24         pins ADDED TO this new net
+                                 R157.1         U24.T15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA25         pins ADDED TO this new net
+                                 R168.1         U24.U17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PA26         pins ADDED TO this new net
+                                 R169.1         U24.P13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB0          pins ADDED TO this new net
+                                 R88.1          R89.1          U24.J8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB5          pins ADDED TO this new net
+                                 R109.1         U24.B7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB6          pins ADDED TO this new net
+                                 R274.1         U24.C7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB9          pins ADDED TO this new net
+                                 R83.1          U24.A4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB10         pins ADDED TO this new net
+                                 R267.1         U24.H8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PB14         pins ADDED TO this new net
+                                 R49.1          U24.C5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB15         pins ADDED TO this new net
+                                 R108.1         U24.H7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB16         pins ADDED TO this new net
+                                 R61.1          U24.D5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB17         pins ADDED TO this new net
+                                 R47.1          U24.C4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB18         pins ADDED TO this new net
+                                 R72.1          U24.A3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB19         pins ADDED TO this new net
+                                 R73.1          U24.D4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB20         pins ADDED TO this new net
+                                 R84.1          U24.B3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB21         pins ADDED TO this new net
+                                 R85.1          U24.A2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB22         pins ADDED TO this new net
+                                 R87.1          U24.C3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PB23         pins ADDED TO this new net
+                                 R86.1          U24.A1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC9          pins ADDED TO this new net
+                                 R115.1         U24.D1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC10         pins ADDED TO this new net
+                                 R304.1         U24.E3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC11         pins ADDED TO this new net
+                                 R90.1          U24.E2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC26         pins ADDED TO this new net
+                                 R289.1         U24.J9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC27         pins ADDED TO this new net
+                                 R288.1         U24.H9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  PC28         pins ADDED TO this new net
+                                 R272.1         R279.1         U24.E8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC30         pins ADDED TO this new net
+                                 R285.1         U24.F8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC31         pins ADDED TO this new net
+                                 R282.1         U24.D8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD14         pins ADDED TO this new net
+                                 R94.1          U24.K4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD15         pins ADDED TO this new net
+                                 R91.1          U24.K7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD16         pins ADDED TO this new net
+                                 R119.1         U24.L1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD17         pins ADDED TO this new net
+                                 R117.1         U24.K2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD19         pins ADDED TO this new net
+                                 R96.1          U24.K6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD20         pins ADDED TO this new net
+                                 R121.1         U24.M2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD21         pins ADDED TO this new net
+                                 R102.1         R107.1         R126.1         
+                                 U24.N1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PD22         pins ADDED TO this new net
+                                 R97.1          R101.1         R125.1         
+                                 U24.L4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU0       pins ADDED TO this new net
+                                 J19.55         U24.R3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU1       pins ADDED TO this new net
+                                 J19.56         U24.N8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU2       pins ADDED TO this new net
+                                 J19.53         U24.R2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU3       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J19.54         U24.R5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU4       pins ADDED TO this new net
+                                 J19.51         U24.R4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU5       pins ADDED TO this new net
+                                 J19.52         U24.P5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU6       pins ADDED TO this new net
+                                 J19.49         U24.P6         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PIOBU7       pins ADDED TO this new net
+                                 J19.50         U24.M8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PMIC_CHGLEV_PA12 pins ADDED TO this new net
+                                 J19.46         R26.1          U2.22          
+                                 U24.N15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PMIC_IRQ_PB13 pins ADDED TO this new net
+                                 J18.33         R7.2           R17.1          
+                                 U24.B4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PMIC_LBO/EXP_PC8 pins ADDED TO this new net
+                                 J18.69         R20.1          U24.J10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PMIC_TWCK0_PD22 pins ADDED TO this new net
+                                 R97.2          U2.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PMIC_TWD0_PD21 pins ADDED TO this new net
+                                 R107.2         U2.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_CS     pins ADDED TO this new net
+                                 R218.2         U10.1          U15.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_CS_PA23 pins ADDED TO this new net
+                                 J19.33         R164.2         U15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_IO0_PA24 pins ADDED TO this new net
+                                 J19.34         R157.2         U10.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_IO1_PA25 pins ADDED TO this new net
+                                 J19.31         R168.2         U10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_IO2_PA26 pins ADDED TO this new net
+                                 J19.32         R169.2         U10.3          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  QSPI0_IO3_PA27 pins ADDED TO this new net
+                                 J19.29         R167.2         U10.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  QSPI0_SCK_PA22 pins ADDED TO this new net
+                                 R165.2         U10.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 J19.3          R14.2          TP11.1         
+                                 U2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD          pins ADDED TO this new net
+                                 J19.21         U24.N4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_CD_PA13 pins ADDED TO this new net
+                                 J19.43         Q6.3           R230.2         
+                                 U24.P16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_CK_PA0 pins ADDED TO this new net
+                                 R140.1         U24.U11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_CMD_PA1 pins ADDED TO this new net
+                                 R235.1         R236.2         U11.M5         
+                                 U24.P10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT0_PA2 pins ADDED TO this new net
+                                 R142.2         U11.A3         U24.T11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT1_PA3 pins ADDED TO this new net
+                                 R237.2         U11.A4         U24.R10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT2_PA4 pins ADDED TO this new net
+                                 R144.2         U11.A5         U24.U12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT3_PA5 pins ADDED TO this new net
+                                 R147.2         U11.B2         U24.T12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT4_PA6 pins ADDED TO this new net
+                                 R234.2         U11.B3         U24.R12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT5_PA7 pins ADDED TO this new net
+                                 R151.2         U11.B4         U24.T13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_DAT6_PA8 pins ADDED TO this new net
+                                 R233.2         U11.B5         U24.N10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  24  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SDHC0_DAT7_PA9 pins ADDED TO this new net
+                                 R232.2         U11.B6         U24.N11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_RSTN_PA10 pins ADDED TO this new net
+                                 R149.2         U11.K5         U24.U13        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC0_VDDSEL_PA11 pins ADDED TO this new net
+                                 J19.45         U24.P15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_CD_PA30 pins ADDED TO this new net
+                                 J19.28         U24.R15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_CK_PA22 pins ADDED TO this new net
+                                 J19.36         R163.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_CMD_PA28 pins ADDED TO this new net
+                                 J19.30         U24.R16        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_DAT0_PA18 pins ADDED TO this new net
+                                 J19.40         R154.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_DAT1_PA19 pins ADDED TO this new net
+                                 J19.37         R159.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_DAT2_PA20 pins ADDED TO this new net
+                                 J19.38         R143.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDHC1_DAT3_PA21 pins ADDED TO this new net
+                                 J19.35         R145.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SHDN         pins ADDED TO this new net
+                                 Q2.1           R9.1           U24.R1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI0_MISO_PA16 pins ADDED TO this new net
+                                 J19.42         R173.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI0_MOSI_PA15 pins ADDED TO this new net
+                                 J19.41         R172.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI0_NPCS0_PA17 pins ADDED TO this new net
+                                 J19.39         R174.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI0_SPCK_PA14 pins ADDED TO this new net
+                                 J19.44         R175.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  25  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  USBA_DM      pins ADDED TO this new net
+                                 J19.4          U24.R8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBA_DP      pins ADDED TO this new net
+                                 J19.6          U24.T8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBA_VBUS_5V_PA31 pins ADDED TO this new net
+                                 J19.25         U24.R17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBB_DM      pins ADDED TO this new net
+                                 J19.10         U24.U9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBB_DP      pins ADDED TO this new net
+                                 J19.12         U24.U8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBB_EN5V_PB10 pins ADDED TO this new net
+                                 J18.32         R267.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USBB_OVCUR_PA29 pins ADDED TO this new net
+                                 J19.27         U24.T17        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USER_PB_PB9  pins ADDED TO this new net
+                                 J18.30         R83.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this new net
+                                 R21.1          U2.29          U2.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_BAT      pins ADDED TO this new net
+                                 J18.14         R280.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDANA       pins ADDED TO this new net
+                                 C136.1         C144.1         L23.2          
+                                 R270.2         U24.K3         U24.L5         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDAUDIOPLL  pins ADDED TO this new net
+                                 C140.1         C148.1         L22.2          
+                                 U24.T3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDBU        pins ADDED TO this new net
+                                 C44.1          C46.1          C134.1         
+                                 D6.3           R128.1         R139.2         
+                                 R346.2         TP17.1         U24.N7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDB_5V      pins ADDED TO this new net
+                                 TP30.1         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  26  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VDDFUSE      pins ADDED TO this new net
+                                 C111.1         R327.1         TP15.1         
+                                 TP23.1         U24.M12        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDHSIC      pins ADDED TO this new net
+                                 C118.1         L16.2          TP16.1         
+                                 U24.R9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDIOP0      pins ADDED TO this new net
+                                 C131.1         C135.1         L9.2           
+                                 U24.E6         U24.F7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDIOP1      pins ADDED TO this new net
+                                 C103.1         C107.1         L8.2           
+                                 U24.N13        U24.R14        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDIOP2      pins ADDED TO this new net
+                                 C120.1         L7.2           U24.F10        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDISC       pins ADDED TO this new net
+                                 C138.1         L10.2          U24.F4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDOSC       pins ADDED TO this new net
+                                 C128.1         L20.2          R269.1         
+                                 TP21.1         U24.T7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDPLLA      pins ADDED TO this new net
+                                 C45.1          L12.2          R131.1         
+                                 TP8.1          U24.U4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDSDHC      pins ADDED TO this new net
+                                 C61.1          C81.1          C110.1         
+                                 R142.1         R144.1         R147.1         
+                                 R149.1         R151.1         R210.2         
+                                 R212.2         R232.1         R233.1         
+                                 R234.1         R236.1         R237.1         
+                                 R255.1         TP9.1          U11.C6         
+                                 U11.M4         U11.N4         U11.P3         
+                                 U11.P5         U24.P11        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDSDHC1V8   pins ADDED TO this new net
+                                 L3.2           R212.1         TP10.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDUTMIC     pins ADDED TO this new net
+                                 C133.1         C147.1         L18.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  27  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 TP18.1         U24.P7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDDUTMII     pins ADDED TO this new net
+                                 C125.1         L19.2          TP20.1         
+                                 U24.P8         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_1V2      pins ADDED TO this new net
+                                 C22.1          C27.1          C28.1          
+                                 C29.1          C30.1          C31.1          
+                                 C37.1          C38.1          C108.1         
+                                 C119.1         C122.1         C132.1         
+                                 C137.1         C143.1         L6.2           
+                                 L16.1          L18.1          R129.1         
+                                 TP7.1          U2.34          U24.D7         
+                                 U24.D9         U24.H3         U24.K13        
+                                 U24.N5         U24.N9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_1V35     pins ADDED TO this new net
+                                 C20.1          C23.1          C24.1          
+                                 C65.1          C66.1          C67.1          
+                                 C68.1          C70.1          C71.1          
+                                 C74.1          C76.1          C77.1          
+                                 C78.1          C80.1          C82.1          
+                                 C83.1          C84.1          C87.1          
+                                 C88.1          C89.1          C90.1          
+                                 C92.1          C93.1          C94.1          
+                                 C95.1          C96.1          C97.1          
+                                 C98.1          C101.1         C102.1         
+                                 C104.1         C105.1         C112.1         
+                                 C113.1         C114.1         C115.1         
+                                 C116.1         C117.1         C123.1         
+                                 C124.1         C126.1         C129.1         
+                                 C139.1         C141.1         C146.1         
+                                 C149.1         C150.1         C151.1         
+                                 C152.1         C153.1         C154.1         
+                                 L5.2           L14.1          R179.2         
+                                 R242.2         R254.2         TP6.1          
+                                 U2.2           U4.A1          U4.A8          
+                                 U4.B2          U4.C1          U4.C9          
+                                 U4.D2          U4.D9          U4.E9          
+                                 U4.F1          U4.G7          U4.H2          
+                                 U4.H9          U4.K2          U4.K8          
+                                 U4.N1          U4.N9          U4.R1          
+                                 U4.R9          U8.A1          U8.A8          
+                                 U8.B2          U8.C1          U8.C9          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  28  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U8.D2          U8.D9          U8.E9          
+                                 U8.F1          U8.G7          U8.H2          
+                                 U8.H9          U8.K2          U8.K8          
+                                 U8.N1          U8.N9          U8.R1          
+                                 U8.R9          U24.D11        U24.D12        
+                                 U24.D15        U24.E15        U24.H15        
+                                 U24.J15        U24.L15        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_3V3      pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C52.1          C63.1          C69.1          
+                                 C73.1          C161.1         D6.1           
+                                 J18.9          J18.10         L1.2           
+                                 L7.1           L8.1           L9.1           
+                                 L10.1          R6.1           R7.1           
+                                 R45.1          R65.1          R69.1          
+                                 R125.2         R126.2         R210.1         
+                                 R218.1         R226.1         R230.1         
+                                 R306.2         R309.2         R319.1         
+                                 R320.1         TP3.1          U2.17          
+                                 U10.8          U11.E6         U11.F5         
+                                 U11.J10        U11.K9         U15.5          
+                                 U18.8          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_3V3_LP   pins ADDED TO this new net
+                                 C17.1          R284.2         R293.1         
+                                 R300.1         R303.2         TP5.1          
+                                 U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_5V_IN    pins ADDED TO this new net
+                                 C58.1          C59.1          C60.1          
+                                 D9.1           J18.1          J18.2          
+                                 J18.3          J18.4          R18.1          
+                                 R100.1         R152.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_LED      pins ADDED TO this new net
+                                 D3.1           R330.1         TP25.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN_5V       pins ADDED TO this new net
+                                 C165.1         D9.2           U2.33          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VSYS_5V      pins ADDED TO this new net
+                                 C8.2           C163.1         C164.1         
+                                 C167.1         C176.1         D1.1           
+                                 J18.7          J18.8          R8.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  29  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R15.2          R30.2          R332.2         
+                                 R333.2         TP24.1         U2.6           
+                                 U2.16          U2.31          U2.32          
+                                 U2.35          U2.39          U2.40          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WAKE UP      pins ADDED TO this new net
+                                 J19.5          Q3.3           R14.1          
+                                 TP14.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WKUP         pins ADDED TO this new net
+                                 Q9.3           R346.1         U24.P4         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XIN32        pins ADDED TO this new net
+                                 C40.1          R103.2         U24.P1         
+                                 Y3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XIN          pins ADDED TO this new net
+                                 C48.1          R138.1         U24.U7         
+                                 Y4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XOUT32       pins ADDED TO this new net
+                                 C41.1          R103.1         U24.P2         
+                                 Y3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XOUT         pins ADDED TO this new net
+                                 C47.1          R138.2         U24.U6         
+                                 Y4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD7     pins ADDED TO this new net
+                                 J19.91         U24.J7         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD8     pins ADDED TO this new net
+                                 J19.90         U24.J1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD9     pins ADDED TO this new net
+                                 J19.89         U24.K9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD10    pins ADDED TO this new net
+                                 J19.88         U24.J3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD11    pins ADDED TO this new net
+                                 J19.87         U24.M1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XPRO_PD18    pins ADDED TO this new net
+                                 J19.76         U24.J5         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  30  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1G126_0_SOT353_5__NL17SZ126DFT2
+ 2X50PIN-1.27MM_2X50PIN-1_27MM_2
+ 32_0.768K_X4S70X15_32.768KHZ CL
+ ACT8945A_QFN40_1P4H_ACT8945AQJ4
+ AT24C08B-PU_DFN8_1P5R_AT24MAC40
+ BEAD_ FERRITE_R0603_180OHM AT 1
+ C0402_C0402_100NF
+ C0402_C0402_10PF
+ C0402_C0402_1NF
+ C0402_C0402_22PF
+ C0402_C0402_27PF
+ C0402_C0402_DNP(1NF)
+ C0603_C0603_1UF
+ C0603_C0603_2.2UF
+ C0603_C0603_DNP(1UF)
+ C0603_C0805_10UF
+ C0603_C0805_4.7UF
+ C_GENERIC_C0402_47NF_
+ EMMC_BGA153P5_MTFC4GLDEA-0M WT
+ IRLML2402_0_SOT23_123_BSS138
+ LED BLUE KPG-1608_0_LED0805_BLU
+ LED RED KPG-1608_0_LED0805_RED
+ L_10UH-150 MA_L1008_2.2UH
+ L_SMT_L0603_10UH_150MA
+ MT41K128M16JT-125_BGADDR96P8B90
+ PTH_2_MHC50D30_PTH
+ QSPI_8PIN_SOIC8JG_MX25L25673GM2
+ RB160M-60TR_SOD123_(REPLACED WI
+ R_GENERIC_0_R0402_100R 1%
+ R_GENERIC_0_R0402_2.2K
+ R_GENERIC_0_R0402_22R
+ R_GENERIC_0_R0402_DNP(0R)
+ R_GENERIC_0_R0402_DNP(2.2K)
+ R_GENERIC_R0402_0R
+ R_GENERIC_R0402_1.5M 1%_
+ R_GENERIC_R0402_100K_
+ R_GENERIC_R0402_100R 1%_
+ R_GENERIC_R0402_10K_
+ R_GENERIC_R0402_11K 1%_
+ R_GENERIC_R0402_1K_
+ R_GENERIC_R0402_2.2M 1%_
+ R_GENERIC_R0402_2.43K 1%_
+ R_GENERIC_R0402_20K 1%_
+ R_GENERIC_R0402_23.2K 1%_
+ R_GENERIC_R0402_240R 1%_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  31  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R_GENERIC_R0402_39R
+ R_GENERIC_R0402_470R_
+ R_GENERIC_R0402_47K_
+ R_GENERIC_R0402_49.9K 1%
+ R_GENERIC_R0402_5.62K 1%_
+ R_GENERIC_R0402_6.8K 1%_
+ R_GENERIC_R0402_68K_
+ R_GENERIC_R0402_DNP(0R)
+ R_GENERIC_R0402_DNP(100R 1%)_
+ R_GENERIC_R0402_DNP(10K)_
+ R_GENERIC_R0402_DNP(1K)_
+ R_GENERIC_R0402_DNP(1M)_
+ R_GENERIC_R0402_DNP(3.9K 1%)_
+ R_GENERIC_R0402_DNP(47K)_
+ R_GENERIC_R0402_DNP(8.2K 1%)_
+ R_GENERIC_R0402_DNP_
+ R_GENERIC_R0603_0R
+ R_GENERIC_R0603_1R 1%_
+ R_GENERIC_R0603_2R2_
+ R_GENERIC_R0603_DNP(0R)
+ SAMA5D27_CU_MRLC_BGA289P8_SAMA5
+ SSL-LX15D-RP/SOT23_2_SOT23_123_
+ TLV431A_SOT23_123_TLV431A
+ TP_TP30_SMD
+ TP_TP80_SMD
+ XTAL_13Y_A_X4S32X25__12MHZ CL=1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  32  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C0402_C0402_100NF     
+ C2                  C0603_C0805_10UF      
+ C3                  C0603_C0805_10UF      
+ C7                  C0402_C0402_DNP(1NF)  
+ C8                  C0402_C0402_100NF     
+ C10                 C0402_C0402_100NF     
+ C13                 C0603_C0805_4.7UF     
+ C17                 C0603_C0805_4.7UF     
+ C20                 C0603_C0805_10UF      
+ C22                 C0603_C0805_10UF      
+ C23                 C0603_C0805_10UF      
+ C24                 C0402_C0402_100NF     
+ C27                 C0603_C0805_10UF      
+ C28                 C0603_C0805_10UF      
+ C29                 C0402_C0402_100NF     
+ C30                 C0402_C0402_1NF       
+ C31                 C0402_C0402_100NF     
+ C37                 C0603_C0805_10UF      
+ C38                 C0402_C0402_100NF     
+ C40                 C0402_C0402_22PF      
+ C41                 C0402_C0402_22PF      
+ C43                 C0603_C0805_4.7UF     
+ C44                 C0603_C0603_DNP(1UF)  
+ C45                 C0402_C0402_100NF     
+ C46                 C0402_C0402_100NF     
+ C47                 C0402_C0402_27PF      
+ C48                 C0402_C0402_27PF      
+ C51                 C0402_C0402_100NF     
+ C52                 C0402_C0402_100NF     
+ C54                 C0402_C0402_100NF     
+ C55                 C0402_C0402_100NF     
+ C56                 C0603_C0805_4.7UF     
+ C58                 C0402_C0402_100NF     
+ C59                 C0603_C0805_10UF      
+ C60                 C0603_C0805_10UF      
+ C61                 C0603_C0603_2.2UF     
+ C63                 C0402_C0402_100NF     
+ C65                 C0402_C0402_100NF     
+ C66                 C0402_C0402_100NF     
+ C67                 C0402_C0402_1NF       
+ C68                 C0402_C0402_100NF     
+ C69                 C0402_C0402_100NF     
+ C70                 C0603_C0805_10UF      
+ C71                 C0603_C0805_10UF      
+ C72                 C0402_C0402_100NF     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  33  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C73                 C0603_C0603_2.2UF     
+ C74                 C0402_C0402_1NF       
+ C76                 C0402_C0402_100NF     
+ C77                 C0402_C0402_100NF     
+ C78                 C0402_C0402_100NF     
+ C79                 C0402_C0402_100NF     
+ C80                 C0402_C0402_100NF     
+ C81                 C0402_C0402_100NF     
+ C82                 C0402_C0402_1NF       
+ C83                 C0603_C0805_4.7UF     
+ C84                 C0402_C0402_1NF       
+ C85                 C0603_C0603_1UF       
+ C87                 C0402_C0402_100NF     
+ C88                 C0402_C0402_100NF     
+ C89                 C0402_C0402_100NF     
+ C90                 C0402_C0402_100NF     
+ C91                 C0402_C0402_100NF     
+ C92                 C0402_C0402_100NF     
+ C93                 C0402_C0402_100NF     
+ C94                 C0402_C0402_100NF     
+ C95                 C0402_C0402_100NF     
+ C96                 C0402_C0402_100NF     
+ C97                 C0402_C0402_1NF       
+ C98                 C0603_C0603_2.2UF     
+ C99                 C0402_C0402_100NF     
+ C100                C0402_C0402_100NF     
+ C101                C0402_C0402_100NF     
+ C102                C0402_C0402_100NF     
+ C103                C0402_C0402_100NF     
+ C104                C0402_C0402_100NF     
+ C105                C0402_C0402_1NF       
+ C106                C0402_C0402_22PF      
+ C107                C0402_C0402_100NF     
+ C108                C0402_C0402_100NF     
+ C109                C0402_C0402_22PF      
+ C110                C0402_C0402_100NF     
+ C111                C0402_C0402_100NF     
+ C112                C0402_C0402_100NF     
+ C113                C0402_C0402_100NF     
+ C114                C0402_C0402_100NF     
+ C115                C0402_C0402_100NF     
+ C116                C0402_C0402_100NF     
+ C117                C0402_C0402_100NF     
+ C118                C0402_C0402_100NF     
+ C119                C0402_C0402_100NF     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  34  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C120                C0402_C0402_100NF     
+ C121                C0402_C0402_100NF     
+ C122                C0402_C0402_1NF       
+ C123                C0402_C0402_100NF     
+ C124                C0603_C0603_2.2UF     
+ C125                C0402_C0402_100NF     
+ C126                C0402_C0402_100NF     
+ C127                C0402_C0402_10PF      
+ C128                C0402_C0402_100NF     
+ C129                C0402_C0402_100NF     
+ C130                C0402_C0402_100NF     
+ C131                C0402_C0402_100NF     
+ C132                C0402_C0402_100NF     
+ C133                C0402_C0402_100NF     
+ C134                C0402_C0402_100NF     
+ C135                C0402_C0402_100NF     
+ C136                C0402_C0402_100NF     
+ C137                C0402_C0402_1NF       
+ C138                C0402_C0402_100NF     
+ C139                C0402_C0402_100NF     
+ C140                C0402_C0402_100NF     
+ C141                C0402_C0402_1NF       
+ C142                C0603_C0805_4.7UF     
+ C143                C0402_C0402_100NF     
+ C144                C0402_C0402_100NF     
+ C145                C0402_C0402_100NF     
+ C146                C0402_C0402_100NF     
+ C147                C0603_C0805_4.7UF     
+ C148                C0603_C0805_4.7UF     
+ C149                C0402_C0402_100NF     
+ C150                C0402_C0402_100NF     
+ C151                C0402_C0402_100NF     
+ C152                C0603_C0603_2.2UF     
+ C153                C0402_C0402_100NF     
+ C154                C0603_C0603_2.2UF     
+ C161                C0402_C0402_100NF     
+ C163                C0603_C0805_10UF      
+ C164                C0603_C0805_10UF      
+ C165                C0603_C0805_4.7UF     
+ C166                C_GENERIC_C0402_47NF_ 
+ C167                C0402_C0402_100NF     
+ C169                C0603_C0805_4.7UF     
+ C173                C0603_C0805_4.7UF     
+ C176                C0603_C0805_10UF      
+ D1                  LED RED KPG-1608_0_LED0805_RED 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  35  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D3                  LED BLUE KPG-1608_0_LED0805_BLU 
+ D6                  SSL-LX15D-RP/SOT23_2_SOT23_123_ 
+ D9                  RB160M-60TR_SOD123_(REPLACED WI 
+ J18                 2X50PIN-1.27MM_2X50PIN-1_27MM_2 
+ J19                 2X50PIN-1.27MM_2X50PIN-1_27MM_2 
+ L1                  L_10UH-150 MA_L1008_2.2UH 
+ L3                  BEAD_ FERRITE_R0603_180OHM AT 1 
+ L5                  L_10UH-150 MA_L1008_2.2UH 
+ L6                  L_10UH-150 MA_L1008_2.2UH 
+ L7                  BEAD_ FERRITE_R0603_180OHM AT 1 
+ L8                  BEAD_ FERRITE_R0603_180OHM AT 1 
+ L9                  BEAD_ FERRITE_R0603_180OHM AT 1 
+ L10                 BEAD_ FERRITE_R0603_180OHM AT 1 
+ L12                 L_SMT_L0603_10UH_150MA 
+ L14                 L_SMT_L0603_10UH_150MA 
+ L16                 BEAD_ FERRITE_R0603_180OHM AT 1 
+ L18                 BEAD_ FERRITE_R0603_180OHM AT 1 
+ L19                 BEAD_ FERRITE_R0603_180OHM AT 1 
+ L20                 L_SMT_L0603_10UH_150MA 
+ L22                 L_SMT_L0603_10UH_150MA 
+ L23                 BEAD_ FERRITE_R0603_180OHM AT 1 
+ MH1                 PTH_2_MHC50D30_PTH    
+ MH2                 PTH_2_MHC50D30_PTH    
+ Q1                  IRLML2402_0_SOT23_123_BSS138 
+ Q2                  IRLML2402_0_SOT23_123_BSS138 
+ Q3                  IRLML2402_0_SOT23_123_BSS138 
+ Q6                  IRLML2402_0_SOT23_123_BSS138 
+ Q8                  IRLML2402_0_SOT23_123_BSS138 
+ Q9                  IRLML2402_0_SOT23_123_BSS138 
+ R6                  R_GENERIC_R0402_10K_  
+ R7                  R_GENERIC_R0402_10K_  
+ R8                  R_GENERIC_R0402_68K_  
+ R9                  R_GENERIC_R0402_1K_   
+ R12                 R_GENERIC_R0402_100K_ 
+ R13                 R_GENERIC_R0402_49.9K 1% 
+ R14                 R_GENERIC_R0402_49.9K 1% 
+ R15                 R_GENERIC_R0402_100K_ 
+ R16                 R_GENERIC_R0402_100R 1%_ 
+ R17                 R_GENERIC_R0402_100R 1%_ 
+ R18                 R_GENERIC_R0402_11K 1%_ 
+ R19                 R_GENERIC_R0402_0R    
+ R20                 R_GENERIC_R0402_100R 1%_ 
+ R21                 R_GENERIC_R0402_2.2M 1%_ 
+ R22                 R_GENERIC_R0402_1.5M 1%_ 
+ R24                 R_GENERIC_R0402_DNP(3.9K 1%)_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  36  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R26                 R_GENERIC_R0402_DNP(8.2K 1%)_ 
+ R27                 R_GENERIC_R0402_2.43K 1%_ 
+ R30                 R_GENERIC_R0402_0R    
+ R41                 R_GENERIC_R0402_DNP(0R) 
+ R44                 R_GENERIC_0_R0402_100R 1% 
+ R45                 R_GENERIC_R0402_1K_   
+ R47                 R_GENERIC_0_R0402_22R 
+ R48                 R_GENERIC_R0402_10K_  
+ R49                 R_GENERIC_R0402_39R   
+ R60                 R_GENERIC_R0402_10K_  
+ R61                 R_GENERIC_0_R0402_22R 
+ R63                 R_GENERIC_R0402_470R_ 
+ R65                 R_GENERIC_R0402_10K_  
+ R66                 R_GENERIC_R0402_10K_  
+ R69                 R_GENERIC_R0402_1K_   
+ R72                 R_GENERIC_0_R0402_22R 
+ R73                 R_GENERIC_0_R0402_22R 
+ R83                 R_GENERIC_0_R0402_22R 
+ R84                 R_GENERIC_0_R0402_22R 
+ R85                 R_GENERIC_0_R0402_22R 
+ R86                 R_GENERIC_0_R0402_22R 
+ R87                 R_GENERIC_0_R0402_22R 
+ R88                 R_GENERIC_0_R0402_22R 
+ R89                 R_GENERIC_0_R0402_22R 
+ R90                 R_GENERIC_0_R0402_22R 
+ R91                 R_GENERIC_R0402_100R 1%_ 
+ R94                 R_GENERIC_R0402_100R 1%_ 
+ R96                 R_GENERIC_0_R0402_DNP(0R) 
+ R97                 R_GENERIC_0_R0402_22R 
+ R100                R_GENERIC_R0402_10K_  
+ R101                R_GENERIC_0_R0402_22R 
+ R102                R_GENERIC_0_R0402_22R 
+ R103                R_GENERIC_R0402_DNP(1M)_ 
+ R105                R_GENERIC_R0402_47K_  
+ R107                R_GENERIC_0_R0402_22R 
+ R108                R_GENERIC_0_R0402_22R 
+ R109                R_GENERIC_0_R0402_22R 
+ R115                R_GENERIC_0_R0402_22R 
+ R117                R_GENERIC_R0402_100R 1%_ 
+ R119                R_GENERIC_R0402_100R 1%_ 
+ R121                R_GENERIC_0_R0402_DNP(0R) 
+ R123                R_GENERIC_R0402_100R 1%_ 
+ R124                R_GENERIC_R0402_240R 1%_ 
+ R125                R_GENERIC_0_R0402_2.2K 
+ R126                R_GENERIC_0_R0402_2.2K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  37  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R127                R_GENERIC_R0402_10K_  
+ R128                R_GENERIC_R0402_DNP(10K)_ 
+ R129                R_GENERIC_R0603_2R2_  
+ R131                R_GENERIC_R0603_1R 1%_ 
+ R138                R_GENERIC_R0402_DNP(1M)_ 
+ R139                R_GENERIC_0_R0402_DNP(2.2K) 
+ R140                R_GENERIC_R0402_39R   
+ R142                R_GENERIC_R0402_47K_  
+ R143                R_GENERIC_0_R0402_22R 
+ R144                R_GENERIC_R0402_47K_  
+ R145                R_GENERIC_0_R0402_22R 
+ R146                R_GENERIC_R0402_100R 1%_ 
+ R147                R_GENERIC_R0402_47K_  
+ R149                R_GENERIC_R0402_47K_  
+ R151                R_GENERIC_R0402_47K_  
+ R152                R_GENERIC_R0402_1K_   
+ R153                R_GENERIC_R0402_DNP(100R 1%)_ 
+ R154                R_GENERIC_0_R0402_22R 
+ R155                R_GENERIC_R0402_0R    
+ R157                R_GENERIC_0_R0402_22R 
+ R158                R_GENERIC_R0402_DNP(0R) 
+ R159                R_GENERIC_0_R0402_22R 
+ R163                R_GENERIC_R0402_39R   
+ R164                R_GENERIC_0_R0402_22R 
+ R165                R_GENERIC_R0402_39R   
+ R167                R_GENERIC_0_R0402_22R 
+ R168                R_GENERIC_0_R0402_22R 
+ R169                R_GENERIC_0_R0402_22R 
+ R172                R_GENERIC_0_R0402_22R 
+ R173                R_GENERIC_0_R0402_22R 
+ R174                R_GENERIC_0_R0402_22R 
+ R175                R_GENERIC_0_R0402_22R 
+ R178                R_GENERIC_R0402_0R    
+ R179                R_GENERIC_R0402_DNP(1K)_ 
+ R180                R_GENERIC_R0402_6.8K 1%_ 
+ R181                R_GENERIC_R0402_6.8K 1%_ 
+ R182                R_GENERIC_R0603_1R 1%_ 
+ R195                R_GENERIC_R0402_DNP_  
+ R210                R_GENERIC_R0603_DNP(0R) 
+ R212                R_GENERIC_R0603_DNP(0R) 
+ R218                R_GENERIC_R0402_10K_  
+ R226                R_GENERIC_R0402_10K_  
+ R227                R_GENERIC_R0402_100R 1%_ 
+ R230                R_GENERIC_R0402_10K_  
+ R232                R_GENERIC_R0402_47K_  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  38  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R233                R_GENERIC_R0402_47K_  
+ R234                R_GENERIC_R0402_47K_  
+ R235                R_GENERIC_R0402_DNP(47K)_ 
+ R236                R_GENERIC_R0402_47K_  
+ R237                R_GENERIC_R0402_47K_  
+ R238                R_GENERIC_R0402_240R 1%_ 
+ R242                R_GENERIC_R0402_100K_ 
+ R243                R_GENERIC_R0402_100K_ 
+ R250                R_GENERIC_R0402_23.2K 1%_ 
+ R254                R_GENERIC_R0402_DNP(1K)_ 
+ R255                R_GENERIC_R0402_DNP(47K)_ 
+ R256                R_GENERIC_R0402_20K 1%_ 
+ R258                R_GENERIC_R0402_0R    
+ R263                R_GENERIC_R0402_5.62K 1%_ 
+ R264                R_GENERIC_R0603_0R    
+ R267                R_GENERIC_0_R0402_22R 
+ R269                R_GENERIC_R0603_1R 1%_ 
+ R270                R_GENERIC_R0402_0R    
+ R272                R_GENERIC_R0402_10K_  
+ R274                R_GENERIC_0_R0402_22R 
+ R278                R_GENERIC_R0402_39R   
+ R279                R_GENERIC_R0402_39R   
+ R280                R_GENERIC_R0402_100R 1%_ 
+ R281                R_GENERIC_R0402_0R    
+ R282                R_GENERIC_R0402_39R   
+ R284                R_GENERIC_R0603_0R    
+ R285                R_GENERIC_R0402_39R   
+ R288                R_GENERIC_0_R0402_22R 
+ R289                R_GENERIC_0_R0402_22R 
+ R291                R_GENERIC_0_R0402_22R 
+ R293                R_GENERIC_R0603_2R2_  
+ R296                R_GENERIC_0_R0402_22R 
+ R297                R_GENERIC_0_R0402_22R 
+ R300                R_GENERIC_R0603_2R2_  
+ R303                R_GENERIC_R0603_0R    
+ R304                R_GENERIC_0_R0402_22R 
+ R306                R_GENERIC_0_R0402_2.2K 
+ R307                R_GENERIC_0_R0402_22R 
+ R308                R_GENERIC_0_R0402_22R 
+ R309                R_GENERIC_0_R0402_2.2K 
+ R316                R_GENERIC_R0402_0R    
+ R319                R_GENERIC_R0402_10K_  
+ R320                R_GENERIC_R0402_DNP(10K)_ 
+ R327                R_GENERIC_R0603_0R    
+ R330                R_GENERIC_R0603_0R    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  39  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R332                R_GENERIC_R0402_100K_ 
+ R333                R_GENERIC_R0402_100K_ 
+ R346                R_GENERIC_R0402_100K_ 
+ TP3                 TP_TP30_SMD           
+ TP5                 TP_TP30_SMD           
+ TP6                 TP_TP30_SMD           
+ TP7                 TP_TP30_SMD           
+ TP8                 TP_TP30_SMD           
+ TP9                 TP_TP30_SMD           
+ TP10                TP_TP30_SMD           
+ TP11                TP_TP80_SMD           
+ TP13                TP_TP30_SMD           
+ TP14                TP_TP80_SMD           
+ TP15                TP_TP30_SMD           
+ TP16                TP_TP30_SMD           
+ TP17                TP_TP30_SMD           
+ TP18                TP_TP30_SMD           
+ TP19                TP_TP30_SMD           
+ TP20                TP_TP30_SMD           
+ TP21                TP_TP30_SMD           
+ TP23                TP_TP30_SMD           
+ TP24                TP_TP30_SMD           
+ TP25                TP_TP30_SMD           
+ TP26                TP_TP30_SMD           
+ TP30                TP_TP30_SMD           
+ U2                  ACT8945A_QFN40_1P4H_ACT8945AQJ4 
+ U4                  MT41K128M16JT-125_BGADDR96P8B90 
+ U7                  TLV431A_SOT23_123_TLV431A 
+ U8                  MT41K128M16JT-125_BGADDR96P8B90 
+ U10                 QSPI_8PIN_SOIC8JG_MX25L25673GM2 
+ U11                 EMMC_BGA153P5_MTFC4GLDEA-0M WT 
+ U15                 1G126_0_SOT353_5__NL17SZ126DFT2 
+ U18                 AT24C08B-PU_DFN8_1P5R_AT24MAC40 
+ U24                 SAMA5D27_CU_MRLC_BGA289P8_SAMA5 
+ Y3                  32_0.768K_X4S70X15_32.768KHZ CL 
+ Y4                  XTAL_13Y_A_X4S32X25__12MHZ CL=1 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  40  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C37.2                          PRIM_FILE      .\pstchip.dat
+ C38.2                          PRIM_FILE      .\pstchip.dat
+ C40.2                          PRIM_FILE      .\pstchip.dat
+ C41.2                          PRIM_FILE      .\pstchip.dat
+ C43.2                          PRIM_FILE      .\pstchip.dat
+ C44.2                          PRIM_FILE      .\pstchip.dat
+ C45.2                          PRIM_FILE      .\pstchip.dat
+ C46.2                          PRIM_FILE      .\pstchip.dat
+ C47.2                          PRIM_FILE      .\pstchip.dat
+ C48.2                          PRIM_FILE      .\pstchip.dat
+ C51.2                          PRIM_FILE      .\pstchip.dat
+ C52.2                          PRIM_FILE      .\pstchip.dat
+ C54.2                          PRIM_FILE      .\pstchip.dat
+ C55.2                          PRIM_FILE      .\pstchip.dat
+ C56.2                          PRIM_FILE      .\pstchip.dat
+ C58.2                          PRIM_FILE      .\pstchip.dat
+ C59.2                          PRIM_FILE      .\pstchip.dat
+ C60.2                          PRIM_FILE      .\pstchip.dat
+ C61.2                          PRIM_FILE      .\pstchip.dat
+ C63.2                          PRIM_FILE      .\pstchip.dat
+ C65.2                          PRIM_FILE      .\pstchip.dat
+ C66.2                          PRIM_FILE      .\pstchip.dat
+ C67.2                          PRIM_FILE      .\pstchip.dat
+ C68.2                          PRIM_FILE      .\pstchip.dat
+ C69.2                          PRIM_FILE      .\pstchip.dat
+ C70.2                          PRIM_FILE      .\pstchip.dat
+ C71.2                          PRIM_FILE      .\pstchip.dat
+ C72.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  41  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C73.2                          PRIM_FILE      .\pstchip.dat
+ C74.2                          PRIM_FILE      .\pstchip.dat
+ C76.2                          PRIM_FILE      .\pstchip.dat
+ C77.2                          PRIM_FILE      .\pstchip.dat
+ C78.2                          PRIM_FILE      .\pstchip.dat
+ C79.2                          PRIM_FILE      .\pstchip.dat
+ C80.2                          PRIM_FILE      .\pstchip.dat
+ C81.2                          PRIM_FILE      .\pstchip.dat
+ C82.2                          PRIM_FILE      .\pstchip.dat
+ C83.2                          PRIM_FILE      .\pstchip.dat
+ C84.2                          PRIM_FILE      .\pstchip.dat
+ C85.2                          PRIM_FILE      .\pstchip.dat
+ C87.2                          PRIM_FILE      .\pstchip.dat
+ C88.2                          PRIM_FILE      .\pstchip.dat
+ C89.2                          PRIM_FILE      .\pstchip.dat
+ C90.2                          PRIM_FILE      .\pstchip.dat
+ C91.2                          PRIM_FILE      .\pstchip.dat
+ C92.2                          PRIM_FILE      .\pstchip.dat
+ C93.2                          PRIM_FILE      .\pstchip.dat
+ C94.2                          PRIM_FILE      .\pstchip.dat
+ C95.2                          PRIM_FILE      .\pstchip.dat
+ C96.2                          PRIM_FILE      .\pstchip.dat
+ C97.2                          PRIM_FILE      .\pstchip.dat
+ C98.2                          PRIM_FILE      .\pstchip.dat
+ C99.2                          PRIM_FILE      .\pstchip.dat
+ C100.2                         PRIM_FILE      .\pstchip.dat
+ C101.2                         PRIM_FILE      .\pstchip.dat
+ C102.2                         PRIM_FILE      .\pstchip.dat
+ C103.2                         PRIM_FILE      .\pstchip.dat
+ C104.2                         PRIM_FILE      .\pstchip.dat
+ C105.2                         PRIM_FILE      .\pstchip.dat
+ C106.2                         PRIM_FILE      .\pstchip.dat
+ C107.2                         PRIM_FILE      .\pstchip.dat
+ C108.2                         PRIM_FILE      .\pstchip.dat
+ C109.2                         PRIM_FILE      .\pstchip.dat
+ C110.2                         PRIM_FILE      .\pstchip.dat
+ C111.2                         PRIM_FILE      .\pstchip.dat
+ C112.2                         PRIM_FILE      .\pstchip.dat
+ C113.2                         PRIM_FILE      .\pstchip.dat
+ C114.2                         PRIM_FILE      .\pstchip.dat
+ C115.2                         PRIM_FILE      .\pstchip.dat
+ C116.2                         PRIM_FILE      .\pstchip.dat
+ C117.2                         PRIM_FILE      .\pstchip.dat
+ C118.2                         PRIM_FILE      .\pstchip.dat
+ C119.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  42  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C120.2                         PRIM_FILE      .\pstchip.dat
+ C121.2                         PRIM_FILE      .\pstchip.dat
+ C122.2                         PRIM_FILE      .\pstchip.dat
+ C123.2                         PRIM_FILE      .\pstchip.dat
+ C124.2                         PRIM_FILE      .\pstchip.dat
+ C125.2                         PRIM_FILE      .\pstchip.dat
+ C126.2                         PRIM_FILE      .\pstchip.dat
+ C127.2                         PRIM_FILE      .\pstchip.dat
+ C128.2                         PRIM_FILE      .\pstchip.dat
+ C129.2                         PRIM_FILE      .\pstchip.dat
+ C130.2                         PRIM_FILE      .\pstchip.dat
+ C131.2                         PRIM_FILE      .\pstchip.dat
+ C132.2                         PRIM_FILE      .\pstchip.dat
+ C133.2                         PRIM_FILE      .\pstchip.dat
+ C134.2                         PRIM_FILE      .\pstchip.dat
+ C135.2                         PRIM_FILE      .\pstchip.dat
+ C136.2                         PRIM_FILE      .\pstchip.dat
+ C137.2                         PRIM_FILE      .\pstchip.dat
+ C138.2                         PRIM_FILE      .\pstchip.dat
+ C139.2                         PRIM_FILE      .\pstchip.dat
+ C140.2                         PRIM_FILE      .\pstchip.dat
+ C141.2                         PRIM_FILE      .\pstchip.dat
+ C142.2                         PRIM_FILE      .\pstchip.dat
+ C143.2                         PRIM_FILE      .\pstchip.dat
+ C144.2                         PRIM_FILE      .\pstchip.dat
+ C145.2                         PRIM_FILE      .\pstchip.dat
+ C146.2                         PRIM_FILE      .\pstchip.dat
+ C147.2                         PRIM_FILE      .\pstchip.dat
+ C148.2                         PRIM_FILE      .\pstchip.dat
+ C149.2                         PRIM_FILE      .\pstchip.dat
+ C150.2                         PRIM_FILE      .\pstchip.dat
+ C151.2                         PRIM_FILE      .\pstchip.dat
+ C152.2                         PRIM_FILE      .\pstchip.dat
+ C153.2                         PRIM_FILE      .\pstchip.dat
+ C154.2                         PRIM_FILE      .\pstchip.dat
+ C161.2                         PRIM_FILE      .\pstchip.dat
+ C163.2                         PRIM_FILE      .\pstchip.dat
+ C164.2                         PRIM_FILE      .\pstchip.dat
+ C165.2                         PRIM_FILE      .\pstchip.dat
+ C166.2                         PRIM_FILE      .\pstchip.dat
+ C167.2                         PRIM_FILE      .\pstchip.dat
+ C169.2                         PRIM_FILE      .\pstchip.dat
+ C173.2                         PRIM_FILE      .\pstchip.dat
+ C176.2                         PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  43  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ D6.3                           PRIM_FILE      .\pstchip.dat
+ D9.2                           PRIM_FILE      .\pstchip.dat
+ J18.99                         PRIM_FILE      .\pstchip.dat
+ J19.99                         PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ L5.2                           PRIM_FILE      .\pstchip.dat
+ L6.2                           PRIM_FILE      .\pstchip.dat
+ L7.2                           PRIM_FILE      .\pstchip.dat
+ L8.2                           PRIM_FILE      .\pstchip.dat
+ L9.2                           PRIM_FILE      .\pstchip.dat
+ L10.2                          PRIM_FILE      .\pstchip.dat
+ L12.2                          PRIM_FILE      .\pstchip.dat
+ L14.2                          PRIM_FILE      .\pstchip.dat
+ L16.2                          PRIM_FILE      .\pstchip.dat
+ L18.2                          PRIM_FILE      .\pstchip.dat
+ L19.2                          PRIM_FILE      .\pstchip.dat
+ L20.2                          PRIM_FILE      .\pstchip.dat
+ L22.2                          PRIM_FILE      .\pstchip.dat
+ L23.2                          PRIM_FILE      .\pstchip.dat
+ MH1.1                          PRIM_FILE      .\pstchip.dat
+ MH2.1                          PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ Q6.2                           PRIM_FILE      .\pstchip.dat
+ Q8.2                           PRIM_FILE      .\pstchip.dat
+ Q9.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  44  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R41.2                          PRIM_FILE      .\pstchip.dat
+ R44.2                          PRIM_FILE      .\pstchip.dat
+ R45.2                          PRIM_FILE      .\pstchip.dat
+ R47.2                          PRIM_FILE      .\pstchip.dat
+ R48.2                          PRIM_FILE      .\pstchip.dat
+ R49.2                          PRIM_FILE      .\pstchip.dat
+ R60.2                          PRIM_FILE      .\pstchip.dat
+ R61.2                          PRIM_FILE      .\pstchip.dat
+ R63.2                          PRIM_FILE      .\pstchip.dat
+ R65.2                          PRIM_FILE      .\pstchip.dat
+ R66.2                          PRIM_FILE      .\pstchip.dat
+ R69.2                          PRIM_FILE      .\pstchip.dat
+ R72.2                          PRIM_FILE      .\pstchip.dat
+ R73.2                          PRIM_FILE      .\pstchip.dat
+ R83.2                          PRIM_FILE      .\pstchip.dat
+ R84.2                          PRIM_FILE      .\pstchip.dat
+ R85.2                          PRIM_FILE      .\pstchip.dat
+ R86.2                          PRIM_FILE      .\pstchip.dat
+ R87.2                          PRIM_FILE      .\pstchip.dat
+ R88.2                          PRIM_FILE      .\pstchip.dat
+ R89.2                          PRIM_FILE      .\pstchip.dat
+ R90.2                          PRIM_FILE      .\pstchip.dat
+ R91.2                          PRIM_FILE      .\pstchip.dat
+ R94.2                          PRIM_FILE      .\pstchip.dat
+ R96.2                          PRIM_FILE      .\pstchip.dat
+ R97.2                          PRIM_FILE      .\pstchip.dat
+ R100.2                         PRIM_FILE      .\pstchip.dat
+ R101.2                         PRIM_FILE      .\pstchip.dat
+ R102.2                         PRIM_FILE      .\pstchip.dat
+ R103.2                         PRIM_FILE      .\pstchip.dat
+ R105.2                         PRIM_FILE      .\pstchip.dat
+ R107.2                         PRIM_FILE      .\pstchip.dat
+ R108.2                         PRIM_FILE      .\pstchip.dat
+ R109.2                         PRIM_FILE      .\pstchip.dat
+ R115.2                         PRIM_FILE      .\pstchip.dat
+ R117.2                         PRIM_FILE      .\pstchip.dat
+ R119.2                         PRIM_FILE      .\pstchip.dat
+ R121.2                         PRIM_FILE      .\pstchip.dat
+ R123.2                         PRIM_FILE      .\pstchip.dat
+ R124.2                         PRIM_FILE      .\pstchip.dat
+ R125.2                         PRIM_FILE      .\pstchip.dat
+ R126.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  45  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R127.2                         PRIM_FILE      .\pstchip.dat
+ R128.2                         PRIM_FILE      .\pstchip.dat
+ R129.2                         PRIM_FILE      .\pstchip.dat
+ R131.2                         PRIM_FILE      .\pstchip.dat
+ R138.2                         PRIM_FILE      .\pstchip.dat
+ R139.2                         PRIM_FILE      .\pstchip.dat
+ R140.2                         PRIM_FILE      .\pstchip.dat
+ R142.2                         PRIM_FILE      .\pstchip.dat
+ R143.2                         PRIM_FILE      .\pstchip.dat
+ R144.2                         PRIM_FILE      .\pstchip.dat
+ R145.2                         PRIM_FILE      .\pstchip.dat
+ R146.2                         PRIM_FILE      .\pstchip.dat
+ R147.2                         PRIM_FILE      .\pstchip.dat
+ R149.2                         PRIM_FILE      .\pstchip.dat
+ R151.2                         PRIM_FILE      .\pstchip.dat
+ R152.2                         PRIM_FILE      .\pstchip.dat
+ R153.2                         PRIM_FILE      .\pstchip.dat
+ R154.2                         PRIM_FILE      .\pstchip.dat
+ R155.2                         PRIM_FILE      .\pstchip.dat
+ R157.2                         PRIM_FILE      .\pstchip.dat
+ R158.2                         PRIM_FILE      .\pstchip.dat
+ R159.2                         PRIM_FILE      .\pstchip.dat
+ R163.2                         PRIM_FILE      .\pstchip.dat
+ R164.2                         PRIM_FILE      .\pstchip.dat
+ R165.2                         PRIM_FILE      .\pstchip.dat
+ R167.2                         PRIM_FILE      .\pstchip.dat
+ R168.2                         PRIM_FILE      .\pstchip.dat
+ R169.2                         PRIM_FILE      .\pstchip.dat
+ R172.2                         PRIM_FILE      .\pstchip.dat
+ R173.2                         PRIM_FILE      .\pstchip.dat
+ R174.2                         PRIM_FILE      .\pstchip.dat
+ R175.2                         PRIM_FILE      .\pstchip.dat
+ R178.2                         PRIM_FILE      .\pstchip.dat
+ R179.2                         PRIM_FILE      .\pstchip.dat
+ R180.2                         PRIM_FILE      .\pstchip.dat
+ R181.2                         PRIM_FILE      .\pstchip.dat
+ R182.2                         PRIM_FILE      .\pstchip.dat
+ R195.2                         PRIM_FILE      .\pstchip.dat
+ R210.2                         PRIM_FILE      .\pstchip.dat
+ R212.2                         PRIM_FILE      .\pstchip.dat
+ R218.2                         PRIM_FILE      .\pstchip.dat
+ R226.2                         PRIM_FILE      .\pstchip.dat
+ R227.2                         PRIM_FILE      .\pstchip.dat
+ R230.2                         PRIM_FILE      .\pstchip.dat
+ R232.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  46  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R233.2                         PRIM_FILE      .\pstchip.dat
+ R234.2                         PRIM_FILE      .\pstchip.dat
+ R235.2                         PRIM_FILE      .\pstchip.dat
+ R236.2                         PRIM_FILE      .\pstchip.dat
+ R237.2                         PRIM_FILE      .\pstchip.dat
+ R238.2                         PRIM_FILE      .\pstchip.dat
+ R242.2                         PRIM_FILE      .\pstchip.dat
+ R243.2                         PRIM_FILE      .\pstchip.dat
+ R250.2                         PRIM_FILE      .\pstchip.dat
+ R254.2                         PRIM_FILE      .\pstchip.dat
+ R255.2                         PRIM_FILE      .\pstchip.dat
+ R256.2                         PRIM_FILE      .\pstchip.dat
+ R258.2                         PRIM_FILE      .\pstchip.dat
+ R263.2                         PRIM_FILE      .\pstchip.dat
+ R264.2                         PRIM_FILE      .\pstchip.dat
+ R267.2                         PRIM_FILE      .\pstchip.dat
+ R269.2                         PRIM_FILE      .\pstchip.dat
+ R270.2                         PRIM_FILE      .\pstchip.dat
+ R272.2                         PRIM_FILE      .\pstchip.dat
+ R274.2                         PRIM_FILE      .\pstchip.dat
+ R278.2                         PRIM_FILE      .\pstchip.dat
+ R279.2                         PRIM_FILE      .\pstchip.dat
+ R280.2                         PRIM_FILE      .\pstchip.dat
+ R281.2                         PRIM_FILE      .\pstchip.dat
+ R282.2                         PRIM_FILE      .\pstchip.dat
+ R284.2                         PRIM_FILE      .\pstchip.dat
+ R285.2                         PRIM_FILE      .\pstchip.dat
+ R288.2                         PRIM_FILE      .\pstchip.dat
+ R289.2                         PRIM_FILE      .\pstchip.dat
+ R291.2                         PRIM_FILE      .\pstchip.dat
+ R293.2                         PRIM_FILE      .\pstchip.dat
+ R296.2                         PRIM_FILE      .\pstchip.dat
+ R297.2                         PRIM_FILE      .\pstchip.dat
+ R300.2                         PRIM_FILE      .\pstchip.dat
+ R303.2                         PRIM_FILE      .\pstchip.dat
+ R304.2                         PRIM_FILE      .\pstchip.dat
+ R306.2                         PRIM_FILE      .\pstchip.dat
+ R307.2                         PRIM_FILE      .\pstchip.dat
+ R308.2                         PRIM_FILE      .\pstchip.dat
+ R309.2                         PRIM_FILE      .\pstchip.dat
+ R316.2                         PRIM_FILE      .\pstchip.dat
+ R319.2                         PRIM_FILE      .\pstchip.dat
+ R320.2                         PRIM_FILE      .\pstchip.dat
+ R327.2                         PRIM_FILE      .\pstchip.dat
+ R330.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  47  |
+|------------------------------------------------------------------------------|
+|  G:.../ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd        |
+|                                                    Wed Oct 31 15:03:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R332.2                         PRIM_FILE      .\pstchip.dat
+ R333.2                         PRIM_FILE      .\pstchip.dat
+ R346.2                         PRIM_FILE      .\pstchip.dat
+ TP3.1                          PRIM_FILE      .\pstchip.dat
+ TP5.1                          PRIM_FILE      .\pstchip.dat
+ TP6.1                          PRIM_FILE      .\pstchip.dat
+ TP7.1                          PRIM_FILE      .\pstchip.dat
+ TP8.1                          PRIM_FILE      .\pstchip.dat
+ TP9.1                          PRIM_FILE      .\pstchip.dat
+ TP10.1                         PRIM_FILE      .\pstchip.dat
+ TP11.1                         PRIM_FILE      .\pstchip.dat
+ TP13.1                         PRIM_FILE      .\pstchip.dat
+ TP14.1                         PRIM_FILE      .\pstchip.dat
+ TP15.1                         PRIM_FILE      .\pstchip.dat
+ TP16.1                         PRIM_FILE      .\pstchip.dat
+ TP17.1                         PRIM_FILE      .\pstchip.dat
+ TP18.1                         PRIM_FILE      .\pstchip.dat
+ TP19.1                         PRIM_FILE      .\pstchip.dat
+ TP20.1                         PRIM_FILE      .\pstchip.dat
+ TP21.1                         PRIM_FILE      .\pstchip.dat
+ TP23.1                         PRIM_FILE      .\pstchip.dat
+ TP24.1                         PRIM_FILE      .\pstchip.dat
+ TP25.1                         PRIM_FILE      .\pstchip.dat
+ TP26.1                         PRIM_FILE      .\pstchip.dat
+ TP30.1                         PRIM_FILE      .\pstchip.dat
+ U2.32                          PRIM_FILE      .\pstchip.dat
+ U4.L8                          PRIM_FILE      .\pstchip.dat
+ U7.1                           PRIM_FILE      .\pstchip.dat
+ U8.L8                          PRIM_FILE      .\pstchip.dat
+ U10.8                          PRIM_FILE      .\pstchip.dat
+ U11.C4                         PRIM_FILE      .\pstchip.dat
+ U15.4                          PRIM_FILE      .\pstchip.dat
+ U18.7                          PRIM_FILE      .\pstchip.dat
+ U24.C1                         PRIM_FILE      .\pstchip.dat
+ U24.D8                         PRIM_FILE      .\pstchip.dat
+ U24.F15                        PRIM_FILE      .\pstchip.dat
+ U24.M7                         PRIM_FILE      .\pstchip.dat
+ U24.P2                         PRIM_FILE      .\pstchip.dat
+ U24.P8                         PRIM_FILE      .\pstchip.dat
+ U24.R17                        PRIM_FILE      .\pstchip.dat
+ Y3.4                           PRIM_FILE      .\pstchip.dat
+ Y4.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  2204                                           |
+|------------------------------------------------------------------------------|

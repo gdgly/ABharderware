@@ -1,0 +1,4 @@
+Added Component: Designator=J3(JXL12864G-1504)
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=DGND Pin=J3-2
+Added Member To Class: ClassName=ÃÔÄãËæ³µ³äÒº¾§ÏÔÊ¾°å Member=Component J3 CON2

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=DP3V3 Pin=C35-1
+Removed Pin From Net: NetName=DGND Pin=C35-2
+Removed Pin From Net: NetName=V1P Pin=C60-1
+Removed Pin From Net: NetName=DGND Pin=C60-2
+Removed Pin From Net: NetName=V3P Pin=C62-1
+Removed Pin From Net: NetName=DGND Pin=C62-2
+Removed Pin From Net: NetName=V3N Pin=C64-1
+Removed Pin From Net: NetName=DGND Pin=C64-2
+Removed Pin From Net: NetName=SWCLK Pin=R2-1
+Removed Pin From Net: NetName=DP3V3 Pin=R2-2
+Removed Pin From Net: NetName=NetC50_1 Pin=R27-1
+Removed Pin From Net: NetName=ASS_+15V Pin=R27-2
+Added Component: Designator=C35(0603C)
+Added Component: Designator=C60(0603C)
+Added Component: Designator=C62(0603C)
+Added Component: Designator=C64(0603C)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R27(0603R)
+Added Pin To Net: NetName=DP3V3 Pin=C35-1
+Added Pin To Net: NetName=DGND Pin=C35-2
+Added Pin To Net: NetName=V1P Pin=C60-1
+Added Pin To Net: NetName=DGND Pin=C60-2
+Added Pin To Net: NetName=V3P Pin=C62-1
+Added Pin To Net: NetName=DGND Pin=C62-2
+Added Pin To Net: NetName=V3N Pin=C64-1
+Added Pin To Net: NetName=DGND Pin=C64-2
+Added Pin To Net: NetName=SWCLK Pin=R2-1
+Added Pin To Net: NetName=DP3V3 Pin=R2-2
+Added Pin To Net: NetName=NetC50_1 Pin=R27-1
+Added Pin To Net: NetName=ASS_+15V Pin=R27-2
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component C35 104
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component C45 104
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component C60 33nF
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component C62 33nF
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component C64 33nF
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component R2 10K
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component U13 W314
+Added Member To Class: ClassName=MT-MacthCard V2.1.0 Member=Component U19 HCNR201
+Added Room: Name=MT-MacthCard V2.1.0

@@ -1,0 +1,4942 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Fri Nov 09 09:05:31 2018
+\t (00:00:03)         Host=USER-20180512LE User=Administrator Pid=5284 CPUs=12
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd
+\i (00:00:04) trapsize 393
+\i (00:00:04) trapsize 388
+\i (00:00:04) trapsize 394
+\i (00:00:04) trapsize 449
+\i (00:00:04) trapsize 449
+\i (00:00:05) placementedit 
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 9894.2 9389.6
+\i (00:00:16) trapsize 899
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13064.5 10530.7
+\i (00:00:16) trapsize 899
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 13064.5 10530.7
+\i (00:00:16) trapsize 899
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 7170.2 8284.4
+\i (00:00:17) trapsize 449
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 6920.2 8275.4
+\i (00:00:17) trapsize 225
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 6915.8 8275.4
+\i (00:00:17) trapsize 112
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 7151.7 8542.7
+\i (00:00:17) trapsize 225
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 7151.7 8542.7
+\i (00:00:17) trapsize 449
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 7169.7 8542.8
+\i (00:00:17) trapsize 899
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 9272.7 6756.9
+\i (00:00:18) trapsize 449
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 7971.5 6756.9
+\i (00:00:18) trapsize 225
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 7971.5 6756.9
+\i (00:00:18) trapsize 112
+\i (00:00:19) pick grid 8029.9 7264.6
+\t (00:00:19) last pick:  8000.0  7300.0
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 8348.9 7150.0
+\i (00:00:20) trapsize 225
+\i (00:00:22) pick grid 7153.8 7437.6
+\t (00:00:22) last pick:  7200.0  7400.0
+\i (00:00:22) move 
+\t (00:00:22) last pick:  7200.0  6800.0
+\t (00:00:22) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:00:22) Pick new location for the element(s).
+\i (00:00:23) pick grid 7162.8 7433.1
+\t (00:00:23) last pick:  7200.0  7400.0
+\i (00:00:23) placementedit 
+\i (00:00:24) drag_start grid 7171.8 7100.6
+\i (00:00:24) move 
+\t (00:00:24) last pick:  7200.0  7400.0
+\t (00:00:24) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:00:24) Pick new location for the element(s).
+\i (00:00:25) drag_stop grid 7010.1 6642.4
+\i (00:00:25) placementedit 
+\i (00:00:26) drag_start grid 7001.1 6871.5
+\i (00:00:27) drag_stop 7072.9 7123.1
+\i (00:00:27) pick grid 7019.0 7037.7
+\t (00:00:27) last pick:  7000.0  7000.0
+\i (00:00:27) move 
+\t (00:00:27) last pick:  7000.0  6600.0
+\t (00:00:27) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:00:27) Pick new location for the element(s).
+\i (00:00:29) pick grid 7234.7 6849.0
+\t (00:00:29) last pick:  7200.0  6800.0
+\i (00:00:29) placementedit 
+\i (00:00:30) pick grid 7504.2 6655.8
+\t (00:00:30) last pick:  7500.0  6700.0
+\i (00:00:32) pick grid 9220.4 6453.7
+\t (00:00:32) last pick:  9200.0  6500.0
+\i (00:00:32) move 
+\t (00:00:32) last pick:  9200.0  6800.0
+\t (00:00:32) Moving J19 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:00:32) Pick new location for the element(s).
+\i (00:00:33) pick grid 9135.1 6750.2
+\t (00:00:33) last pick:  9100.0  6800.0
+\i (00:00:33) placementedit 
+\i (00:00:34) pick grid 9377.7 6444.7
+\t (00:00:34) last pick:  9400.0  6400.0
+\i (00:00:35) pick grid 8020.9 6179.6
+\t (00:00:35) last pick:  8000.0  6200.0
+\i (00:00:35) move 
+\t (00:00:35) last pick:  8000.0  6200.0
+\t (00:00:35) Moving Y4 / XTAL_13Y_A_X4S32X25__12MHZ CL=1 / X4S32X25.
+\t (00:00:35) Pick new location for the element(s).
+\i (00:00:36) pick grid 7576.1 6148.2
+\t (00:00:36) last pick:  7600.0  6100.0
+\i (00:00:36) placementedit 
+\i (00:00:37) pick grid 7598.6 6094.3
+\t (00:00:37) last pick:  7600.0  6100.0
+\i (00:00:37) move 
+\t (00:00:37) last pick:  7600.0  6100.0
+\t (00:00:37) Moving Y4 / XTAL_13Y_A_X4S32X25__12MHZ CL=1 / X4S32X25.
+\t (00:00:37) Pick new location for the element(s).
+\i (00:00:39) pick grid 7962.5 6247.0
+\t (00:00:39) last pick:  8000.0  6200.0
+\i (00:00:39) placementedit 
+\i (00:00:40) pick grid 7818.7 6031.4
+\t (00:00:40) last pick:  7800.0  6000.0
+\i (00:00:40) pick grid 7733.4 5802.2
+\t (00:00:40) last pick:  7700.0  5800.0
+\i (00:00:40) move 
+\t (00:00:40) last pick:  7700.0  5800.0
+\t (00:00:40) Moving U2 / ACT8945A_QFN40_1P4H_ACT8945AQJ4 / QFN40_1P4H.
+\t (00:00:40) Pick new location for the element(s).
+\i (00:00:43) pick grid 7949.0 5752.8
+\t (00:00:43) last pick:  7900.0  5800.0
+\i (00:00:43) placementedit 
+\i (00:00:44) pick grid 7796.3 6089.8
+\t (00:00:44) last pick:  7800.0  6100.0
+\i (00:00:45) pick grid 7176.3 6431.2
+\t (00:00:45) last pick:  7200.0  6400.0
+\i (00:00:45) move 
+\t (00:00:45) last pick:  7200.0  6800.0
+\t (00:00:45) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:00:45) Pick new location for the element(s).
+\i (00:00:47) pick grid 7414.4 6750.2
+\t (00:00:47) last pick:  7400.0  6800.0
+\i (00:00:47) placementedit 
+\i (00:00:48) pick grid 6691.1 6637.9
+\t (00:00:48) last pick:  6700.0  6600.0
+\i (00:00:55) pick grid 9651.7 7226.4
+\t (00:00:55) last pick:  9700.0  7200.0
+\i (00:00:55) pick grid 9525.9 7307.3
+\t (00:00:55) last pick:  9500.0  7300.0
+\i (00:00:55) move 
+\t (00:00:55) last pick:  9500.0  7300.0
+\t (00:00:55) Moving R284 / R_GENERIC_R0603_0R / R0603.
+\t (00:00:55) Pick new location for the element(s).
+\i (00:00:57) pick grid 9647.2 6539.0
+\t (00:00:57) last pick:  9600.0  6500.0
+\i (00:00:57) placementedit 
+\i (00:00:57) pick grid 9777.5 6354.8
+\t (00:00:57) last pick:  9800.0  6400.0
+\i (00:01:00) pick grid 9413.6 6404.3
+\t (00:01:00) last pick:  9400.0  6400.0
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8560.0 7810.5
+\i (00:01:08) trapsize 112
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8560.0 7810.5
+\i (00:01:08) trapsize 56
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8560.0 7810.6
+\i (00:01:08) trapsize 28
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 8560.0 7810.6
+\i (00:01:08) trapsize 14
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 8559.2 7808.9
+\i (00:01:09) trapsize 28
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 8558.6 7808.9
+\i (00:01:09) trapsize 56
+\i (00:01:10) pick grid 8763.1 7834.7
+\t (00:01:10) last pick:  8800.0  7800.0
+\i (00:01:10) move 
+\t (00:01:10) last pick:  8500.0  7700.0
+\t (00:01:10) Moving U4 / MT41K128M16JT-125_BGADDR96P8B90 / BGADDR96P8B90X140.
+\t (00:01:10) Pick new location for the element(s).
+\i (00:01:12) pick grid 8717.0 7748.2
+\t (00:01:12) last pick:  8700.0  7700.0
+\i (00:01:12) placementedit 
+\i (00:01:12) pick grid 9366.2 7713.4
+\t (00:01:12) last pick:  9400.0  7700.0
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 8656.4 7708.9
+\i (00:01:13) trapsize 112
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 8651.9 7706.7
+\i (00:01:13) trapsize 225
+\i (00:01:19) setwindow form.mini
+\i (00:01:19) FORM mini class ETCH 
+\i (00:01:26) FORM mini subcolor 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) pick grid 11374.3 7500.1
+\t (00:01:31) last pick:  11375.0  7500.0
+\i (00:01:31) move 
+\t (00:01:31) last pick:  11100.0  7800.0
+\t (00:01:31) Moving R138 / R_GENERIC_R0402_DNP(1M)_ / R0402.
+\t (00:01:31) Pick new location for the element(s).
+\i (00:01:32) pick grid 11401.2 7441.7
+\t (00:01:32) last pick:  11400.0  7450.0
+\i (00:01:32) placementedit 
+\i (00:01:33) pick grid 11149.7 7365.3
+\t (00:01:33) last pick:  11150.0  7375.0
+\i (00:01:43) setwindow form.find
+\i (00:01:43) FORM find text YES 
+\i (00:01:44) FORM find symbols NO 
+\i (00:01:46) setwindow pcb
+\i (00:01:46) pick grid 8382.4 8519.8
+\t (00:01:46) last pick:  8375.0  8525.0
+\i (00:01:46) move 
+\t (00:01:46) last pick:  8016.0  8521.0
+\t (00:01:46) Pick new location for the element(s).
+\i (00:01:47) pick grid 7906.2 8501.9
+\t (00:01:47) last pick:  7900.0  8500.0
+\i (00:01:47) placementedit 
+\e (00:01:49) Command not found: Del
+\i (00:01:50) pick grid 8265.6 8492.9
+\t (00:01:50) last pick:  8275.0  8500.0
+\i (00:01:50) move 
+\t (00:01:50) last pick:  7900.0  8500.0
+\t (00:01:50) Pick new location for the element(s).
+\i (00:01:51) pick grid 7955.6 8483.9
+\t (00:01:51) last pick:  7950.0  8475.0
+\i (00:01:51) placementedit 
+\i (00:01:54) prepopup 8148.8 8488.4
+\i (00:02:00) pick grid 7883.7 8326.7
+\t (00:02:00) last pick:  7875.0  8325.0
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 8238.6 8461.4
+\i (00:02:01) trapsize 112
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 8238.7 8461.5
+\i (00:02:01) trapsize 56
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 8238.7 8461.5
+\i (00:02:01) trapsize 28
+\i (00:02:02) pick grid 8234.8 8480.0
+\t (00:02:02) last pick:  8225.0  8475.0
+\i (00:02:02) move 
+\t (00:02:02) last pick:  7950.0  8475.0
+\t (00:02:02) Pick new location for the element(s).
+\i (00:02:03) pick grid 8087.1 8476.1
+\t (00:02:03) last pick:  8075.0  8475.0
+\i (00:02:03) placementedit 
+\i (00:02:04) prepopup 8241.5 8475.5
+\i (00:02:13) pick grid 8154.5 8423.9
+\t (00:02:13) last pick:  8150.0  8425.0
+\i (00:02:14) pick grid 8243.2 8490.1
+\t (00:02:14) last pick:  8250.0  8500.0
+\i (00:02:14) move 
+\t (00:02:14) last pick:  8075.0  8475.0
+\t (00:02:14) Pick new location for the element(s).
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 8165.2 8425.6
+\i (00:02:14) trapsize 56
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 8160.6 8422.1
+\i (00:02:14) trapsize 112
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 8151.6 8422.2
+\i (00:02:15) trapsize 225
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 8151.7 8422.1
+\i (00:02:15) trapsize 449
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 7846.2 8583.9
+\i (00:02:16) trapsize 225
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 7846.2 8583.9
+\i (00:02:16) trapsize 112
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 7846.3 8583.9
+\i (00:02:16) trapsize 56
+\i (00:02:17) pick grid 7927.2 8536.8
+\t (00:02:17) last pick:  7925.0  8525.0
+\i (00:02:17) placementedit 
+\e (00:02:18) Command not found: Del
+\i (00:02:18) pick grid 8132.7 8576.1
+\t (00:02:18) last pick:  8125.0  8575.0
+\i (00:02:18) move 
+\t (00:02:18) last pick:  8009.0  8576.0
+\t (00:02:18) Pick new location for the element(s).
+\e (00:02:19) Command not found: Del
+\i (00:02:20) pick grid 8011.4 8577.2
+\t (00:02:20) last pick:  8000.0  8575.0
+\i (00:02:20) placementedit 
+\i (00:02:20) pick grid 8120.4 8539.0
+\t (00:02:20) last pick:  8125.0  8550.0
+\i (00:02:20) move 
+\t (00:02:20) last pick:  7925.0  8525.0
+\t (00:02:20) Pick new location for the element(s).
+\e (00:02:21) Command not found: Del
+\i (00:02:22) pick grid 8036.1 8533.4
+\t (00:02:22) last pick:  8025.0  8525.0
+\i (00:02:22) placementedit 
+\i (00:02:22) pick grid 8236.0 8457.0
+\t (00:02:22) last pick:  8225.0  8450.0
+\i (00:02:28) pick grid 8633.6 8706.4
+\t (00:02:28) last pick:  8625.0  8700.0
+\i (00:02:29) pick grid 8270.9 8592.9
+\t (00:02:29) last pick:  8275.0  8600.0
+\i (00:02:29) move 
+\t (00:02:29) last pick:  8000.0  8575.0
+\t (00:02:29) Pick new location for the element(s).
+\i (00:02:30) pick grid 8208.0 8583.9
+\t (00:02:30) last pick:  8200.0  8575.0
+\i (00:02:30) placementedit 
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 8021.5 8491.9
+\i (00:02:34) trapsize 112
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 8021.6 8491.8
+\i (00:02:34) trapsize 225
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 8021.5 8487.3
+\i (00:02:34) trapsize 449
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 8255.2 7562.0
+\i (00:02:34) trapsize 225
+\i (00:02:34) zoom in 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom in 8255.2 7562.0
+\i (00:02:34) trapsize 112
+\i (00:02:35) zoom in 1 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in 8255.3 7562.0
+\i (00:02:35) trapsize 56
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 8237.4 7573.3
+\i (00:02:36) trapsize 112
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out 8235.1 7573.3
+\i (00:02:36) trapsize 225
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in 8203.6 8624.5
+\i (00:02:37) trapsize 112
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in 8203.7 8624.5
+\i (00:02:37) trapsize 56
+\i (00:02:38) pick grid 8390.1 8645.8
+\t (00:02:38) last pick:  8400.0  8650.0
+\i (00:02:38) pick grid 8294.7 8593.0
+\t (00:02:38) last pick:  8300.0  8600.0
+\i (00:02:38) move 
+\t (00:02:38) last pick:  8200.0  8575.0
+\t (00:02:38) Pick new location for the element(s).
+\i (00:02:39) pick grid 8062.2 8576.2
+\t (00:02:39) last pick:  8050.0  8575.0
+\i (00:02:39) placementedit 
+\i (00:02:41) pick grid 8123.9 8523.4
+\t (00:02:41) last pick:  8125.0  8525.0
+\i (00:02:41) move 
+\t (00:02:41) last pick:  8025.0  8525.0
+\t (00:02:41) Pick new location for the element(s).
+\i (00:02:42) pick grid 8062.2 8522.3
+\t (00:02:42) last pick:  8050.0  8525.0
+\i (00:02:42) placementedit 
+\i (00:02:43) pick grid 8128.4 8497.6
+\t (00:02:43) last pick:  8125.0  8500.0
+\i (00:02:44) pick grid 8141.9 8534.6
+\t (00:02:44) last pick:  8150.0  8525.0
+\i (00:02:44) move 
+\t (00:02:44) last pick:  8050.0  8525.0
+\t (00:02:44) Pick new location for the element(s).
+\i (00:02:46) pick grid 8062.2 8525.7
+\t (00:02:46) last pick:  8050.0  8525.0
+\i (00:02:46) placementedit 
+\i (00:02:47) pick grid 8067.8 8504.3
+\t (00:02:47) last pick:  8075.0  8500.0
+\i (00:02:49) pick grid 8044.2 8472.9
+\t (00:02:49) last pick:  8050.0  8475.0
+\i (00:03:10) pick grid 8123.9 8578.4
+\t (00:03:10) last pick:  8125.0  8575.0
+\i (00:03:10) move 
+\t (00:03:10) last pick:  8050.0  8575.0
+\t (00:03:10) Pick new location for the element(s).
+\e (00:03:11) Command not found: Del
+\e (00:03:12) Command not found: Del
+\i (00:03:13) pick grid 8035.2 8582.9
+\t (00:03:13) last pick:  8025.0  8575.0
+\i (00:03:13) placementedit 
+\i (00:03:13) pick grid 8111.6 8543.6
+\t (00:03:13) last pick:  8100.0  8550.0
+\i (00:03:13) move 
+\t (00:03:13) last pick:  8050.0  8525.0
+\t (00:03:13) Pick new location for the element(s).
+\i (00:03:15) pick grid 8019.5 8536.9
+\t (00:03:15) last pick:  8025.0  8525.0
+\i (00:03:15) placementedit 
+\i (00:03:15) prepopup 8019.5 8532.4
+\i (00:03:17) pick grid 7973.4 8526.8
+\t (00:03:17) last pick:  7975.0  8525.0
+\i (00:03:17) pick grid 8117.2 8544.7
+\t (00:03:17) last pick:  8125.0  8550.0
+\i (00:03:17) move 
+\t (00:03:17) last pick:  8025.0  8525.0
+\t (00:03:17) Pick new location for the element(s).
+\i (00:03:18) pick grid 8031.8 8532.4
+\t (00:03:18) last pick:  8025.0  8525.0
+\i (00:03:18) placementedit 
+\i (00:03:19) prepopup 8018.4 8531.3
+\i (00:03:26) pop dyn_option_select 'Application Mode@:@Etch Edit' 
+\i (00:03:26) etchedit 
+\i (00:03:28) pick grid 8130.7 8590.8
+\t (00:03:28) last pick:  8125.0  8600.0
+\i (00:03:28) move 
+\t (00:03:28) last pick:  8100.0  8700.0
+\t (00:03:28) Moving Y3 / 32_0.768K_X4S70X15_32.768KHZ CL / X4S70X15.
+\t (00:03:28) Pick new location for the element(s).
+\i (00:03:29) pick grid 8128.4 8590.8
+\t (00:03:29) last pick:  8125.0  8600.0
+\i (00:03:29) etchedit 
+\i (00:03:30) pick grid 8548.5 8553.7
+\t (00:03:30) last pick:  8550.0  8550.0
+\i (00:03:35) setwindow form.find
+\i (00:03:35) FORM find all_off  
+\i (00:03:40) setwindow pcb
+\i (00:03:40) pick grid 8320.5 8479.6
+\t (00:03:40) last pick:  8325.0  8475.0
+\i (00:03:41) pick grid 7788.1 8480.7
+\t (00:03:41) last pick:  7800.0  8475.0
+\i (00:03:42) setwindow form.find
+\i (00:03:42) FORM find all_on  
+\i (00:03:43) FORM find all_on  
+\i (00:03:44) FORM find all_off  
+\i (00:03:45) setwindow pcb
+\i (00:03:45) pick grid 7756.7 8649.2
+\t (00:03:45) last pick:  7750.0  8650.0
+\i (00:03:45) pick grid 8283.4 8434.7
+\t (00:03:45) last pick:  8275.0  8425.0
+\i (00:03:46) pick grid 8258.7 8479.6
+\t (00:03:46) last pick:  8250.0  8475.0
+\i (00:03:46) pick grid 8180.1 8579.6
+\t (00:03:46) last pick:  8175.0  8575.0
+\i (00:03:47) pick grid 8108.2 8604.3
+\t (00:03:47) last pick:  8100.0  8600.0
+\i (00:03:47) prepopup 8690.0 8588.6
+\i (00:03:48) pick grid 8565.3 8589.7
+\t (00:03:48) last pick:  8575.0  8600.0
+\i (00:03:51) move 
+\t (00:03:51) Select element(s) to move.
+\i (00:03:53) setwindow form.find
+\i (00:03:53) FORM find figures NO 
+\i (00:03:54) FORM find all_off  
+\i (00:03:56) FORM find text YES 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) pick grid 8106.0 8490.8
+\t (00:03:56) last pick:  8100.0  8500.0
+\t (00:03:56) last pick:  8050.0  8475.0
+\t (00:03:56) Pick new location for the element(s).
+\i (00:03:57) pick grid 8039.7 8292.1
+\t (00:03:57) last pick:  8050.0  8300.0
+\i (00:03:58) pick grid 8170.0 8421.2
+\t (00:03:58) last pick:  8175.0  8425.0
+\t (00:03:58) last pick:  8050.0  8425.0
+\t (00:03:58) Pick new location for the element(s).
+\i (00:04:00) pick grid 7890.3 8487.5
+\t (00:04:00) last pick:  7900.0  8500.0
+\i (00:04:01) pick grid 8120.6 8319.0
+\t (00:04:01) last pick:  8125.0  8325.0
+\t (00:04:01) last pick:  8050.0  8300.0
+\t (00:04:01) Pick new location for the element(s).
+\i (00:04:01) pick grid 7985.8 8438.1
+\t (00:04:01) last pick:  7975.0  8450.0
+\i (00:04:03) delete 
+\i (00:04:06) setwindow form.find
+\i (00:04:06) FORM find all_off  
+\i (00:04:07) FORM find text YES 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) pick grid 8066.7 8512.2
+\t (00:04:08) last pick:  8075.0  8500.0
+\t (00:04:08) Text "32_0.768K_X4s70x15_32.768Khz Cl"
+\e (00:04:08) Command not found: Del
+\i (00:04:09) pick grid 8089.1 8511.1
+\t (00:04:09) last pick:  8100.0  8500.0
+\i (00:04:10) pick grid 8079.0 8465.0
+\t (00:04:10) last pick:  8075.0  8475.0
+\t (00:04:10) Text "32.768Khz Cl=12.5Pf"
+\i (00:04:11) pick grid 8080.1 8451.5
+\t (00:04:11) last pick:  8075.0  8450.0
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 8100.4 8471.7
+\i (00:04:13) trapsize 112
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 8095.8 8471.8
+\i (00:04:13) trapsize 225
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 6927.8 8584.1
+\i (00:04:14) trapsize 112
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 6927.8 8584.2
+\i (00:04:14) trapsize 56
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 6927.8 8584.2
+\i (00:04:14) trapsize 28
+\i (00:04:14) pick grid 7125.5 8476.4
+\t (00:04:14) last pick:  7125.0  8475.0
+\t (00:04:14) Text "0R"
+\i (00:04:15) pick grid dbl 7125.5 8476.4
+\t (00:04:15) last pick:  7125.0  8475.0
+\i (00:04:15) pick grid 7219.2 8406.8
+\t (00:04:15) last pick:  7225.0  8400.0
+\t (00:04:15) Text "R_Generic_R0402_0R"
+\i (00:04:15) pick grid dbl 7219.2 8406.8
+\t (00:04:15) last pick:  7225.0  8400.0
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 7037.3 8557.3
+\i (00:04:16) trapsize 56
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 7037.3 8557.2
+\i (00:04:16) trapsize 112
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 7037.3 8557.2
+\i (00:04:16) trapsize 225
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 7041.8 8557.3
+\i (00:04:16) trapsize 449
+\i (00:04:16) zoom out 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom out 7041.9 8557.3
+\i (00:04:16) trapsize 899
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 9560.3 8643.8
+\i (00:04:17) trapsize 449
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 8115.2 8643.8
+\i (00:04:17) trapsize 225
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 8115.3 8643.9
+\i (00:04:17) trapsize 112
+\i (00:04:18) pick grid 8989.1 8796.6
+\t (00:04:18) last pick:  9000.0  8800.0
+\t (00:04:18) Text "R_Generic_R0402_47K_"
+\i (00:04:18) pick grid dbl 8989.1 8796.6
+\t (00:04:18) last pick:  9000.0  8800.0
+\i (00:04:19) pick grid 8847.6 8855.0
+\t (00:04:19) last pick:  8850.0  8850.0
+\t (00:04:19) Text "47K"
+\i (00:04:19) pick grid dbl 8847.6 8855.0
+\t (00:04:19) last pick:  8850.0  8850.0
+\i (00:04:21) pick grid 9741.6 8801.1
+\t (00:04:21) last pick:  9750.0  8800.0
+\t (00:04:21) Text "R_Generic_R0402_100R 1%_"
+\i (00:04:21) pick grid dbl 9741.6 8801.1
+\t (00:04:21) last pick:  9750.0  8800.0
+\i (00:04:22) pick grid 9737.1 8861.8
+\t (00:04:22) last pick:  9725.0  8850.0
+\t (00:04:22) Text "100R 1%"
+\i (00:04:22) pick grid dbl 9737.1 8861.8
+\t (00:04:22) last pick:  9725.0  8850.0
+\i (00:04:23) pick grid 10186.4 9178.5
+\t (00:04:23) last pick:  10175.0  9175.0
+\t (00:04:23) Text "R_Generic_R0402_10K_"
+\i (00:04:23) pick grid dbl 10186.4 9178.5
+\t (00:04:23) last pick:  10175.0  9175.0
+\i (00:04:24) pick grid 10069.6 9263.8
+\t (00:04:24) last pick:  10075.0  9275.0
+\t (00:04:24) Text "10K"
+\i (00:04:24) pick grid dbl 10069.6 9263.8
+\t (00:04:24) last pick:  10075.0  9275.0
+\i (00:04:25) pick grid 9249.7 8210.3
+\t (00:04:25) last pick:  9250.0  8200.0
+\t (00:04:25) Text "R_Generic_R0402_39R"
+\i (00:04:25) pick grid dbl 9249.7 8210.3
+\t (00:04:25) last pick:  9250.0  8200.0
+\i (00:04:26) pick grid 8915.0 8250.8
+\t (00:04:26) last pick:  8925.0  8250.0
+\t (00:04:26) Text "39R"
+\i (00:04:27) pick grid dbl 8915.0 8250.8
+\t (00:04:27) last pick:  8925.0  8250.0
+\i (00:04:27) pick grid 9166.6 8185.6
+\t (00:04:27) last pick:  9175.0  8175.0
+\t (00:04:27) Text "22R"
+\i (00:04:28) pick grid dbl 9166.6 8185.6
+\t (00:04:28) last pick:  9175.0  8175.0
+\i (00:04:28) pick grid 9328.3 8102.5
+\t (00:04:28) last pick:  9325.0  8100.0
+\t (00:04:28) Text "R_Generic_0_R0402_22R"
+\i (00:04:28) pick grid dbl 9328.3 8102.5
+\t (00:04:28) last pick:  9325.0  8100.0
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 8946.5 8583.2
+\i (00:04:29) trapsize 225
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 8946.4 8583.3
+\i (00:04:29) trapsize 449
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 9656.3 7163.5
+\i (00:04:29) trapsize 225
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 9651.9 7154.5
+\i (00:04:29) trapsize 112
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 9649.6 7154.5
+\i (00:04:29) trapsize 56
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 9642.9 7154.5
+\i (00:04:29) trapsize 28
+\i (00:04:30) zoom out 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom out 9584.5 7231.4
+\i (00:04:30) trapsize 56
+\i (00:04:30) zoom out 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom out 9584.5 7231.5
+\i (00:04:30) trapsize 112
+\i (00:04:31) pick grid 9604.7 7489.7
+\t (00:04:31) last pick:  9600.0  7500.0
+\t (00:04:31) Text "R_Generic_R0402_100R 1%_"
+\i (00:04:31) pick grid dbl 9604.7 7489.7
+\t (00:04:31) last pick:  9600.0  7500.0
+\i (00:04:31) pick grid 9642.8 7604.3
+\t (00:04:31) last pick:  9650.0  7600.0
+\t (00:04:31) Text "R_Generic_R0402_0R"
+\i (00:04:31) pick grid dbl 9642.8 7604.3
+\t (00:04:31) last pick:  9650.0  7600.0
+\i (00:04:32) pick grid 9831.5 7799.7
+\t (00:04:32) last pick:  9825.0  7800.0
+\t (00:04:32) Text "R_Generic_R0402_1K_"
+\i (00:04:32) pick grid dbl 9831.5 7799.7
+\t (00:04:32) last pick:  9825.0  7800.0
+\i (00:04:33) pick grid 9759.6 7860.3
+\t (00:04:33) last pick:  9750.0  7850.0
+\t (00:04:33) Text "1K"
+\i (00:04:34) pick grid 9725.9 7840.1
+\t (00:04:34) last pick:  9725.0  7850.0
+\i (00:04:34) pick grid dbl 9725.9 7840.1
+\t (00:04:34) last pick:  9725.0  7850.0
+\i (00:04:35) pick grid 9377.8 7898.5
+\t (00:04:35) last pick:  9375.0  7900.0
+\t (00:04:35) Text "R_Generic_R0402_10K_"
+\i (00:04:35) pick grid dbl 9377.8 7898.5
+\t (00:04:35) last pick:  9375.0  7900.0
+\i (00:04:35) pick grid 9672.0 8008.6
+\t (00:04:35) last pick:  9675.0  8000.0
+\t (00:04:35) Text "R_Generic_R0402_47K_"
+\i (00:04:35) pick grid dbl 9672.0 8008.6
+\t (00:04:35) last pick:  9675.0  8000.0
+\i (00:04:36) pick grid 9631.6 8053.5
+\t (00:04:36) last pick:  9625.0  8050.0
+\t (00:04:36) Text "47K"
+\i (00:04:36) pick grid dbl 9631.6 8053.5
+\t (00:04:36) last pick:  9625.0  8050.0
+\i (00:04:37) pick grid 9651.8 8197.3
+\t (00:04:37) last pick:  9650.0  8200.0
+\t (00:04:37) Text "R_Generic_R0402_47K_"
+\i (00:04:37) pick grid dbl 9651.8 8197.3
+\t (00:04:37) last pick:  9650.0  8200.0
+\i (00:04:37) pick grid 9573.2 8257.9
+\t (00:04:37) last pick:  9575.0  8250.0
+\t (00:04:37) Text "47K"
+\i (00:04:38) pick grid dbl 9573.2 8257.9
+\t (00:04:38) last pick:  9575.0  8250.0
+\i (00:04:39) pick grid 8964.5 7995.1
+\t (00:04:39) last pick:  8975.0  8000.0
+\t (00:04:39) Text "R_Generic_R0402_39R"
+\i (00:04:39) pick grid dbl 8964.5 7995.1
+\t (00:04:39) last pick:  8975.0  8000.0
+\i (00:04:42) pick grid 8948.8 7833.4
+\t (00:04:42) last pick:  8950.0  7825.0
+\t (00:04:42) Text "Mt41k128m16jt-125_Bgaddr96p8b90"
+\i (00:04:42) pick grid dbl 8948.8 7833.4
+\t (00:04:42) last pick:  8950.0  7825.0
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 8787.0 7799.7
+\i (00:04:43) trapsize 56
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 8788.2 7799.7
+\i (00:04:43) trapsize 28
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 8788.8 7799.7
+\i (00:04:43) trapsize 14
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in 8788.8 7799.7
+\i (00:04:43) trapsize 7
+\i (00:04:43) zoom out 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 8812.0 7780.2
+\i (00:04:43) trapsize 14
+\i (00:04:43) zoom out 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 8812.0 7778.5
+\i (00:04:43) trapsize 28
+\i (00:04:44) pick grid 8836.2 7857.2
+\t (00:04:44) last pick:  8825.0  7850.0
+\t (00:04:44) Text "Mt41k128m16jt-125:K"
+\i (00:04:44) pick grid dbl 8836.2 7857.2
+\t (00:04:44) last pick:  8825.0  7850.0
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out 8967.6 7789.2
+\i (00:04:44) trapsize 56
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out 8967.5 7788.2
+\i (00:04:44) trapsize 112
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out 8967.5 7783.6
+\i (00:04:44) trapsize 225
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in 7763.6 7824.1
+\i (00:04:45) trapsize 112
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in 7763.7 7824.1
+\i (00:04:45) trapsize 56
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in 7763.7 7824.1
+\i (00:04:45) trapsize 28
+\i (00:04:46) pick grid 8142.8 7826.4
+\t (00:04:46) last pick:  8150.0  7825.0
+\t (00:04:46) Text "Mt41k128m16jt-125_Bgaddr96p8b90"
+\i (00:04:46) pick grid dbl 8142.8 7826.4
+\t (00:04:46) last pick:  8150.0  7825.0
+\i (00:04:47) pick grid 8054.6 7848.3
+\t (00:04:47) last pick:  8050.0  7850.0
+\t (00:04:47) Text "Mt41k128m16jt-125:K"
+\i (00:04:47) pick grid dbl 8054.6 7848.3
+\t (00:04:47) last pick:  8050.0  7850.0
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 7823.3 7788.7
+\i (00:04:47) trapsize 56
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 7822.2 7787.6
+\i (00:04:47) trapsize 112
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 7822.1 7785.4
+\i (00:04:47) trapsize 225
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 7822.1 7785.5
+\i (00:04:47) trapsize 449
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in 8747.6 6437.8
+\i (00:04:48) trapsize 225
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in 8747.6 6437.8
+\i (00:04:48) trapsize 112
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in 8747.7 6437.8
+\i (00:04:48) trapsize 56
+\i (00:04:49) pick grid 8911.7 6775.9
+\t (00:04:49) last pick:  8900.0  6775.0
+\t (00:04:49) Text "Qspi_8Pin_Soic8jg_Mx25l25673gm2"
+\i (00:04:49) pick grid dbl 8911.7 6775.9
+\t (00:04:49) last pick:  8900.0  6775.0
+\i (00:04:50) pick grid 8900.5 6828.7
+\t (00:04:50) last pick:  8900.0  6825.0
+\t (00:04:50) Text "Mx25l25673gm2i-08g"
+\i (00:04:50) pick grid dbl 8900.5 6828.7
+\t (00:04:50) last pick:  8900.0  6825.0
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 8641.0 6427.8
+\i (00:04:50) trapsize 112
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 8636.6 6468.1
+\i (00:04:50) trapsize 225
+\i (00:04:50) zoom in 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom in 8533.3 7461.0
+\i (00:04:50) trapsize 112
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in 8535.6 7461.0
+\i (00:04:51) trapsize 56
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in 8536.7 7461.1
+\i (00:04:51) trapsize 28
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 8640.6 7332.0
+\i (00:04:51) trapsize 56
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 8639.5 7332.0
+\i (00:04:51) trapsize 112
+\i (00:04:52) pick grid 8778.7 7102.8
+\t (00:04:52) last pick:  8775.0  7100.0
+\t (00:04:52) Text "R_Generic_0_R0402_22R"
+\i (00:04:52) pick grid dbl 8778.7 7102.8
+\t (00:04:52) last pick:  8775.0  7100.0
+\i (00:04:53) pick grid 8617.0 7152.2
+\t (00:04:53) last pick:  8625.0  7150.0
+\t (00:04:53) Text "22R"
+\i (00:04:53) pick grid dbl 8617.0 7152.2
+\t (00:04:53) last pick:  8625.0  7150.0
+\i (00:04:54) pick grid 9308.8 7556.5
+\t (00:04:54) last pick:  9300.0  7550.0
+\t (00:04:54) Text "100R 1%"
+\i (00:04:54) pick grid dbl 9308.8 7556.5
+\t (00:04:54) last pick:  9300.0  7550.0
+\i (00:04:54) pick grid 9344.7 7662.1
+\t (00:04:54) last pick:  9350.0  7650.0
+\t (00:04:54) Text "0R"
+\i (00:04:55) pick grid dbl 9344.7 7662.1
+\t (00:04:55) last pick:  9350.0  7650.0
+\i (00:04:55) pick grid 9389.6 7105.1
+\t (00:04:55) last pick:  9400.0  7100.0
+\t (00:04:55) Text "R_Generic_R0402_39R"
+\i (00:04:55) pick grid dbl 9389.6 7105.1
+\t (00:04:55) last pick:  9400.0  7100.0
+\i (00:04:56) pick grid 9268.4 7170.2
+\t (00:04:56) last pick:  9275.0  7175.0
+\t (00:04:56) Text "39R"
+\i (00:04:56) pick grid dbl 9268.4 7170.2
+\t (00:04:56) last pick:  9275.0  7175.0
+\i (00:04:57) zoom out 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom out 8264.3 7412.8
+\i (00:04:57) trapsize 225
+\i (00:04:57) zoom out 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom out 8264.3 7412.8
+\i (00:04:57) trapsize 449
+\i (00:04:57) zoom out 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom out 8264.4 7412.7
+\i (00:04:57) trapsize 899
+\i (00:04:57) zoom in 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom in 8086.7 6433.4
+\i (00:04:57) trapsize 449
+\i (00:04:57) zoom in 1 
+\i (00:04:57) setwindow pcb
+\i (00:04:57) zoom in 7378.4 6433.4
+\i (00:04:57) trapsize 225
+\i (00:04:58) zoom in 1 
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom in 7378.5 6433.5
+\i (00:04:58) trapsize 112
+\i (00:04:59) pick grid 9582.1 6792.9
+\t (00:04:59) last pick:  9575.0  6800.0
+\t (00:04:59) Text "R_Generic_R0402_39R"
+\i (00:04:59) pick grid dbl 9582.1 6792.9
+\t (00:04:59) last pick:  9575.0  6800.0
+\i (00:05:01) pick grid 9463.1 6851.3
+\t (00:05:01) last pick:  9475.0  6850.0
+\t (00:05:01) Text "39R"
+\i (00:05:01) pick grid dbl 9463.1 6851.3
+\t (00:05:01) last pick:  9475.0  6850.0
+\i (00:05:02) pick grid 9770.8 6718.7
+\t (00:05:02) last pick:  9775.0  6725.0
+\t (00:05:02) Text "R_Generic_0_R0402_22R"
+\i (00:05:02) pick grid dbl 9770.8 6718.7
+\t (00:05:02) last pick:  9775.0  6725.0
+\i (00:05:02) pick grid 9775.3 6752.4
+\t (00:05:02) last pick:  9775.0  6750.0
+\t (00:05:02) Text "22R"
+\i (00:05:02) pick grid dbl 9775.3 6752.4
+\t (00:05:02) last pick:  9775.0  6750.0
+\i (00:05:03) pick grid 10199.9 6523.3
+\t (00:05:03) last pick:  10200.0  6525.0
+\t (00:05:03) Text "R_Generic_0_R0402_22R"
+\i (00:05:03) pick grid dbl 10199.9 6523.3
+\t (00:05:03) last pick:  10200.0  6525.0
+\i (00:05:04) pick grid 10078.6 6575.0
+\t (00:05:04) last pick:  10075.0  6575.0
+\t (00:05:04) Text "22R"
+\i (00:05:04) pick grid dbl 10078.6 6575.0
+\t (00:05:04) last pick:  10075.0  6575.0
+\i (00:05:05) pick grid 9678.7 6550.3
+\t (00:05:05) last pick:  9675.0  6550.0
+\t (00:05:05) Text "R_Generic_R0603_0R"
+\i (00:05:05) pick grid dbl 9678.7 6550.3
+\t (00:05:05) last pick:  9675.0  6550.0
+\i (00:05:05) pick grid 9669.7 6550.3
+\t (00:05:05) last pick:  9675.0  6550.0
+\t (00:05:05) Text "0R"
+\i (00:05:05) pick grid dbl 9669.7 6550.3
+\t (00:05:05) last pick:  9675.0  6550.0
+\i (00:05:07) pick grid 8917.2 6083.0
+\t (00:05:07) last pick:  8925.0  6075.0
+\t (00:05:07) Text "1G126_0_Sot353_5__Nl17sz126dft2"
+\i (00:05:07) pick grid dbl 8917.2 6083.0
+\t (00:05:07) last pick:  8925.0  6075.0
+\i (00:05:08) pick grid 8921.7 6114.5
+\t (00:05:08) last pick:  8925.0  6125.0
+\t (00:05:08) Text "Nl17sz126dft2g"
+\i (00:05:08) pick grid dbl 8921.7 6114.5
+\t (00:05:08) last pick:  8925.0  6125.0
+\i (00:05:09) pick grid 8021.0 6017.9
+\t (00:05:09) last pick:  8025.0  6025.0
+\t (00:05:09) Text "Xtal_13Y_A_X4s32x25__12Mhz Cl=1"
+\i (00:05:09) pick grid dbl 8021.0 6017.9
+\t (00:05:09) last pick:  8025.0  6025.0
+\i (00:05:10) pick grid 8038.9 6094.3
+\t (00:05:10) last pick:  8050.0  6100.0
+\t (00:05:10) Text "12Mhz Cl=15Pf"
+\i (00:05:10) pick grid dbl 8038.9 6094.3
+\t (00:05:10) last pick:  8050.0  6100.0
+\i (00:05:11) pick grid 8503.9 6226.8
+\t (00:05:11) last pick:  8500.0  6225.0
+\t (00:05:11) Text "Emmc_Bga153p5_Mtfc4gldea-0m Wt"
+\i (00:05:11) pick grid 8508.4 6229.1
+\t (00:05:11) last pick:  8500.0  6225.0
+\i (00:05:11) pick grid 8492.7 6271.7
+\t (00:05:11) last pick:  8500.0  6275.0
+\t (00:05:11) Text "Mtfc4gldea-0m Wt"
+\i (00:05:11) pick grid dbl 8492.7 6271.7
+\t (00:05:11) last pick:  8500.0  6275.0
+\i (00:05:13) pick grid 8346.7 7044.5
+\t (00:05:13) last pick:  8350.0  7050.0
+\t (00:05:13) Text "Sama5d27_Cu_Mrlc_Bga289p8_Sama5"
+\i (00:05:13) pick grid dbl 8346.7 7044.5
+\t (00:05:13) last pick:  8350.0  7050.0
+\i (00:05:14) pick grid 8232.1 7064.7
+\t (00:05:14) last pick:  8225.0  7075.0
+\t (00:05:14) Text "Sama5d27c-cu (Mrlc)"
+\i (00:05:14) pick grid dbl 8232.1 7064.7
+\t (00:05:14) last pick:  8225.0  7075.0
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 8032.2 6676.1
+\i (00:05:16) trapsize 56
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 8034.5 6676.1
+\i (00:05:16) trapsize 28
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 8035.1 6676.1
+\i (00:05:16) trapsize 14
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 8037.6 6676.4
+\i (00:05:16) trapsize 7
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 8038.6 6661.9
+\i (00:05:17) trapsize 14
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 8038.6 6661.8
+\i (00:05:17) trapsize 28
+\i (00:05:18) pick grid 8097.0 6697.8
+\t (00:05:18) last pick:  8100.0  6700.0
+\t (00:05:18) Text "U24"
+\i (00:05:19) pick grid 8106.5 6701.7
+\t (00:05:19) last pick:  8100.0  6700.0
+\t (00:05:19) Text "U24"
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 8043.6 6712.4
+\i (00:05:20) trapsize 56
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 8041.4 6712.4
+\i (00:05:20) trapsize 112
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 8041.4 6712.3
+\i (00:05:20) trapsize 225
+\i (00:05:21) pick grid 8634.4 6335.0
+\t (00:05:21) last pick:  8625.0  6325.0
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 8099.8 6761.8
+\i (00:05:22) trapsize 112
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 8099.8 6761.8
+\i (00:05:22) trapsize 56
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 8099.8 6761.8
+\i (00:05:22) trapsize 28
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 8129.6 6750.1
+\i (00:05:23) trapsize 56
+\i (00:05:25) undo 
+\i (00:05:25) trapsize 56
+\i (00:05:25) etchedit 
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 8167.7 8433.6
+\i (00:05:27) trapsize 112
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 8170.0 8431.3
+\i (00:05:27) trapsize 225
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 8174.5 8431.3
+\i (00:05:27) trapsize 449
+\i (00:05:27) zoom out 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom out 8174.6 8431.3
+\i (00:05:27) trapsize 899
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 7188.2 6379.5
+\i (00:05:27) trapsize 449
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 7001.1 6334.6
+\i (00:05:27) trapsize 225
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 7019.1 6325.6
+\i (00:05:28) trapsize 112
+\i (00:05:28) zoom in 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom in 7021.3 6323.4
+\i (00:05:28) trapsize 56
+\i (00:05:28) zoom out 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom out 7708.7 6548.1
+\i (00:05:28) trapsize 112
+\i (00:05:29) zoom out 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom out 7567.2 6523.3
+\i (00:05:29) trapsize 225
+\i (00:05:31) delete 
+\i (00:05:33) zoom in 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom in 10541.4 7763.3
+\i (00:05:33) trapsize 112
+\i (00:05:33) zoom in 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom in 10541.4 7763.3
+\i (00:05:33) trapsize 56
+\i (00:05:33) zoom in 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom in 10538.0 7764.4
+\i (00:05:33) trapsize 28
+\i (00:05:33) zoom out 1 
+\i (00:05:33) setwindow pcb
+\i (00:05:33) zoom out 10185.3 7697.6
+\i (00:05:33) trapsize 56
+\i (00:05:34) zoom out 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom out 10186.5 7695.4
+\i (00:05:34) trapsize 112
+\i (00:05:34) zoom out 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom out 9678.8 7670.7
+\i (00:05:34) trapsize 225
+\i (00:05:34) zoom out 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom out 9683.2 7666.1
+\i (00:05:34) trapsize 449
+\i (00:05:35) zoom in 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom in 9800.1 8618.5
+\i (00:05:35) trapsize 225
+\i (00:05:35) zoom in 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom in 9800.1 8618.5
+\i (00:05:35) trapsize 112
+\i (00:05:35) zoom in 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom in 9800.1 8618.5
+\i (00:05:35) trapsize 56
+\i (00:05:36) drag_start grid 9600.2 8344.5
+\i (00:05:38) drag_stop 9771.0 7990.7
+\i (00:05:39) pick grid 9622.7 8241.2
+\t (00:05:39) last pick:  9625.0  8250.0
+\i (00:05:42) undo 
+\i (00:05:42) trapsize 225
+\i (00:05:42) etchedit 
+\i (00:05:48) delete 
+\i (00:05:50) setwindow form.find
+\i (00:05:50) FORM find all_off  
+\i (00:05:51) FORM find text YES 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 4485.4 6954.6
+\i (00:05:52) trapsize 449
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out 4485.3 6954.7
+\i (00:05:52) trapsize 899
+\i (00:05:53) drag_start grid 5031.7 13549.7
+\i (00:05:53) drag_stop 22157.5 3037.0
+\i (00:05:54) zoom in 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom in 11698.7 5786.5
+\i (00:05:54) trapsize 449
+\i (00:05:54) zoom in 1 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) zoom in 9184.5 5786.5
+\i (00:05:54) trapsize 225
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in 9148.6 5800.0
+\i (00:05:55) trapsize 112
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in 9148.6 5800.0
+\i (00:05:55) trapsize 56
+\i (00:05:55) zoom in 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom in 9148.6 5800.0
+\i (00:05:55) trapsize 28
+\i (00:05:55) zoom out 1 
+\i (00:05:55) setwindow pcb
+\i (00:05:55) zoom out 9322.7 5882.0
+\i (00:05:55) trapsize 56
+\i (00:05:58) pick grid 9296.8 6072.9
+\t (00:05:58) last pick:  9300.0  6075.0
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 9340.6 5943.7
+\i (00:05:59) trapsize 112
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 9331.6 5934.8
+\i (00:05:59) trapsize 225
+\i (00:05:59) zoom out 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom out 9331.5 5921.3
+\i (00:05:59) trapsize 449
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 9089.0 5598.0
+\i (00:06:00) trapsize 899
+\i (00:06:00) zoom out 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom out 16838.3 8643.8
+\i (00:06:00) trapsize 899
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 12345.7 9452.4
+\i (00:06:00) trapsize 449
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 9507.9 9452.4
+\i (00:06:00) trapsize 225
+\i (00:06:02) zoom out 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom out 10168.3 9438.9
+\i (00:06:02) trapsize 449
+\i (00:06:05) move 
+\t (00:06:05) Select element(s) to move.
+\i (00:06:06) pick grid 4085.4 11523.6
+\t (00:06:06) last pick:  4075.0  11525.0
+\i (00:06:09) pick grid 3941.6 11945.9
+\t (00:06:09) last pick:  3950.0  11950.0
+\i (00:06:12) move 
+\t (00:06:12) Select element(s) to move.
+\i (00:06:13) setwindow form.find
+\i (00:06:13) FORM find symbols YES 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) pick grid 11129.8 10301.6
+\t (00:06:16) last pick:  11125.0  10300.0
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in 10348.1 10157.8
+\i (00:06:16) trapsize 225
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in 10348.1 10157.9
+\i (00:06:16) trapsize 112
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in 10348.1 10157.9
+\i (00:06:16) trapsize 56
+\i (00:06:18) pick grid 10505.4 10388.2
+\t (00:06:18) last pick:  10500.0  10400.0
+\i (00:06:19) pick grid 9712.5 10375.8
+\t (00:06:19) last pick:  9725.0  10375.0
+\i (00:06:21) pick grid 10505.4 10411.8
+\t (00:06:21) last pick:  10500.0  10400.0
+\i (00:06:25) setwindow form.find
+\i (00:06:25) FORM find text NO 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) pick grid 10474.0 10409.5
+\t (00:06:26) last pick:  10475.0  10400.0
+\t (00:06:26) last pick:  10500.0  10400.0
+\t (00:06:26) Moving L19 / BEAD_ FERRITE_R0603_180OHM AT 1 / R0603.
+\t (00:06:26) Pick new location for the element(s).
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 10538.0 10223.1
+\i (00:06:27) trapsize 112
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 10538.0 10223.1
+\i (00:06:27) trapsize 225
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 10538.0 10223.1
+\i (00:06:27) trapsize 449
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 10537.9 10223.1
+\i (00:06:27) trapsize 899
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 7206.1 5516.9
+\i (00:06:28) trapsize 449
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 6947.1 5517.0
+\i (00:06:28) trapsize 225
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 6947.1 5517.0
+\i (00:06:28) trapsize 112
+\i (00:06:28) zoom in 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom in 6951.6 5517.0
+\i (00:06:28) trapsize 56
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out 7498.6 5730.4
+\i (00:06:29) trapsize 112
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out 7498.6 5730.4
+\i (00:06:29) trapsize 225
+\i (00:06:31) pick grid 9610.3 6593.0
+\t (00:06:31) last pick:  9600.0  6600.0
+\i (00:06:32) pick grid 9825.9 6534.6
+\t (00:06:32) last pick:  9825.0  6525.0
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out 7781.8 6283.0
+\i (00:06:33) trapsize 449
+\i (00:06:34) zoom in 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom in 8230.5 7567.9
+\i (00:06:34) trapsize 225
+\i (00:06:35) pick grid 8738.2 7702.8
+\t (00:06:35) last pick:  8750.0  7700.0
+\t (00:06:35) last pick:  8700.0  7700.0
+\t (00:06:35) Moving U4 / MT41K128M16JT-125_BGADDR96P8B90 / BGADDR96P8B90X140.
+\t (00:06:35) Pick new location for the element(s).
+\i (00:06:36) pick grid 8500.1 7711.7
+\t (00:06:36) last pick:  8500.0  7700.0
+\i (00:06:37) pick grid 9636.7 7554.5
+\t (00:06:37) last pick:  9625.0  7550.0
+\i (00:06:37) zoom out 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom out 7682.4 7320.9
+\i (00:06:37) trapsize 449
+\i (00:06:37) zoom out 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom out 7682.5 7311.9
+\i (00:06:37) trapsize 899
+\i (00:06:38) zoom in 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom in 11626.8 9416.5
+\i (00:06:38) trapsize 449
+\i (00:06:39) zoom in 1 
+\i (00:06:39) setwindow pcb
+\i (00:06:39) zoom in 14485.7 9182.9
+\i (00:06:39) trapsize 225
+\i (00:06:41) pick grid 15236.0 10005.1
+\t (00:06:41) last pick:  15225.0  10000.0
+\t (00:06:41) last pick:  15200.0  10000.0
+\t (00:06:41) Moving D9 / RB160M-60TR_SOD123_(REPLACED WI / SOD123.
+\t (00:06:41) Pick new location for the element(s).
+\i (00:06:43) pick grid 14804.7 9690.6
+\t (00:06:43) last pick:  14800.0  9700.0
+\i (00:06:44) pick grid 15042.8 9569.3
+\t (00:06:44) last pick:  15050.0  9575.0
+\i (00:06:46) drag_start grid 14634.0 9901.7
+\i (00:06:47) drag_stop 14953.0 9510.9
+\i (00:06:48) pick grid 14818.2 9699.6
+\t (00:06:48) last pick:  14825.0  9700.0
+\t (00:06:48) Moving D1 / LED RED KPG-1608_0_LED0805_RED / LED0805.
+\t (00:06:48) Moving C176 / C0603_C0805_10UF / C0805.
+\t (00:06:48) Moving D9 / RB160M-60TR_SOD123_(REPLACED WI / SOD123.
+\t (00:06:48) Moving D3 / LED BLUE KPG-1608_0_LED0805_BLU / LED0805.
+\t (00:06:48) Moving L8 / BEAD_ FERRITE_R0603_180OHM AT 1 / R0603.
+\t (00:06:48) Pick new location for the element(s).
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 14247.6 9344.7
+\i (00:06:48) trapsize 449
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 14009.5 9344.6
+\i (00:06:48) trapsize 899
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 21348.8 9596.2
+\i (00:06:48) trapsize 899
+\i (00:06:48) zoom out 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom out 21348.8 9596.2
+\i (00:06:48) trapsize 899
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 6056.0 5319.2
+\i (00:06:49) trapsize 449
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 6056.0 5319.2
+\i (00:06:49) trapsize 225
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 6056.0 5319.2
+\i (00:06:49) trapsize 112
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 6056.0 5319.2
+\i (00:06:49) trapsize 56
+\i (00:06:50) zoom out 1 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) zoom out 6533.3 5530.4
+\i (00:06:50) trapsize 112
+\i (00:06:50) zoom out 1 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) zoom out 6531.1 5528.2
+\i (00:06:50) trapsize 225
+\i (00:06:51) pick grid 9707.5 5721.3
+\t (00:06:51) last pick:  9700.0  5725.0
+\i (00:06:52) pick grid 9999.5 5757.3
+\t (00:06:52) last pick:  10000.0  5750.0
+\i (00:06:53) pick grid 9828.8 6184.1
+\t (00:06:53) last pick:  9825.0  6175.0
+\t (00:06:53) last pick:  9800.0  6200.0
+\t (00:06:53) Moving U18 / AT24C08B-PU_DFN8_1P5R_AT24MAC40 / DFN8_1P5R.
+\t (00:06:53) Pick new location for the element(s).
+\i (00:06:54) pick grid 8835.9 5954.9
+\t (00:06:54) last pick:  8825.0  5950.0
+\i (00:06:55) pick grid 9599.6 6264.9
+\t (00:06:55) last pick:  9600.0  6275.0
+\i (00:06:55) zoom out 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom out 7034.4 5429.3
+\i (00:06:55) trapsize 449
+\i (00:06:55) zoom out 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom out 7835.1 5420.3
+\i (00:06:55) trapsize 899
+\i (00:06:55) zoom out 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom out 15670.2 8248.4
+\i (00:06:55) trapsize 899
+\i (00:06:56) zoom in 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom in 9883.7 6882.7
+\i (00:06:56) trapsize 449
+\i (00:06:56) zoom in 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom in 8285.9 6846.8
+\i (00:06:56) trapsize 225
+\i (00:06:57) pick grid 9521.4 6959.1
+\t (00:06:57) last pick:  9525.0  6950.0
+\i (00:07:18) zoom out 1 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) zoom out 10307.6 7066.9
+\i (00:07:18) trapsize 449
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in 16309.8 10409.5
+\i (00:07:32) trapsize 225
+\i (00:07:32) zoom in 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom in 16166.0 10364.6
+\i (00:07:32) trapsize 112
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 15865.0 10308.4
+\i (00:07:33) trapsize 225
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 15757.2 10335.4
+\i (00:07:33) trapsize 449
+\i (00:07:34) pick grid 15595.4 10407.3
+\t (00:07:34) last pick:  15600.0  10400.0
+\t (00:07:34) last pick:  15600.0  10400.0
+\t (00:07:34) Moving L1 / L_10UH-150 MA_L1008_2.2UH / L1008.
+\t (00:07:34) Pick new location for the element(s).
+\i (00:07:35) pick grid 9359.7 6058.4
+\t (00:07:35) last pick:  9350.0  6050.0
+\i (00:07:36) pick grid 9683.2 5995.6
+\t (00:07:36) last pick:  9675.0  6000.0
+\i (00:07:45) pick grid 8083.8 9499.8
+\t (00:07:45) last pick:  8075.0  9500.0
+\t (00:07:45) last pick:  8100.0  9500.0
+\t (00:07:45) Moving MH1 / PTH_2_MHC50D30_PTH / MHC50D30.
+\t (00:07:45) Pick new location for the element(s).
+\i (00:07:47) pick grid 6304.7 8232.9
+\t (00:07:47) last pick:  6300.0  8225.0
+\i (00:07:48) pick grid 8811.6 9481.8
+\t (00:07:48) last pick:  8800.0  9475.0
+\t (00:07:48) last pick:  8800.0  9500.0
+\t (00:07:48) Moving MH2 / PTH_2_MHC50D30_PTH / MHC50D30.
+\t (00:07:48) Pick new location for the element(s).
+\i (00:07:49) pick grid 6295.7 7801.6
+\t (00:07:49) last pick:  6300.0  7800.0
+\i (00:07:49) pick grid 6412.5 7469.1
+\t (00:07:49) last pick:  6425.0  7475.0
+\i (00:08:24) pick grid 7427.9 10101.8
+\t (00:08:24) last pick:  7425.0  10100.0
+\i (00:08:29) pick grid 4085.3 10973.4
+\t (00:08:29) last pick:  4075.0  10975.0
+\i (00:08:29) pick grid 7203.2 10038.9
+\t (00:08:29) last pick:  7200.0  10050.0
+\i (00:08:30) pick grid 6385.6 8241.9
+\t (00:08:30) last pick:  6375.0  8250.0
+\t (00:08:30) last pick:  6300.0  8225.0
+\t (00:08:30) Moving MH1 / PTH_2_MHC50D30_PTH / MHC50D30.
+\t (00:08:30) Pick new location for the element(s).
+\i (00:08:31) pick grid 6196.9 8457.5
+\t (00:08:31) last pick:  6200.0  8450.0
+\i (00:08:32) zoom in 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom in 6313.7 8098.1
+\i (00:08:32) trapsize 225
+\i (00:08:32) zoom in 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom in 6313.7 8098.2
+\i (00:08:32) trapsize 112
+\i (00:08:32) zoom in 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom in 6313.7 8098.2
+\i (00:08:32) trapsize 56
+\i (00:08:33) zoom out 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom out 6332.8 8102.7
+\i (00:08:33) trapsize 112
+\i (00:08:33) zoom out 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom out 6337.3 8100.4
+\i (00:08:33) trapsize 225
+\i (00:08:33) pick grid 6467.6 8190.3
+\t (00:08:33) last pick:  6475.0  8200.0
+\i (00:08:34) pick grid 6301.4 8190.3
+\t (00:08:34) last pick:  6300.0  8200.0
+\i (00:08:37) pick grid 5182.7 9551.5
+\t (00:08:37) last pick:  5175.0  9550.0
+\i (00:08:40) delete 
+\i (00:08:41) pick grid 6216.0 8419.4
+\t (00:08:41) last pick:  6225.0  8425.0
+\i (00:08:43) setwindow form.find
+\i (00:08:43) FORM find symbols YES 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) pick grid 6157.6 8446.4
+\t (00:08:44) last pick:  6150.0  8450.0
+\t (00:08:44) Symbol "Mh1"
+\i (00:08:44) pick grid 6171.1 8410.4
+\t (00:08:44) last pick:  6175.0  8400.0
+\i (00:08:45) pick grid 6225.0 7687.1
+\t (00:08:45) last pick:  6225.0  7675.0
+\t (00:08:45) Symbol "Mh2"
+\i (00:08:46) pick grid dbl 6225.0 7687.1
+\t (00:08:46) last pick:  6225.0  7675.0
+\i (00:08:49) setwindow form.find
+\i (00:08:49) FORM find symbols NO 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) save 
+\i (00:08:54) fillin yes 
+\i (00:08:54) etchedit 
+\i (00:08:55) pick grid 5721.8 8271.1
+\t (00:08:55) last pick:  5725.0  8275.0
+\i (00:08:55) zoom out 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 6813.5 8334.0
+\i (00:08:55) trapsize 449
+\i (00:08:55) zoom out 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 6813.5 8334.1
+\i (00:08:55) trapsize 899
+\i (00:08:55) zoom out 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 9955.6 10368.9
+\i (00:08:55) trapsize 899
+\i (00:08:56) zoom in 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom in 9218.8 9075.1
+\i (00:08:56) trapsize 449
+\i (00:08:56) zoom in 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom in 7944.5 9075.1
+\i (00:08:56) trapsize 225
+\i (00:08:57) pick grid 8393.8 9322.3
+\t (00:08:57) last pick:  8400.0  9325.0
+\i (00:19:30) pick grid 7585.1 9699.7
+\t (00:19:30) last pick:  7575.0  9700.0
+\i (00:19:37) pick grid 6533.8 8738.2
+\t (00:19:37) last pick:  6525.0  8750.0
+\i (00:19:47) setwindow form.mini
+\i (00:19:47) FORM mini class BOARD GEOMETRY 
+\i (00:20:03) FORM mini subclass SILKSCREEN_TOP 
+\i (00:20:05) FORM mini subcolor 1 
+\i (00:20:07) setwindow pcb
+\i (00:20:07) zoom in 1 
+\i (00:20:07) setwindow pcb
+\i (00:20:07) zoom in 11165.7 9367.2
+\i (00:20:07) trapsize 112
+\i (00:20:07) zoom in 1 
+\i (00:20:07) setwindow pcb
+\i (00:20:07) zoom in 11165.7 9367.2
+\i (00:20:07) trapsize 56
+\i (00:20:07) zoom in 1 
+\i (00:20:07) setwindow pcb
+\i (00:20:07) zoom in 11165.8 9367.2
+\i (00:20:07) trapsize 28
+\i (00:20:07) zoom in 1 
+\i (00:20:07) setwindow pcb
+\i (00:20:07) zoom in 11165.8 9367.2
+\i (00:20:07) trapsize 14
+\i (00:20:09) zoom out 1 
+\i (00:20:09) setwindow pcb
+\i (00:20:09) zoom out 11136.1 9367.2
+\i (00:20:09) trapsize 28
+\i (00:20:23) setwindow form.mini
+\i (00:20:23) FORM mini subclass SOLDERMASK_TOP 
+\i (00:20:24) FORM mini subcolor 1 
+\i (00:20:26) setwindow pcb
+\i (00:20:26) pick grid 11348.3 9450.4
+\t (00:20:26) last pick:  11300.0  9500.0
+\i (00:20:27) zoom out 1 
+\i (00:20:27) setwindow pcb
+\i (00:20:27) zoom out 11350.6 9409.4
+\i (00:20:27) trapsize 56
+\i (00:20:27) zoom out 1 
+\i (00:20:27) setwindow pcb
+\i (00:20:27) zoom out 11352.8 9407.1
+\i (00:20:27) trapsize 112
+\i (00:20:27) zoom out 1 
+\i (00:20:27) setwindow pcb
+\i (00:20:27) zoom out 11355.1 9402.7
+\i (00:20:27) trapsize 225
+\i (00:20:27) zoom out 1 
+\i (00:20:27) setwindow pcb
+\i (00:20:27) zoom out 11355.1 9398.2
+\i (00:20:27) trapsize 449
+\i (00:20:27) zoom out 1 
+\i (00:20:27) setwindow pcb
+\i (00:20:27) zoom out 13567.0 9371.3
+\i (00:20:27) trapsize 899
+\i (00:20:28) zoom in 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom in 6936.6 7098.3
+\i (00:20:28) trapsize 449
+\i (00:20:28) zoom in 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom in 6920.2 7053.4
+\i (00:20:28) trapsize 225
+\i (00:20:28) zoom in 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom in 6947.2 7039.9
+\i (00:20:28) trapsize 112
+\i (00:20:28) zoom in 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom in 6954.0 7037.7
+\i (00:20:28) trapsize 56
+\i (00:20:28) zoom in 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom in 6955.2 7036.6
+\i (00:20:28) trapsize 28
+\i (00:20:28) zoom out 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom out 7029.3 7045.6
+\i (00:20:28) trapsize 56
+\i (00:20:28) zoom out 1 
+\i (00:20:28) setwindow pcb
+\i (00:20:28) zoom out 7037.2 7043.3
+\i (00:20:28) trapsize 112
+\i (00:20:29) zoom in 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom in 7369.5 7272.4
+\i (00:20:29) trapsize 56
+\i (00:20:29) zoom in 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom in 7369.6 7272.5
+\i (00:20:29) trapsize 28
+\i (00:20:29) zoom in 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom in 7369.6 7272.5
+\i (00:20:29) trapsize 14
+\i (00:20:29) zoom in 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom in 7369.6 7272.6
+\i (00:20:29) trapsize 7
+\i (00:20:29) zoom in 1 
+\i (00:20:29) setwindow pcb
+\i (00:20:29) zoom in 7369.6 7272.6
+\i (00:20:29) trapsize 4
+\i (00:20:30) zoom out 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom out 7369.7 7272.8
+\i (00:20:30) trapsize 7
+\i (00:20:30) zoom out 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom out 7369.6 7272.8
+\i (00:20:30) trapsize 14
+\i (00:20:31) zoom out 1 
+\i (00:20:31) setwindow pcb
+\i (00:20:31) zoom out 7378.9 7273.1
+\i (00:20:31) trapsize 28
+\i (00:20:31) zoom out 1 
+\i (00:20:31) setwindow pcb
+\i (00:20:31) zoom out 7378.9 7273.1
+\i (00:20:31) trapsize 56
+\i (00:20:32) zoom out 1 
+\i (00:20:32) setwindow pcb
+\i (00:20:32) zoom out 7381.1 7275.4
+\i (00:20:32) trapsize 112
+\i (00:20:33) zoom out 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom out 8434.5 7601.1
+\i (00:20:33) trapsize 225
+\i (00:20:33) zoom out 1 
+\i (00:20:33) setwindow pcb
+\i (00:20:33) zoom out 8434.5 7601.0
+\i (00:20:33) trapsize 449
+\i (00:20:34) zoom in 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom in 8868.0 5723.3
+\i (00:20:34) trapsize 225
+\i (00:20:34) zoom in 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom in 8868.0 5723.3
+\i (00:20:34) trapsize 112
+\i (00:20:34) zoom in 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom in 8868.0 5723.3
+\i (00:20:34) trapsize 56
+\i (00:20:34) zoom out 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom out 9092.6 5745.8
+\i (00:20:34) trapsize 112
+\i (00:20:34) zoom out 1 
+\i (00:20:34) setwindow pcb
+\i (00:20:34) zoom out 9092.6 5745.7
+\i (00:20:34) trapsize 225
+\i (00:20:36) zoom in 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom in 8400.8 6293.8
+\i (00:20:36) trapsize 112
+\i (00:20:37) drag_start grid 8699.6 6725.1
+\i (00:20:38) drag_stop 8585.0 6664.5
+\i (00:20:38) pick grid 8542.3 6520.7
+\t (00:20:38) last pick:  8500.0  6500.0
+\i (00:20:39) pick grid 8753.5 6785.8
+\t (00:20:39) last pick:  8800.0  6800.0
+\i (00:20:39) pick grid 8769.2 6516.2
+\t (00:20:39) last pick:  8800.0  6500.0
+\i (00:20:40) zoom out 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 8620.9 6408.4
+\i (00:20:40) trapsize 225
+\i (00:20:40) zoom out 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 8625.5 6260.2
+\i (00:20:40) trapsize 449
+\i (00:20:40) zoom out 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 10170.8 6260.2
+\i (00:20:40) trapsize 899
+\i (00:20:41) zoom in 1 
+\i (00:20:41) setwindow pcb
+\i (00:20:41) zoom in 13280.1 10494.7
+\i (00:20:41) trapsize 449
+\i (00:20:41) zoom in 1 
+\i (00:20:41) setwindow pcb
+\i (00:20:41) zoom in 9975.2 10494.8
+\i (00:20:41) trapsize 225
+\i (00:20:41) zoom in 1 
+\i (00:20:41) setwindow pcb
+\i (00:20:41) zoom in 9975.2 10494.8
+\i (00:20:41) trapsize 112
+\i (00:20:42) zoom out 1 
+\i (00:20:42) setwindow pcb
+\i (00:20:42) zoom out 10341.4 10512.8
+\i (00:20:42) trapsize 225
+\i (00:20:43) zoom in 1 
+\i (00:20:43) setwindow pcb
+\i (00:20:43) zoom in 11576.8 10620.7
+\i (00:20:43) trapsize 112
+\i (00:20:43) zoom in 1 
+\i (00:20:43) setwindow pcb
+\i (00:20:43) zoom in 11574.5 10629.7
+\i (00:20:43) trapsize 56
+\i (00:20:43) zoom in 1 
+\i (00:20:43) setwindow pcb
+\i (00:20:43) zoom in 11567.8 10633.1
+\i (00:20:43) trapsize 28
+\i (00:20:44) pick grid 11398.2 10705.0
+\t (00:20:44) last pick:  11400.0  10700.0
+\i (00:20:44) pick grid 11405.0 10697.2
+\t (00:20:44) last pick:  11400.0  10700.0
+\i (00:20:45) pick grid 11406.6 10674.7
+\t (00:20:45) last pick:  11400.0  10700.0
+\i (00:20:45) pick grid 11796.9 10695.5
+\t (00:20:45) last pick:  11800.0  10700.0
+\i (00:20:46) zoom out 1 
+\i (00:20:46) setwindow pcb
+\i (00:20:46) zoom out 11594.2 10603.9
+\i (00:20:46) trapsize 56
+\i (00:20:47) zoom in 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom in 12165.9 10374.9
+\i (00:20:47) trapsize 28
+\i (00:20:47) zoom in 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom in 12165.9 10374.9
+\i (00:20:47) trapsize 14
+\i (00:20:47) zoom in 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom in 12165.9 10374.9
+\i (00:20:47) trapsize 7
+\i (00:20:47) zoom out 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom out 12108.5 10401.2
+\i (00:20:47) trapsize 14
+\i (00:20:47) zoom out 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom out 12107.9 10401.1
+\i (00:20:47) trapsize 28
+\i (00:20:47) zoom out 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom out 12107.9 10401.2
+\i (00:20:47) trapsize 56
+\i (00:20:47) zoom out 1 
+\i (00:20:47) setwindow pcb
+\i (00:20:47) zoom out 12108.0 10401.2
+\i (00:20:47) trapsize 112
+\i (00:20:49) zoom in 1 
+\i (00:20:49) setwindow pcb
+\i (00:20:49) zoom in 12624.6 10140.6
+\i (00:20:49) trapsize 56
+\i (00:20:49) zoom in 1 
+\i (00:20:49) setwindow pcb
+\i (00:20:49) zoom in 12624.6 10140.6
+\i (00:20:49) trapsize 28
+\i (00:20:50) zoom in 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom in 12624.6 10140.7
+\i (00:20:50) trapsize 14
+\i (00:20:50) zoom in 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom in 12624.6 10140.7
+\i (00:20:50) trapsize 7
+\i (00:20:50) zoom in 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom in 12624.6 10140.7
+\i (00:20:50) trapsize 4
+\i (00:20:50) zoom out 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom out 12614.6 10142.4
+\i (00:20:50) trapsize 7
+\i (00:20:50) zoom out 1 
+\i (00:20:50) setwindow pcb
+\i (00:20:50) zoom out 12612.5 10142.5
+\i (00:20:50) trapsize 14
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12606.1 10093.3
+\i (00:20:51) trapsize 28
+\i (00:20:51) zoom in 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 12606.0 10092.7
+\i (00:20:51) trapsize 14
+\i (00:20:51) zoom in 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 12606.1 10092.7
+\i (00:20:51) trapsize 7
+\i (00:20:51) zoom in 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 12606.1 10092.8
+\i (00:20:51) trapsize 4
+\i (00:20:51) zoom in 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 12606.1 10092.8
+\i (00:20:51) trapsize 2
+\i (00:20:51) zoom in 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom in 12606.2 10092.8
+\i (00:20:51) trapsize 1
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12602.0 10096.7
+\i (00:20:51) trapsize 2
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12601.7 10096.8
+\i (00:20:51) trapsize 4
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12601.1 10096.9
+\i (00:20:51) trapsize 7
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12600.5 10097.0
+\i (00:20:51) trapsize 14
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12600.2 10097.2
+\i (00:20:51) trapsize 28
+\i (00:20:51) zoom out 1 
+\i (00:20:51) setwindow pcb
+\i (00:20:51) zoom out 12597.9 10099.0
+\i (00:20:51) trapsize 56
+\i (00:20:53) zoom out 1 
+\i (00:20:53) setwindow pcb
+\i (00:20:53) zoom out 12388.9 10133.7
+\i (00:20:53) trapsize 112
+\i (00:20:53) zoom out 1 
+\i (00:20:53) setwindow pcb
+\i (00:20:53) zoom out 12388.9 10133.8
+\i (00:20:53) trapsize 225
+\i (00:20:58) pick grid 12222.7 8893.8
+\t (00:20:58) last pick:  12200.0  8900.0
+\i (00:22:04) zoom out 1 
+\i (00:22:04) setwindow pcb
+\i (00:22:04) zoom out 12204.8 8911.8
+\i (00:22:04) trapsize 449
+\i (00:22:04) zoom out 1 
+\i (00:22:04) setwindow pcb
+\i (00:22:04) zoom out 11143.7 8911.8
+\i (00:22:04) trapsize 899
+\i (00:22:04) zoom out 1 
+\i (00:22:04) setwindow pcb
+\i (00:22:04) zoom out 15616.3 4941.9
+\i (00:22:04) trapsize 899
+\i (00:22:05) zoom in 1 
+\i (00:22:05) setwindow pcb
+\i (00:22:05) zoom in 7529.6 6900.6
+\i (00:22:05) trapsize 449
+\i (00:22:05) zoom in 1 
+\i (00:22:05) setwindow pcb
+\i (00:22:05) zoom in 7099.9 6900.6
+\i (00:22:05) trapsize 225
+\i (00:22:05) zoom in 1 
+\i (00:22:05) setwindow pcb
+\i (00:22:05) zoom in 7099.9 6900.7
+\i (00:22:05) trapsize 112
+\i (00:22:06) zoom out 1 
+\i (00:22:06) setwindow pcb
+\i (00:22:06) zoom out 7189.7 6893.9
+\i (00:22:06) trapsize 225
+\i (00:22:06) pick grid 6731.6 6808.6
+\t (00:22:06) last pick:  6700.0  6800.0
+\i (00:26:04) pick grid 10321.2 7033.3
+\t (00:26:04) last pick:  10300.0  7000.0
+\i (00:26:19) pick grid 9916.8 7284.8
+\t (00:26:19) last pick:  9900.0  7300.0
+\i (00:26:23) pick grid 10909.7 6166.2
+\t (00:26:23) last pick:  10900.0  6200.0
+\i (00:26:24) pick grid 10936.7 6193.1
+\t (00:26:24) last pick:  10900.0  6200.0
+\i (00:26:26) move 
+\t (00:26:26) Select element(s) to move.
+\i (00:26:28) pick grid 10887.2 6193.1
+\t (00:26:28) last pick:  10900.0  6200.0
+\t (00:26:28) last pick:  10900.0  6200.0
+\t (00:26:28) Moving U7 / TLV431A_SOT23_123_TLV431A / SOT23_123.
+\t (00:26:28) Pick new location for the element(s).
+\i (00:26:29) pick grid 9350.8 6880.5
+\t (00:26:29) last pick:  9400.0  6900.0
+\i (00:26:29) pick grid 9853.9 6723.3
+\t (00:26:29) last pick:  9900.0  6700.0
+\i (00:26:57) pick grid 9903.4 7567.9
+\t (00:26:57) last pick:  9900.0  7600.0
+\i (00:27:38) pick grid 9800.0 7612.8
+\t (00:27:38) last pick:  9800.0  7600.0
+\i (00:27:40) pick grid 6866.3 5541.7
+\t (00:27:40) last pick:  6900.0  5500.0
+\i (00:28:59) xrefdes J18 
+\i (00:28:59) xname_flush 
+\i (00:28:59) trapsize 313
+\t (00:28:59) last pick:  7400.0  6800.0
+\t (00:28:59) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:28:59) Pick new location for the element(s).
+\i (00:29:22) xrefdes Mh1 
+\i (00:29:22) xNet Gnd_Power 
+\t (00:29:22) Nets are not selectable at this time.
+\i (00:29:22) xrefdes Mh2 
+\i (00:29:22) xname_flush 
+\i (00:32:10) pick grid 7249.9 6818.8
+\t (00:32:10) last pick:  7200.0  6800.0
+\i (00:32:10) pick grid 10084.8 5698.6
+\t (00:32:10) last pick:  10100.0  5700.0
+\i (00:32:11) zoom out 1 
+\i (00:32:11) setwindow pcb
+\i (00:32:11) zoom out 5829.3 6149.2
+\i (00:32:11) trapsize 626
+\i (00:32:11) zoom out 1 
+\i (00:32:11) setwindow pcb
+\i (00:32:11) zoom out 9161.9 6149.1
+\i (00:32:11) trapsize 899
+\i (00:32:12) zoom in 1 
+\i (00:32:12) setwindow pcb
+\i (00:32:12) zoom in 10135.3 6038.1
+\i (00:32:12) trapsize 449
+\i (00:32:12) zoom in 1 
+\i (00:32:12) setwindow pcb
+\i (00:32:12) zoom in 8402.8 6038.1
+\i (00:32:12) trapsize 225
+\i (00:32:13) pick grid 9678.7 6208.8
+\t (00:32:13) last pick:  9700.0  6200.0
+\i (00:32:18) unrats all 
+\i (00:32:18) etchedit 
+\i (00:32:20) rats all 
+\i (00:32:20) etchedit 
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 7800.8 7943.0
+\i (00:32:21) trapsize 449
+\i (00:32:21) zoom out 1 
+\i (00:32:21) setwindow pcb
+\i (00:32:21) zoom out 7207.6 7943.0
+\i (00:32:21) trapsize 899
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 8697.7 6343.6
+\i (00:32:22) trapsize 449
+\i (00:32:22) zoom in 1 
+\i (00:32:22) setwindow pcb
+\i (00:32:22) zoom in 7701.9 6334.6
+\i (00:32:22) trapsize 225
+\i (00:32:25) zoom in 1 
+\i (00:32:25) setwindow pcb
+\i (00:32:25) zoom in 8020.9 6644.6
+\i (00:32:25) trapsize 112
+\i (00:32:25) pick grid 7960.2 6768.1
+\t (00:32:25) last pick:  8000.0  6800.0
+\i (00:32:27) pick grid 7632.3 6878.2
+\t (00:32:27) last pick:  7600.0  6900.0
+\i (00:32:29) pick grid 7544.7 6972.5
+\t (00:32:29) last pick:  7500.0  7000.0
+\i (00:32:29) pick grid 8023.1 6846.8
+\t (00:32:29) last pick:  8000.0  6800.0
+\i (00:32:30) pick grid 8032.1 6795.1
+\t (00:32:30) last pick:  8000.0  6800.0
+\i (00:32:30) prepopup 8029.9 6790.6
+\i (00:32:31) pick grid 7587.3 6952.3
+\t (00:32:31) last pick:  7600.0  7000.0
+\i (00:32:32) move 
+\t (00:32:32) Select element(s) to move.
+\i (00:32:33) pick grid 8070.3 6817.6
+\t (00:32:33) last pick:  8100.0  6800.0
+\t (00:32:33) last pick:  8100.0  6700.0
+\t (00:32:33) Moving U24 / SAMA5D27_CU_MRLC_BGA289P8_SAMA5 / BGA289P8.
+\t (00:32:33) Pick new location for the element(s).
+\i (00:32:34) prepopup 8122.0 6837.8
+\i (00:32:36) rotate 
+\t (00:32:36) Spin the element(s).
+\i (00:32:55) iangle 0.000
+\t (00:32:55) last angle:  0.000 Degrees
+\i (00:32:58) pick grid 8200.6 6945.6
+\t (00:32:58) last pick:  8200.0  6900.0
+\i (00:33:00) zoom out 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom out 8216.3 7159.0
+\i (00:33:00) trapsize 225
+\i (00:33:00) zoom out 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom out 8216.4 7154.5
+\i (00:33:00) trapsize 449
+\i (00:33:00) zoom in 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom in 8243.3 7190.5
+\i (00:33:00) trapsize 225
+\i (00:33:00) zoom in 1 
+\i (00:33:00) setwindow pcb
+\i (00:33:00) zoom in 8243.3 7190.5
+\i (00:33:00) trapsize 112
+\i (00:33:01) zoom out 1 
+\i (00:33:01) setwindow pcb
+\i (00:33:01) zoom out 8070.4 7109.7
+\i (00:33:01) trapsize 225
+\i (00:33:02) pick grid 8169.2 8205.8
+\t (00:33:02) last pick:  8200.0  8200.0
+\i (00:33:03) zoom in 1 
+\i (00:33:03) setwindow pcb
+\i (00:33:03) zoom in 8447.8 5685.5
+\i (00:33:03) trapsize 112
+\i (00:33:04) pick grid 8384.9 5862.9
+\t (00:33:04) last pick:  8400.0  5900.0
+\t (00:33:04) last pick:  8400.0  5900.0
+\t (00:33:04) Moving U11 / EMMC_BGA153P5_MTFC4GLDEA-0M WT / BGA153P5.
+\t (00:33:04) Pick new location for the element(s).
+\i (00:33:06) pick grid 8441.0 6051.6
+\t (00:33:06) last pick:  8400.0  6100.0
+\i (00:33:07) pick grid 7924.4 5811.3
+\t (00:33:07) last pick:  7900.0  5800.0
+\t (00:33:07) last pick:  7900.0  5800.0
+\t (00:33:07) Moving U2 / ACT8945A_QFN40_1P4H_ACT8945AQJ4 / QFN40_1P4H.
+\t (00:33:07) Pick new location for the element(s).
+\i (00:33:08) pick grid 7892.9 5851.7
+\t (00:33:08) last pick:  7900.0  5900.0
+\i (00:33:09) pick grid 7985.0 6202.1
+\t (00:33:09) last pick:  8000.0  6200.0
+\t (00:33:09) last pick:  8000.0  6200.0
+\t (00:33:09) Moving Y4 / XTAL_13Y_A_X4S32X25__12MHZ CL=1 / X4S32X25.
+\t (00:33:09) Pick new location for the element(s).
+\i (00:33:13) pick grid 8003.0 6361.6
+\t (00:33:13) last pick:  8000.0  6400.0
+\i (00:33:14) pick grid 8310.7 6496.4
+\t (00:33:14) last pick:  8300.0  6500.0
+\i (00:33:14) zoom out 1 
+\i (00:33:14) setwindow pcb
+\i (00:33:14) zoom out 8095.1 6125.8
+\i (00:33:14) trapsize 225
+\i (00:33:14) zoom out 1 
+\i (00:33:14) setwindow pcb
+\i (00:33:14) zoom out 8099.6 6112.3
+\i (00:33:14) trapsize 449
+\i (00:33:15) zoom in 1 
+\i (00:33:15) setwindow pcb
+\i (00:33:15) zoom in 8178.0 7019.7
+\i (00:33:15) trapsize 225
+\i (00:33:15) zoom in 1 
+\i (00:33:15) setwindow pcb
+\i (00:33:15) zoom in 8178.0 7019.7
+\i (00:33:15) trapsize 112
+\i (00:33:15) zoom out 1 
+\i (00:33:15) setwindow pcb
+\i (00:33:15) zoom out 8193.8 6992.7
+\i (00:33:15) trapsize 225
+\i (00:33:15) zoom out 1 
+\i (00:33:15) setwindow pcb
+\i (00:33:15) zoom out 8193.8 6988.3
+\i (00:33:15) trapsize 449
+\i (00:33:26) add line 
+\i (00:33:35) setwindow form.mini
+\i (00:33:35) FORM mini subclass OUTLINE 
+\i (00:33:37) FORM mini subcolor 0 
+\i (00:33:49) FORM mini class ETCH 
+\i (00:33:53) FORM mini class BOARD GEOMETRY 
+\i (00:34:01) FORM mini subclass OUTLINE 
+\i (00:34:11) FORM mini subcolor 1 
+\i (00:34:16) FORM mini subcolor color 71 
+\i (00:34:20) setwindow pcb
+\i (00:34:20) zoom in 1 
+\i (00:34:20) setwindow pcb
+\i (00:34:20) zoom in 6998.7 8156.4
+\i (00:34:20) trapsize 225
+\i (00:34:20) zoom in 1 
+\i (00:34:20) setwindow pcb
+\i (00:34:20) zoom in 6998.8 8156.5
+\i (00:34:20) trapsize 112
+\i (00:34:20) zoom in 1 
+\i (00:34:20) setwindow pcb
+\i (00:34:20) zoom in 6998.8 8156.5
+\i (00:34:20) trapsize 56
+\i (00:34:20) pick grid 7051.6 8200.4
+\t (00:34:20) last pick:  7100.0  8200.0
+\i (00:34:22) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 6904.5 8136.3
+\i (00:34:22) trapsize 112
+\i (00:34:22) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 6904.5 8134.1
+\i (00:34:22) trapsize 225
+\i (00:34:22) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 6904.6 8134.2
+\i (00:34:22) trapsize 449
+\i (00:34:24) prepopup 8402.7 8269.0
+\i (00:34:27) oops 
+\i (00:34:30) setwindow form.mini
+\i (00:34:30) FORM mini subcolor color 47 
+\i (00:34:32) setwindow pcb
+\i (00:34:32) zoom in 1 
+\i (00:34:32) setwindow pcb
+\i (00:34:32) zoom in 7019.0 8053.3
+\i (00:34:32) trapsize 225
+\i (00:34:32) zoom in 1 
+\i (00:34:32) setwindow pcb
+\i (00:34:32) zoom in 7019.0 8053.4
+\i (00:34:32) trapsize 112
+\i (00:34:33) pick grid 7054.9 8203.9
+\t (00:34:33) last pick:  7100.0  8200.0
+\i (00:34:35) pick grid 9254.0 8199.4
+\t (00:34:35) last pick:  9300.0  8200.0
+\i (00:34:36) pick grid 9305.7 7348.1
+\t (00:34:36) last pick:  9300.0  7300.0
+\i (00:34:38) zoom out 1 
+\i (00:34:38) setwindow pcb
+\i (00:34:38) zoom out 9204.6 8260.1
+\i (00:34:38) trapsize 225
+\i (00:34:38) zoom out 1 
+\i (00:34:38) setwindow pcb
+\i (00:34:38) zoom out 9195.7 8260.1
+\i (00:34:38) trapsize 449
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 9272.8 5447.7
+\i (00:34:39) trapsize 225
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 9272.8 5447.7
+\i (00:34:39) trapsize 112
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 9272.8 5447.7
+\i (00:34:39) trapsize 56
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 9272.8 5447.7
+\i (00:34:39) trapsize 28
+\i (00:34:39) zoom in 1 
+\i (00:34:39) setwindow pcb
+\i (00:34:39) zoom in 9272.3 5447.7
+\i (00:34:39) trapsize 14
+\i (00:34:41) pick grid 9288.0 5449.7
+\t (00:34:41) last pick:  9300.0  5400.0
+\i (00:34:42) zoom out 1 
+\i (00:34:42) setwindow pcb
+\i (00:34:42) zoom out 9310.5 5457.3
+\i (00:34:42) trapsize 28
+\i (00:34:42) zoom out 1 
+\i (00:34:42) setwindow pcb
+\i (00:34:42) zoom out 9282.9 5446.0
+\i (00:34:42) trapsize 56
+\i (00:34:42) zoom out 1 
+\i (00:34:42) setwindow pcb
+\i (00:34:42) zoom out 9239.1 5434.8
+\i (00:34:42) trapsize 112
+\i (00:34:42) zoom out 1 
+\i (00:34:42) setwindow pcb
+\i (00:34:42) zoom out 9234.6 5434.7
+\i (00:34:42) trapsize 225
+\i (00:34:43) zoom out 1 
+\i (00:34:43) setwindow pcb
+\i (00:34:43) zoom out 9459.3 5502.1
+\i (00:34:43) trapsize 449
+\i (00:34:43) zoom out 1 
+\i (00:34:43) setwindow pcb
+\i (00:34:43) zoom out 10125.9 5502.2
+\i (00:34:43) trapsize 899
+\i (00:34:43) zoom out 1 
+\i (00:34:43) setwindow pcb
+\i (00:34:43) zoom out 20252.6 8643.8
+\i (00:34:43) trapsize 899
+\i (00:34:47) zoom in 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom in 6900.6 5355.2
+\i (00:34:47) trapsize 449
+\i (00:34:47) zoom in 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom in 6785.4 5355.2
+\i (00:34:47) trapsize 225
+\i (00:34:47) zoom in 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom in 6785.5 5355.2
+\i (00:34:47) trapsize 112
+\i (00:34:47) zoom in 1 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) zoom in 6785.5 5355.2
+\i (00:34:47) trapsize 56
+\i (00:34:49) pick grid 6854.0 5370.9
+\t (00:34:49) last pick:  6900.0  5400.0
+\i (00:34:50) pick grid 6851.8 5679.8
+\t (00:34:50) last pick:  6900.0  5700.0
+\i (00:34:51) zoom out 1 
+\i (00:34:51) setwindow pcb
+\i (00:34:51) zoom out 6940.5 5623.6
+\i (00:34:51) trapsize 112
+\i (00:34:51) zoom out 1 
+\i (00:34:51) setwindow pcb
+\i (00:34:51) zoom out 6940.5 5610.2
+\i (00:34:51) trapsize 225
+\i (00:34:51) zoom out 1 
+\i (00:34:51) setwindow pcb
+\i (00:34:51) zoom out 6940.5 5610.2
+\i (00:34:51) trapsize 449
+\i (00:34:52) zoom out 1 
+\i (00:34:52) setwindow pcb
+\i (00:34:52) zoom out 6922.4 5592.2
+\i (00:34:52) trapsize 899
+\i (00:34:52) zoom out 1 
+\i (00:34:52) setwindow pcb
+\i (00:34:52) zoom out 9344.6 9488.4
+\i (00:34:52) trapsize 899
+\i (00:34:53) zoom in 1 
+\i (00:34:53) setwindow pcb
+\i (00:34:53) zoom in 7026.4 8356.2
+\i (00:34:53) trapsize 449
+\i (00:34:53) zoom in 1 
+\i (00:34:53) setwindow pcb
+\i (00:34:53) zoom in 6848.3 8347.2
+\i (00:34:53) trapsize 225
+\i (00:34:53) zoom in 1 
+\i (00:34:53) setwindow pcb
+\i (00:34:53) zoom in 6848.3 8347.3
+\i (00:34:53) trapsize 112
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 6900.0 8194.5
+\i (00:34:54) trapsize 56
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 6900.0 8194.6
+\i (00:34:54) trapsize 28
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 6900.0 8194.6
+\i (00:34:54) trapsize 14
+\i (00:34:54) zoom in 1 
+\i (00:34:54) setwindow pcb
+\i (00:34:54) zoom in 6900.0 8194.6
+\i (00:34:54) trapsize 7
+\i (00:34:55) pick grid 6900.0 8194.6
+\t (00:34:55) last pick:  6900.0  8200.0
+\i (00:34:56) pick grid 7050.2 8198.9
+\t (00:34:56) last pick:  7100.0  8200.0
+\i (00:34:58) zoom out 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom out 6968.9 8222.0
+\i (00:34:58) trapsize 14
+\i (00:34:58) zoom out 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom out 6968.2 8221.1
+\i (00:34:58) trapsize 28
+\i (00:34:58) zoom out 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom out 6965.9 8218.8
+\i (00:34:58) trapsize 56
+\i (00:34:58) zoom out 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom out 6965.8 8218.9
+\i (00:34:58) trapsize 112
+\i (00:34:58) zoom out 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom out 6965.9 8216.6
+\i (00:34:58) trapsize 225
+\i (00:34:59) prepopup 7460.0 8495.2
+\i (00:35:01) done 
+\i (00:35:01) etchedit 
+\i (00:35:02) zoom out 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom out 7019.8 8333.5
+\i (00:35:02) trapsize 449
+\i (00:35:02) zoom out 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom out 8176.2 8333.4
+\i (00:35:02) trapsize 899
+\i (00:35:02) zoom out 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom out 16353.1 10944.0
+\i (00:35:02) trapsize 899
+\i (00:35:02) zoom in 1 
+\i (00:35:02) setwindow pcb
+\i (00:35:02) zoom in 7799.2 6020.1
+\i (00:35:02) trapsize 449
+\i (00:35:03) zoom in 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom in 7603.1 6307.7
+\i (00:35:03) trapsize 225
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 6610.2 6321.2
+\i (00:35:05) trapsize 112
+\i (00:35:06) zoom out 1 
+\i (00:35:06) setwindow pcb
+\i (00:35:06) zoom out 7275.2 6498.7
+\i (00:35:06) trapsize 225
+\i (00:35:07) zoom out 1 
+\i (00:35:07) setwindow pcb
+\i (00:35:07) zoom out 7153.8 6575.1
+\i (00:35:07) trapsize 449
+\i (00:35:07) pick grid 7153.9 6575.0
+\t (00:35:07) last pick:  7200.0  6600.0
+\i (00:35:08) prepopup 6246.4 6835.6
+\i (00:35:09) pick grid 5437.7 6943.4
+\t (00:35:09) last pick:  5400.0  6900.0
+\i (00:35:11) move 
+\t (00:35:11) Select element(s) to move.
+\i (00:35:11) zoom in 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom in 7324.6 5946.1
+\i (00:35:11) trapsize 225
+\i (00:35:11) zoom in 1 
+\i (00:35:11) setwindow pcb
+\i (00:35:11) zoom in 7297.6 5968.5
+\i (00:35:11) trapsize 112
+\i (00:35:12) pick grid 7223.5 6105.6
+\t (00:35:12) last pick:  7200.0  6100.0
+\i (00:35:13) pick grid 7187.5 6114.6
+\t (00:35:13) last pick:  7200.0  6100.0
+\i (00:35:15) pick grid 7187.5 6541.4
+\t (00:35:15) last pick:  7200.0  6500.0
+\i (00:35:17) move 
+\t (00:35:17) Select element(s) to move.
+\i (00:35:18) pick grid 7180.8 6271.8
+\t (00:35:18) last pick:  7200.0  6300.0
+\i (00:35:19) pick grid 7272.9 6202.2
+\t (00:35:19) last pick:  7300.0  6200.0
+\t (00:35:19) last pick:  7200.0  6800.0
+\t (00:35:19) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:35:19) Pick new location for the element(s).
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 7131.4 6325.7
+\i (00:35:20) trapsize 225
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 7131.4 6231.4
+\i (00:35:20) trapsize 449
+\i (00:35:20) zoom out 1 
+\i (00:35:20) setwindow pcb
+\i (00:35:20) zoom out 7131.4 6222.5
+\i (00:35:20) trapsize 899
+\i (00:35:21) zoom in 1 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom in 7044.4 6595.1
+\i (00:35:21) trapsize 449
+\i (00:35:21) zoom in 1 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom in 6866.3 6595.2
+\i (00:35:21) trapsize 225
+\i (00:35:21) zoom in 1 
+\i (00:35:21) setwindow pcb
+\i (00:35:21) zoom in 6866.3 6595.2
+\i (00:35:21) trapsize 112
+\i (00:35:22) zoom out 1 
+\i (00:35:22) setwindow pcb
+\i (00:35:22) zoom out 7048.2 6619.9
+\i (00:35:22) trapsize 225
+\i (00:35:24) pick grid 7093.2 6754.7
+\t (00:35:24) last pick:  7100.0  6800.0
+\i (00:35:26) pick grid 7147.1 8623.6
+\t (00:35:26) last pick:  7100.0  8600.0
+\i (00:35:28) pick grid 7852.5 7797.0
+\t (00:35:28) last pick:  7900.0  7800.0
+\t (00:35:28) last pick:  7900.0  7700.0
+\t (00:35:28) Moving U8 / MT41K128M16JT-125_BGADDR96P8B90 / BGADDR96P8B90X140.
+\t (00:35:28) Pick new location for the element(s).
+\i (00:35:29) pick grid 7735.7 7747.6
+\t (00:35:29) last pick:  7700.0  7700.0
+\i (00:35:31) pick grid 7740.2 8408.0
+\t (00:35:31) last pick:  7700.0  8400.0
+\i (00:35:32) zoom out 1 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom out 7848.0 8264.2
+\i (00:35:32) trapsize 449
+\i (00:35:33) zoom in 1 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom in 6940.5 7213.0
+\i (00:35:33) trapsize 225
+\i (00:35:33) zoom in 1 
+\i (00:35:33) setwindow pcb
+\i (00:35:33) zoom in 6940.5 7213.0
+\i (00:35:33) trapsize 112
+\i (00:35:34) zoom out 1 
+\i (00:35:34) setwindow pcb
+\i (00:35:34) zoom out 6727.1 7242.2
+\i (00:35:34) trapsize 225
+\i (00:35:38) pick grid 8021.0 6388.7
+\t (00:35:38) last pick:  8000.0  6400.0
+\t (00:35:38) last pick:  8000.0  6400.0
+\t (00:35:38) Moving Y4 / XTAL_13Y_A_X4S32X25__12MHZ CL=1 / X4S32X25.
+\t (00:35:38) Pick new location for the element(s).
+\i (00:35:39) pick grid 7832.3 6330.3
+\t (00:35:39) last pick:  7800.0  6300.0
+\i (00:35:39) pick grid 7877.2 5917.0
+\t (00:35:39) last pick:  7900.0  5900.0
+\t (00:35:39) last pick:  7900.0  5900.0
+\t (00:35:39) Moving U2 / ACT8945A_QFN40_1P4H_ACT8945AQJ4 / QFN40_1P4H.
+\t (00:35:39) Pick new location for the element(s).
+\i (00:35:40) pick grid 7715.5 5890.0
+\t (00:35:40) last pick:  7700.0  5900.0
+\i (00:35:40) pick grid 8366.9 6024.8
+\t (00:35:40) last pick:  8400.0  6000.0
+\t (00:35:40) last pick:  8400.0  6100.0
+\t (00:35:40) Moving U11 / EMMC_BGA153P5_MTFC4GLDEA-0M WT / BGA153P5.
+\t (00:35:40) Pick new location for the element(s).
+\i (00:35:41) pick grid 8286.1 5957.4
+\t (00:35:41) last pick:  8300.0  6000.0
+\i (00:35:42) pick grid 8712.9 6397.7
+\t (00:35:42) last pick:  8700.0  6400.0
+\i (00:35:43) pick grid 6511.5 7174.9
+\t (00:35:43) last pick:  6500.0  7200.0
+\i (00:35:45) pick grid 7064.1 7130.0
+\t (00:35:45) last pick:  7100.0  7100.0
+\t (00:35:45) last pick:  7100.0  6800.0
+\t (00:35:45) Moving J18 / 2X50PIN-1.27MM_2X50PIN-1_27MM_2 / 2X50PIN-1_27MM.
+\t (00:35:45) Pick new location for the element(s).
+\i (00:35:47) pick grid 7315.7 6752.6
+\t (00:35:47) last pick:  7300.0  6800.0
+\i (00:35:49) pick grid 7697.5 7655.6
+\t (00:35:49) last pick:  7700.0  7700.0
+\i (00:35:50) pick grid 7652.6 7727.5
+\t (00:35:50) last pick:  7700.0  7700.0
+\t (00:35:50) last pick:  7700.0  7700.0
+\t (00:35:50) Moving U8 / MT41K128M16JT-125_BGADDR96P8B90 / BGADDR96P8B90X140.
+\t (00:35:50) Pick new location for the element(s).
+\i (00:35:51) pick grid 7895.2 7749.9
+\t (00:35:51) last pick:  7900.0  7700.0
+\i (00:35:52) pick grid 8730.8 7615.2
+\t (00:35:52) last pick:  8700.0  7600.0
+\t (00:35:52) last pick:  8500.0  7700.0
+\t (00:35:52) Moving U4 / MT41K128M16JT-125_BGADDR96P8B90 / BGADDR96P8B90X140.
+\t (00:35:52) Pick new location for the element(s).
+\i (00:35:54) pick grid 8492.7 7749.9
+\t (00:35:54) last pick:  8500.0  7700.0
+\i (00:35:55) pick grid 8533.2 8378.9
+\t (00:35:55) last pick:  8500.0  8400.0
+\i (00:35:57) zoom out 1 
+\i (00:35:57) setwindow pcb
+\i (00:35:57) zoom out 7189.9 7583.7
+\i (00:35:57) trapsize 449
+\i (00:35:58) zoom in 1 
+\i (00:35:58) setwindow pcb
+\i (00:35:58) zoom in 7118.0 7493.9
+\i (00:35:58) trapsize 225
+\i (00:35:59) pick grid 6875.4 7633.2
+\t (00:35:59) last pick:  6900.0  7600.0
+\i (00:35:59) pick grid 6902.4 7615.2
+\t (00:35:59) last pick:  6900.0  7600.0
+\i (00:36:04) add line 
+\i (00:36:06) add line 
+\i (00:36:11) pick grid 7073.1 8194.7
+\t (00:36:11) last pick:  7100.0  8200.0
+\i (00:36:14) pick grid 7113.5 5445.3
+\t (00:36:14) last pick:  7100.0  5400.0
+\i (00:36:16) prepopup 7369.6 5395.8
+\i (00:36:18) done 
+\i (00:36:18) etchedit 
+\i (00:36:19) delete 
+\i (00:36:21) pick grid 6897.9 7538.8
+\t (00:36:21) last pick:  6900.0  7500.0
+\i (00:36:24) setwindow form.find
+\i (00:36:24) FORM find clines YES 
+\i (00:36:25) FORM find clines NO 
+\i (00:36:25) FORM find lines YES 
+\i (00:36:27) setwindow pcb
+\i (00:36:27) pick grid 6897.9 7466.9
+\t (00:36:27) last pick:  6900.0  7500.0
+\t (00:36:27) Line "Board Geometry/Outline"
+\e (00:36:29) Command not found: Del
+\i (00:36:31) pick grid 6884.4 7323.2
+\t (00:36:31) last pick:  6900.0  7300.0
+\i (00:36:34) add line 
+\i (00:36:38) pick grid 7104.6 8199.2
+\t (00:36:38) last pick:  7100.0  8200.0
+\i (00:36:40) pick grid 9283.5 8158.8
+\t (00:36:40) last pick:  9300.0  8200.0
+\i (00:36:41) pick grid 9319.4 5746.3
+\t (00:36:41) last pick:  9300.0  5700.0
+\i (00:36:47) pick grid 9346.4 5382.4
+\t (00:36:47) last pick:  9300.0  5400.0
+\i (00:36:48) pick grid 7149.5 5350.9
+\t (00:36:48) last pick:  7100.0  5400.0
+\i (00:36:48) prepopup 7118.0 5377.9
+\i (00:36:50) done 
+\i (00:36:50) etchedit 
+\i (00:36:50) zoom in 1 
+\i (00:36:50) setwindow pcb
+\i (00:36:50) zoom in 9040.9 6900.9
+\i (00:36:50) trapsize 112
+\i (00:36:50) zoom in 1 
+\i (00:36:50) setwindow pcb
+\i (00:36:50) zoom in 9040.9 6900.9
+\i (00:36:50) trapsize 56
+\i (00:36:51) zoom out 1 
+\i (00:36:51) setwindow pcb
+\i (00:36:51) zoom out 8714.1 6852.6
+\i (00:36:51) trapsize 112
+\i (00:36:51) zoom out 1 
+\i (00:36:51) setwindow pcb
+\i (00:36:51) zoom out 8714.1 6852.6
+\i (00:36:51) trapsize 225
+\i (00:36:51) zoom out 1 
+\i (00:36:51) setwindow pcb
+\i (00:36:51) zoom out 8714.2 6852.6
+\i (00:36:51) trapsize 449
+\i (00:36:51) zoom out 1 
+\i (00:36:51) setwindow pcb
+\i (00:36:51) zoom out 8705.3 6852.6
+\i (00:36:51) trapsize 899
+\i (00:36:52) zoom in 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom in 7529.6 6631.1
+\i (00:36:52) trapsize 449
+\i (00:36:52) zoom in 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom in 7998.4 6739.0
+\i (00:36:52) trapsize 225
+\i (00:36:52) zoom in 1 
+\i (00:36:52) setwindow pcb
+\i (00:36:52) zoom in 7998.5 6739.0
+\i (00:36:52) trapsize 112
+\i (00:36:53) zoom out 1 
+\i (00:36:53) setwindow pcb
+\i (00:36:53) zoom out 8225.4 7336.5
+\i (00:36:53) trapsize 225
+\i (00:37:19) zoom in 1 
+\i (00:37:19) setwindow pcb
+\i (00:37:19) zoom in 7852.5 6941.3
+\i (00:37:19) trapsize 112
+\i (00:37:19) zoom in 1 
+\i (00:37:19) setwindow pcb
+\i (00:37:19) zoom in 7852.6 6941.3
+\i (00:37:19) trapsize 56
+\i (00:37:20) zoom out 1 
+\i (00:37:20) setwindow pcb
+\i (00:37:20) zoom out 7881.8 6953.7
+\i (00:37:20) trapsize 112
+\i (00:37:20) zoom out 1 
+\i (00:37:20) setwindow pcb
+\i (00:37:20) zoom out 7881.9 6953.7
+\i (00:37:20) trapsize 225
+\i (00:37:22) pick grid 6956.4 7420.9
+\t (00:37:22) last pick:  7000.0  7400.0
+\i (00:37:26) pick grid 6561.0 7847.7
+\t (00:37:26) last pick:  6600.0  7800.0
+\i (00:37:27) pick grid 6466.7 7852.2
+\t (00:37:27) last pick:  6500.0  7900.0
+\i (00:37:29) add line 
+\i (00:37:33) add connect 
+\t (00:37:33) Pick first element.
+\i (00:37:34) zoom in 1 
+\i (00:37:34) setwindow pcb
+\i (00:37:34) zoom in 7495.5 7883.7
+\i (00:37:34) trapsize 112
+\i (00:37:34) zoom in 1 
+\i (00:37:34) setwindow pcb
+\i (00:37:34) zoom in 7495.5 7883.7
+\i (00:37:34) trapsize 56
+\i (00:37:35) zoom in 1 
+\i (00:37:35) setwindow pcb
+\i (00:37:35) zoom in 8116.6 7938.7
+\i (00:37:35) trapsize 28
+\i (00:37:35) zoom in 1 
+\i (00:37:35) setwindow pcb
+\i (00:37:35) zoom in 8116.6 7938.7
+\i (00:37:35) trapsize 14
+\i (00:37:35) zoom in 1 
+\i (00:37:35) setwindow pcb
+\i (00:37:35) zoom in 8115.5 7939.0
+\i (00:37:35) trapsize 7
+\i (00:37:39) zoom out 1 
+\i (00:37:39) setwindow pcb
+\i (00:37:39) zoom out 8047.4 7916.3
+\i (00:37:39) trapsize 14
+\i (00:37:39) zoom out 1 
+\i (00:37:39) setwindow pcb
+\i (00:37:39) zoom out 8047.5 7916.2
+\i (00:37:39) trapsize 28
+\i (00:37:39) zoom out 1 
+\i (00:37:39) setwindow pcb
+\i (00:37:39) zoom out 8047.5 7916.2
+\i (00:37:39) trapsize 56
+\i (00:37:40) zoom in 1 
+\i (00:37:40) setwindow pcb
+\i (00:37:40) zoom in 7811.6 7921.9
+\i (00:37:40) trapsize 28
+\i (00:37:40) zoom in 1 
+\i (00:37:40) setwindow pcb
+\i (00:37:40) zoom in 7811.7 7921.9
+\i (00:37:40) trapsize 14
+\i (00:37:40) zoom in 1 
+\i (00:37:40) setwindow pcb
+\i (00:37:40) zoom in 7811.7 7921.9
+\i (00:37:40) trapsize 7
+\i (00:37:41) pick grid 7773.4 7905.0
+\t (00:37:41) last pick:  7775.0  7900.0
+\t (00:37:41) last pick:  7774.0  7904.7
+\t (00:37:41) Target Symbol Pin is defined on TOP.
+\t (00:37:41) last pick:  7774.0  7904.7
+\i (00:37:42) pick grid 7787.6 7921.0
+\t (00:37:42) last pick:  7800.0  7925.0
+\t (00:37:42) No DRC errors detected.
+\t (00:37:42) last pick:  7798.0  7923.0
+\i (00:37:43) mouse_pos 7840.0 7912.3
+\i (00:37:44) pick grid 7840.0 7912.3
+\t (00:37:44) last pick:  7850.0  7900.0
+\t (00:37:44) No DRC errors detected.
+\t (00:37:44) Pick first element.
+\i (00:37:45) pick grid 7837.3 7904.8
+\t (00:37:45) last pick:  7825.0  7900.0
+\t (00:37:45) Pick first element.
+\t (00:37:45) last pick:  7837.0  7904.7
+\t (00:37:45) Target Symbol Pin is defined on TOP.
+\t (00:37:45) last pick:  7837.0  7904.7
+\i (00:37:50) pick grid 7845.2 7912.7
+\t (00:37:50) last pick:  7850.0  7925.0
+\t (00:37:50) No DRC errors detected.
+\i (00:37:50) mouse_pos 7850.5 7918.7
+\i (00:37:50) mouse_pos 7863.4 7922.8
+\i (00:37:55) mouse_pos 8017.2 7912.4
+\i (00:37:57) pick grid 8017.2 7912.4
+\t (00:37:57) last pick:  8025.0  7900.0
+\t (00:37:57) No DRC errors detected.
+\t (00:37:57) Pick first element.
+\i (00:37:58) pick grid 8027.7 7903.3
+\t (00:37:58) last pick:  8025.0  7900.0
+\t (00:37:58) Pick first element.
+\t (00:37:58) last pick:  8026.0  7904.7
+\t (00:37:58) Target Symbol Pin is defined on TOP.
+\t (00:37:58) last pick:  8026.0  7904.7
+\i (00:37:58) pick grid dbl 8027.7 7903.3
+\t (00:37:58) last pick:  8025.0  7900.0
+\w (00:37:58) WARNING(SPMHA1-398): No via is defined from Act layer to Alt layer.
+\i (00:37:59) prepopup 7931.1 7914.0
+\i (00:38:00) done 
+\i (00:38:00) etchedit 
+\i (00:38:01) pick grid 7894.2 7930.0
+\t (00:38:01) last pick:  7900.0  7925.0
+\i (00:38:15) slide 
+\t (00:38:15) Pick element to slide.
+\i (00:38:16) drag_start grid 7892.8 7929.7
+\i (00:38:17) drag_stop 7893.8 7909.3
+\t (00:38:17) Waiting for the destination pick.
+\i (00:38:19) pick grid 7897.3 7917.9
+\t (00:38:19) last pick:  7900.0  7925.0
+\t (00:38:19) No DRC errors detected.
+\t (00:38:19) Pick another element to slide.
+\i (00:38:20) pick grid 7894.3 7942.6
+\t (00:38:20) last pick:  7900.0  7950.0
+\t (00:38:20) Pick element to slide.
+\i (00:38:24) zoom out 1 
+\i (00:38:24) setwindow pcb
+\i (00:38:24) zoom out 7851.5 7924.9
+\i (00:38:24) trapsize 14
+\i (00:38:24) zoom out 1 
+\i (00:38:24) setwindow pcb
+\i (00:38:24) zoom out 7851.5 7924.6
+\i (00:38:24) trapsize 28
+\i (00:38:25) zoom in 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom in 7977.8 7891.5
+\i (00:38:25) trapsize 14
+\i (00:38:25) zoom in 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom in 7977.9 7891.6
+\i (00:38:25) trapsize 7
+\i (00:38:25) zoom in 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom in 7977.9 7891.6
+\i (00:38:25) trapsize 4
+\i (00:38:25) zoom out 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom out 7964.7 7895.7
+\i (00:38:25) trapsize 7
+\i (00:38:25) zoom out 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom out 7964.7 7895.8
+\i (00:38:25) trapsize 14
+\i (00:38:25) zoom out 1 
+\i (00:38:25) setwindow pcb
+\i (00:38:25) zoom out 7964.7 7895.7
+\i (00:38:25) trapsize 28
+\i (00:38:26) zoom in 1 
+\i (00:38:26) setwindow pcb
+\i (00:38:26) zoom in 8009.6 7956.4
+\i (00:38:26) trapsize 14
+\i (00:38:27) pick grid 8027.6 7935.4
+\t (00:38:27) last pick:  8025.0  7925.0
+\t (00:38:27) Pick element to slide.
+\i (00:38:30) add connect 
+\t (00:38:30) Pick first element.
+\i (00:38:32) pick grid 8028.2 7900.3
+\t (00:38:32) last pick:  8025.0  7900.0
+\t (00:38:32) last pick:  8026.0  7904.7
+\t (00:38:32) Target Symbol Pin is defined on TOP.
+\t (00:38:32) last pick:  8026.0  7904.7
+\i (00:38:33) mouse_pos 8033.5 7930.1
+\i (00:38:34) pick grid 8027.3 7935.1
+\t (00:38:34) last pick:  8025.0  7925.0
+\t (00:38:34) No DRC errors detected.
+\t (00:38:34) Pick first element.
+\i (00:38:34) pick grid dbl 8027.3 7935.1
+\t (00:38:34) last pick:  8025.0  7925.0
+\t (00:38:34) Pick first element.
+\t (00:38:34) last pick:  8026.0  7936.2
+\t (00:38:34) Target Symbol Pin is defined on TOP.
+\t (00:38:34) last pick:  8026.0  7936.2
+\i (00:38:34) mouse_pos 8029.9 7930.9
+\i (00:38:34) mouse_pos 8033.2 7928.9
+\i (00:38:36) mouse_pos 8032.9 7905.1
+\i (00:38:36) mouse_pos 8031.5 7916.3
+\i (00:38:38) pick grid 8046.4 7930.3
+\t (00:38:38) last pick:  8050.0  7925.0
+\t (00:38:38) No DRC errors detected.
+\i (00:38:40) pick grid 8037.7 7855.7
+\t (00:38:40) last pick:  8050.0  7850.0
+\t (00:38:40) No DRC errors detected.
+\i (00:38:41) mouse_pos 8002.9 7849.5
+\i (00:38:42) pick grid 7998.1 7843.3
+\t (00:38:42) last pick:  8000.0  7850.0
+\t (00:38:42) No DRC errors detected.
+\t (00:38:42) Pick first element.
+\i (00:38:42) pick grid dbl 7998.1 7843.3
+\t (00:38:42) last pick:  8000.0  7850.0
+\t (00:38:42) Pick first element.
+\t (00:38:42) last pick:  7994.5  7841.7
+\t (00:38:42) Target Symbol Pin is defined on TOP.
+\t (00:38:42) last pick:  7994.5  7841.7
+\i (00:38:42) mouse_pos 7999.5 7843.9
+\i (00:38:42) mouse_pos 8005.4 7845.6
+\i (00:38:42) mouse_pos 8044.5 7857.6
+\i (00:38:42) mouse_pos 8058.2 7863.8
+\i (00:38:43) mouse_pos 8046.1 7881.5
+\i (00:38:43) mouse_pos 8039.7 7879.8
+\i (00:38:43) mouse_pos 8005.7 7857.9
+\i (00:38:43) mouse_pos 8005.2 7844.1
+\i (00:38:44) mouse_pos 8001.8 7817.8
+\i (00:38:44) pick grid 7996.2 7807.6
+\t (00:38:44) last pick:  8000.0  7800.0
+\t (00:38:44) No DRC errors detected.
+\t (00:38:44) Pick first element.
+\i (00:38:46) pick grid 7995.0 7807.6
+\t (00:38:46) last pick:  8000.0  7800.0
+\t (00:38:46) Pick first element.
+\t (00:38:46) last pick:  7994.5  7810.2
+\t (00:38:46) Target Symbol Pin is defined on TOP.
+\t (00:38:46) last pick:  7994.5  7810.2
+\i (00:38:46) mouse_pos 8020.0 7786.9
+\i (00:38:47) mouse_pos 8017.5 7783.2
+\i (00:38:48) mouse_pos 8002.9 7754.9
+\i (00:38:49) pick grid 7997.0 7746.4
+\t (00:38:49) last pick:  8000.0  7750.0
+\t (00:38:49) No DRC errors detected.
+\t (00:38:49) Pick first element.
+\i (00:38:49) pick grid 7998.1 7745.9
+\t (00:38:49) last pick:  8000.0  7750.0
+\t (00:38:49) Pick first element.
+\t (00:38:49) last pick:  7994.5  7747.2
+\t (00:38:49) Target Symbol Pin is defined on TOP.
+\t (00:38:49) last pick:  7994.5  7747.2
+\i (00:38:50) prepopup 7997.9 7747.0
+\i (00:38:51) done 
+\i (00:38:51) etchedit 
+\i (00:38:52) zoom in 1 
+\i (00:38:52) setwindow pcb
+\i (00:38:52) zoom in 8056.5 7901.4
+\i (00:38:52) trapsize 7
+\i (00:38:52) zoom in 1 
+\i (00:38:52) setwindow pcb
+\i (00:38:52) zoom in 8056.6 7901.4
+\i (00:38:52) trapsize 4
+\i (00:38:53) zoom out 1 
+\i (00:38:53) setwindow pcb
+\i (00:38:53) zoom out 8034.5 7901.4
+\i (00:38:53) trapsize 7
+\i (00:38:53) zoom out 1 
+\i (00:38:53) setwindow pcb
+\i (00:38:53) zoom out 8034.4 7901.4
+\i (00:38:53) trapsize 14
+\i (00:38:56) slide 
+\t (00:38:56) Pick element to slide.
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 8047.3 7926.3
+\i (00:38:57) trapsize 7
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 8047.4 7926.4
+\i (00:38:57) trapsize 4
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 8047.4 7926.4
+\i (00:38:57) trapsize 2
+\i (00:38:57) zoom in 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom in 8047.3 7926.4
+\i (00:38:57) trapsize 1
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 8046.8 7926.5
+\i (00:38:57) trapsize 2
+\i (00:38:57) zoom out 1 
+\i (00:38:57) setwindow pcb
+\i (00:38:57) zoom out 8046.8 7926.5
+\i (00:38:57) trapsize 4
+\i (00:38:58) drag_start grid 8033.9 7928.2
+\i (00:38:59) drag_stop 8039.2 7933.1
+\t (00:38:59) Waiting for the destination pick.
+\i (00:39:01) pick grid 8036.4 7937.5
+\t (00:39:01) last pick:  8025.0  7950.0
+\t (00:39:01) No DRC errors detected.
+\t (00:39:01) Pick another element to slide.
+\i (00:39:02) pick grid 8065.9 7924.0
+\t (00:39:02) last pick:  8075.0  7925.0
+\t (00:39:02) Pick element to slide.
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 8058.5 7925.4
+\i (00:39:03) trapsize 7
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 8058.3 7925.2
+\i (00:39:03) trapsize 14
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 8056.4 7923.8
+\i (00:39:03) trapsize 28
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 8055.2 7923.2
+\i (00:39:03) trapsize 56
+\i (00:39:03) zoom out 1 
+\i (00:39:03) setwindow pcb
+\i (00:39:03) zoom out 8055.2 7923.1
+\i (00:39:03) trapsize 112
+\i (00:39:04) zoom in 1 
+\i (00:39:04) setwindow pcb
+\i (00:39:04) zoom in 9425.4 7756.9
+\i (00:39:04) trapsize 56
+\i (00:39:04) zoom out 1 
+\i (00:39:04) setwindow pcb
+\i (00:39:04) zoom out 8713.3 7860.2
+\i (00:39:04) trapsize 112
+\i (00:39:06) zoom in 1 
+\i (00:39:06) setwindow pcb
+\i (00:39:06) zoom in 7996.9 7882.7
+\i (00:39:06) trapsize 56
+\i (00:39:06) zoom in 1 
+\i (00:39:06) setwindow pcb
+\i (00:39:06) zoom in 7996.9 7882.8
+\i (00:39:06) trapsize 28
+\i (00:39:06) zoom in 1 
+\i (00:39:06) setwindow pcb
+\i (00:39:06) zoom in 7996.9 7882.8
+\i (00:39:06) trapsize 14
+\i (00:39:06) zoom in 1 
+\i (00:39:06) setwindow pcb
+\i (00:39:06) zoom in 8006.2 7893.5
+\i (00:39:06) trapsize 7
+\i (00:39:07) zoom out 1 
+\i (00:39:07) setwindow pcb
+\i (00:39:07) zoom out 8022.8 7893.8
+\i (00:39:07) trapsize 14
+\i (00:39:07) zoom out 1 
+\i (00:39:07) setwindow pcb
+\i (00:39:07) zoom out 8023.4 7893.2
+\i (00:39:07) trapsize 28
+\i (00:39:08) zoom in 1 
+\i (00:39:08) setwindow pcb
+\i (00:39:08) zoom in 7862.1 7924.1
+\i (00:39:08) trapsize 14
+\i (00:39:08) zoom in 1 
+\i (00:39:08) setwindow pcb
+\i (00:39:08) zoom in 7862.2 7924.2
+\i (00:39:08) trapsize 7
+\i (00:39:09) zoom out 1 
+\i (00:39:09) setwindow pcb
+\i (00:39:09) zoom out 7881.0 7923.7
+\i (00:39:09) trapsize 14
+\i (00:39:09) zoom out 1 
+\i (00:39:09) setwindow pcb
+\i (00:39:09) zoom out 7881.0 7923.1
+\i (00:39:09) trapsize 28
+\i (00:39:09) pick grid 7909.1 7905.1
+\t (00:39:09) last pick:  7900.0  7900.0
+\t (00:39:09) Pick element to slide.
+\i (00:39:10) pick grid 8188.2 7897.2
+\t (00:39:10) last pick:  8200.0  7900.0
+\t (00:39:10) Pick element to slide.
+\i (00:39:11) save 
+\i (00:39:13) fillin yes 
+\i (00:39:13) etchedit 
+\i (00:39:14) pick grid 8180.3 7806.2
+\t (00:39:14) last pick:  8175.0  7800.0
+\i (00:39:14) pick grid 8139.3 7854.0
+\t (00:39:14) last pick:  8150.0  7850.0
+\i (00:41:15) xhilite 
+\i (00:41:15) xrefdes Tp19 
+\i (00:41:15) xNet Gndutmii 
+\i (00:41:15) xNet Vddosc 
+\i (00:41:15) xNet Vddiop1 
+\i (00:41:15) xrefdes C45 
+\i (00:41:15) xNet Vddplla 
+\i (00:41:15) xNet Vddana 
+\i (00:41:15) xNet Vddisc 
+\i (00:41:15) xNet Vddutmii 
+\i (00:41:15) xrefdes C125 
+\i (00:41:15) xNet Vddsdhc 
+\i (00:41:15) xrefdes C110 
+\i (00:41:15) xNet Vddiop2 
+\i (00:41:15) xNet N18279993 
+\i (00:41:15) xrefdes C131 
+\i (00:41:15) xNet Vddiop0 
+\i (00:41:15) xrefdes C135 
+\i (00:41:15) xNet Vddhsic 
+\i (00:41:15) xrefdes C138 
+\i (00:41:15) xNet Vddbu 
+\i (00:41:15) xrefdes C103 
+\i (00:41:15) xrefdes C107 
+\i (00:41:15) xNet Vddutmic 
+\i (00:41:15) xrefdes C133 
+\i (00:41:15) xrefdes C147 
+\i (00:41:15) xrefdes C136 
+\i (00:41:15) xNet Vddaudiopll 
+\i (00:41:15) xrefdes C140 
+\i (00:41:15) xrefdes C148 
+\i (00:41:15) xNet Vddfuse 
+\i (00:41:15) xrefdes C120 
+\i (00:41:15) xrefdes C43 
+\i (00:41:15) xrefdes R264 
+\i (00:41:15) xrefdes Tp17 
+\i (00:41:15) xrefdes C122 
+\i (00:41:15) xrefdes C137 
+\i (00:41:15) xrefdes C144 
+\i (00:41:15) xrefdes Tp30 
+\i (00:41:15) xNet Vddb_5V 
+\i (00:41:15) xrefdes C118 
+\i (00:41:15) xrefdes Tp16 
+\i (00:41:15) xrefdes Tp24 
+\i (00:41:15) xrefdes Tp6 
+\i (00:41:15) xNet Vdd_3V3_Lp 
+\i (00:41:15) xNet Vdd_1V2 
+\i (00:41:15) xNet Vsys_5V 
+\i (00:41:15) xrefdes Tp7 
+\i (00:41:15) xNet Vdd_3V3 
+\i (00:41:15) xNet Vdd_1V35 
+\i (00:41:15) xrefdes Tp3 
+\i (00:41:15) xrefdes Tp15 
+\i (00:41:15) xrefdes Tp25 
+\i (00:41:15) xrefdes Tp5 
+\i (00:41:15) xrefdes Tp10 
+\i (00:41:15) xNet Vddsdhc1v8 
+\i (00:41:15) xNet Vdd_Led 
+\i (00:41:15) xrefdes Tp8 
+\i (00:41:15) xrefdes Tp23 
+\i (00:41:15) xrefdes C30 
+\i (00:41:15) xrefdes C134 
+\i (00:41:15) xrefdes R131 
+\i (00:41:15) xrefdes Tp21 
+\i (00:41:15) xrefdes Tp18 
+\i (00:41:15) xrefdes C111 
+\i (00:41:15) xrefdes C27 
+\i (00:41:15) xrefdes C28 
+\i (00:41:15) xrefdes C132 
+\i (00:41:15) xrefdes C29 
+\i (00:41:15) xrefdes C31 
+\i (00:41:15) xrefdes C119 
+\i (00:41:15) xrefdes C143 
+\i (00:41:15) xrefdes C108 
+\i (00:41:15) xrefdes C97 
+\i (00:41:15) xrefdes C84 
+\i (00:41:15) xrefdes C105 
+\i (00:41:15) xrefdes C71 
+\i (00:41:15) xrefdes C114 
+\i (00:41:15) xrefdes C70 
+\i (00:41:15) xrefdes C104 
+\i (00:41:15) xrefdes C101 
+\i (00:41:15) xrefdes C88 
+\i (00:41:15) xrefdes C102 
+\i (00:41:15) xrefdes C80 
+\i (00:41:15) xrefdes Tp26 
+\i (00:41:15) xrefdes C128 
+\i (00:41:15) xrefdes C142 
+\i (00:41:15) xNet N36553366 
+\i (00:41:15) xrefdes R269 
+\i (00:41:15) xrefdes Tp9 
+\i (00:41:15) xrefdes Tp20 
+\i (00:41:15) xrefdes Tp13 
+\i (00:41:15) xname_flush 
+\t (00:41:15) 25 Net(s) highlighted.
+\t (00:41:15) 66 Component(s) highlighted.
+\i (00:41:15) done 
+\i (00:41:15) etchedit 
+\i (00:41:24) xhilite 
+\i (00:41:24) xNet Pb10 
+\i (00:41:24) xNet Sdhc1_Ck_Pa22 
+\i (00:41:24) xNet Pa22 
+\i (00:41:24) xNet Isc_D1/Exp_Pb27 
+\i (00:41:24) xNet Pa15 
+\i (00:41:24) xNet Pa19 
+\i (00:41:24) xNet Sdhc0_Dat0_Pa2 
+\i (00:41:24) xNet Pb14 
+\i (00:41:24) xNet Pa17 
+\i (00:41:24) xNet Pa16 
+\i (00:41:24) xNet Isc_D2/Exp/Xpro_Pb28 
+\i (00:41:24) xNet Sdhc0_Dat1_Pa3 
+\i (00:41:24) xNet Sdhc0_Dat2_Pa4 
+\i (00:41:24) xNet Pa20 
+\i (00:41:24) xrefdes R49 
+\i (00:41:24) xNet Pb5 
+\i (00:41:24) xNet Exp/Xpro_Pb5 
+\i (00:41:24) xrefdes R109 
+\i (00:41:24) xNet Pb15 
+\i (00:41:24) xNet Sdhc0_Dat3_Pa5 
+\i (00:41:25) xNet Sdhc0_Dat5_Pa7 
+\i (00:41:25) xNet Sdhc0_Dat6_Pa8 
+\i (00:41:25) xNet Sdhc0_Dat4_Pa6 
+\i (00:41:25) xNet Pa21 
+\i (00:41:25) xNet Isc_D3/Exp/Xpro_Pb29 
+\i (00:41:25) xNet Qspi0_Sck_Pa22 
+\i (00:41:25) xNet Eth_Gtx0_Pb20 
+\i (00:41:25) xNet Pb20 
+\i (00:41:25) xrefdes R84 
+\i (00:41:25) xNet Eth_Gtx1_Pb21 
+\i (00:41:25) xNet Pb21 
+\i (00:41:25) xrefdes R85 
+\i (00:41:25) xNet Pb22 
+\i (00:41:25) xNet Eth_Gmdc_Pb22 
+\i (00:41:25) xrefdes R87 
+\i (00:41:25) xNet Pb23 
+\i (00:41:25) xNet Eth_Gmdio_Pb23 
+\i (00:41:25) xrefdes R86 
+\i (00:41:25) xNet Sdhc0_Dat7_Pa9 
+\i (00:41:25) xNet Pb16 
+\i (00:41:25) xNet Sdhc0_Vddsel_Pa11 
+\i (00:41:25) xNet Isc_D4/Exp_Pb30 
+\i (00:41:25) xNet Pb17 
+\i (00:41:25) xNet Pa23 
+\i (00:41:25) xNet Lcd_Irq1_Pb7 
+\i (00:41:25) xNet Isc_D5/Exp/Xpro_Pb31 
+\i (00:41:25) xNet Lcd_Irq2_Pb8 
+\i (00:41:25) xNet Pa24 
+\i (00:41:25) xNet Exp/Xpro_Pb6 
+\i (00:41:25) xNet Pb6 
+\i (00:41:25) xNet Pb18 
+\i (00:41:25) xrefdes R274 
+\i (00:41:25) xNet Pmic_Chglev_Pa12 
+\i (00:41:25) xNet Pa18 
+\i (00:41:25) xNet Sdhc1_Dat0_Pa18 
+\i (00:41:25) xrefdes R154 
+\i (00:41:25) xNet Pa25 
+\i (00:41:25) xNet Qspi0_Cs_Pa23 
+\i (00:41:25) xrefdes R164 
+\i (00:41:25) xNet Pb19 
+\i (00:41:25) xNet User_Pb_Pb9 
+\i (00:41:25) xNet Pb9 
+\i (00:41:25) xrefdes R83 
+\i (00:41:25) xNet Usbb_En5v_Pb10 
+\i (00:41:25) xrefdes R267 
+\i (00:41:25) xrefdes R163 
+\i (00:41:25) xNet Pa26 
+\i (00:41:25) xNet Qspi0_Io0_Pa24 
+\i (00:41:25) xrefdes R157 
+\i (00:41:25) xNet Qspi0_Io3_Pa27 
+\i (00:41:25) xNet Isc_Rst/Exp_Pb11 
+\i (00:41:25) xNet Qspi0_Io1_Pa25 
+\i (00:41:25) xrefdes R168 
+\i (00:41:25) xNet Isc_Pwd/Exp_Pb12 
+\i (00:41:25) xNet Sdhc1_Dat1_Pa19 
+\i (00:41:25) xrefdes R159 
+\i (00:41:25) xNet Pmic_Irq_Pb13 
+\i (00:41:25) xNet Pb0 
+\i (00:41:25) xNet Lcd_Id_Pb0 
+\i (00:41:25) xrefdes R89 
+\i (00:41:25) xrefdes R88 
+\i (00:41:25) xNet Sdhc1_Cmd_Pa28 
+\i (00:41:25) xNet Eth_Gtxck_Pb14 
+\i (00:41:25) xNet Qspi0_Io2_Pa26 
+\i (00:41:25) xrefdes R169 
+\i (00:41:25) xNet Sdhc0_Rstn_Pa10 
+\i (00:41:25) xNet Usbb_Ovcur_Pa29 
+\i (00:41:25) xNet Sdhc1_Dat2_Pa20 
+\i (00:41:25) xrefdes R143 
+\i (00:41:25) xNet Sdhc1_Dat3_Pa21 
+\i (00:41:25) xrefdes R145 
+\i (00:41:25) xNet Sdhc0_Cd_Pa13 
+\i (00:41:25) xNet Sdhc1_Cd_Pa30 
+\i (00:41:25) xrefdes R165 
+\i (00:41:25) xNet Isc_D10/Exp_Pb24 
+\i (00:41:25) xNet Spi0_Mosi_Pa15 
+\i (00:41:25) xrefdes R172 
+\i (00:41:25) xNet Spi0_Miso_Pa16 
+\i (00:41:25) xNet Eth_Gtxen_Pb15 
+\i (00:41:25) xrefdes R108 
+\i (00:41:25) xrefdes R173 
+\i (00:41:25) xNet Spi0_Npcs0_Pa17 
+\i (00:41:25) xrefdes R174 
+\i (00:41:25) xNet Pa14 
+\i (00:41:25) xNet Spi0_Spck_Pa14 
+\i (00:41:25) xrefdes R175 
+\i (00:41:25) xNet Usba_Vbus_5V_Pa31 
+\i (00:41:25) xNet Isc_D11/Exp_Pb25 
+\i (00:41:25) xNet Eth_Grxdv_Pb16 
+\i (00:41:25) xrefdes R61 
+\i (00:41:25) xNet Eth_Grxer_Pb17 
+\i (00:41:25) xrefdes R47 
+\i (00:41:25) xNet Sdhc0_Ck_Pa0 
+\i (00:41:25) xNet Classd_R3_Pb4 
+\i (00:41:25) xNet Classd_R2_Pb3 
+\i (00:41:25) xNet Classd_R1_Pb2 
+\i (00:41:25) xNet Classd_R0_Pb1 
+\i (00:41:25) xNet Isc_D0/Exp_Pb26 
+\i (00:41:25) xNet Sdhc0_Cmd_Pa1 
+\i (00:41:25) xNet Eth_Grx0_Pb18 
+\i (00:41:25) xrefdes R72 
+\i (00:41:25) xNet Eth_Grx1_Pb19 
+\i (00:41:25) xrefdes R73 
+\i (00:41:25) xname_flush 
+\t (00:41:25) 93 Net(s) highlighted.
+\t (00:41:25) 30 Component(s) highlighted.
+\i (00:41:25) done 
+\i (00:41:25) etchedit 
+\i (00:41:34) xhilite 
+\i (00:41:34) xNet Pc30 
+\i (00:41:34) xNet Pc31 
+\i (00:41:34) xNet Pd19 
+\i (00:41:34) xNet Lcd_Ad0_Xp_Pd19 
+\i (00:41:34) xrefdes R96 
+\i (00:41:34) xNet Isc_Mck/Exp_Pc7 
+\i (00:41:34) xNet Eeprom_Twd1_Pd4 
+\i (00:41:34) xNet Pc26 
+\i (00:41:34) xNet Lcd_Dat22_Pc26 
+\i (00:41:34) xrefdes R289 
+\i (00:41:34) xrefdes R279 
+\i (00:41:34) xNet Lcd_Ad1_Xm_Pd20 
+\i (00:41:34) xNet Pd20 
+\i (00:41:34) xrefdes R121 
+\i (00:41:34) xrefdes R285 
+\i (00:41:34) xNet Pc10 
+\i (00:41:34) xNet Lcd_Dat2_Pc10 
+\i (00:41:34) xrefdes R304 
+\i (00:41:34) xrefdes R282 
+\i (00:41:34) xNet Pd22 
+\i (00:41:34) xNet Pd21 
+\i (00:41:34) xNet Pc27 
+\i (00:41:34) xNet Lcd_Dat23_Pc27 
+\i (00:41:34) xrefdes R288 
+\i (00:41:34) xNet Lcd_Pck_Pd0 
+\i (00:41:34) xNet Lcd_Ad2_Yp_Pd21 
+\i (00:41:34) xrefdes R102 
+\i (00:41:34) xNet Lcd_Ad3_Ym_Pd22 
+\i (00:41:34) xNet Lcd_Dat3_Pc11 
+\i (00:41:34) xrefdes R101 
+\i (00:41:34) xNet Pc11 
+\i (00:41:34) xrefdes R97 
+\i (00:41:34) xrefdes R90 
+\i (00:41:34) xNet Pmic_Twck0_Pd22 
+\i (00:41:34) xrefdes R126 
+\i (00:41:34) xrefdes R125 
+\i (00:41:34) xNet Pc9 
+\i (00:41:34) xrefdes R306 
+\i (00:41:34) xrefdes R309 
+\i (00:41:34) xrefdes R308 
+\i (00:41:34) xrefdes R297 
+\i (00:41:34) xNet Dbgu_Urxd1_Pd2 
+\i (00:41:34) xNet Lcd_Twck1_Pd5 
+\i (00:41:34) xrefdes R278 
+\i (00:41:34) xrefdes R291 
+\i (00:41:34) xNet Lcd_Den_Pd1 
+\i (00:41:34) xrefdes R107 
+\i (00:41:34) xNet Dbgu_Utxd1_Pd3 
+\i (00:41:34) xNet Eeprom_Twck1_Pd5 
+\i (00:41:34) xNet Exp_Pd6 
+\i (00:41:34) xNet Xpro_Pd7 
+\i (00:41:34) xNet Xpro_Pd9 
+\i (00:41:34) xNet Xpro_Pd8 
+\i (00:41:34) xNet Pd15 
+\i (00:41:34) xNet Pd14 
+\i (00:41:34) xNet Exp/Xpro_Pd13 
+\i (00:41:34) xNet Exp/Xpro_Pd12 
+\i (00:41:34) xNet Xpro_Pd11 
+\i (00:41:34) xNet Xpro_Pd10 
+\i (00:41:34) xrefdes R272 
+\i (00:41:34) xNet Isc_D6/Exp/Xpro_Pc0 
+\i (00:41:34) xrefdes R296 
+\i (00:41:34) xrefdes R307 
+\i (00:41:34) xNet Pd17 
+\i (00:41:34) xNet Pd16 
+\i (00:41:34) xNet Exp/Xpro_Pd25 
+\i (00:41:34) xNet Exp_Pd24 
+\i (00:41:34) xNet Exp_Pd23 
+\i (00:41:34) xNet Xpro_Pd18 
+\i (00:41:34) xNet Exp_Pd31 
+\i (00:41:34) xNet Exp_Pd30 
+\i (00:41:34) xNet Exp/Xpro_Pd29 
+\i (00:41:34) xNet Exp/Xpro_Pd28 
+\i (00:41:34) xNet Exp/Xpro_Pd27 
+\i (00:41:34) xNet Exp/Xpro_Pd26 
+\i (00:41:34) xNet Pc28 
+\i (00:41:34) xNet Isc_D7/Spi1_Spck_Pc1 
+\i (00:41:34) xNet Lcd_Dat21_Pc25 
+\i (00:41:34) xNet Lcd_Dat20_Pc24 
+\i (00:41:34) xNet Lcd_Dat19_Pc23 
+\i (00:41:34) xNet Lcd_Dat18_Pc22 
+\i (00:41:34) xNet Lcd_Dat15_Pc21 
+\i (00:41:34) xNet Lcd_Dat14_Pc20 
+\i (00:41:34) xNet Lcd_Dat13_Pc19 
+\i (00:41:34) xNet Lcd_Dat12_Pc18 
+\i (00:41:34) xNet Lcd_Dat11_Pc17 
+\i (00:41:34) xNet Lcd_Dat10_Pc16 
+\i (00:41:34) xNet Lcd_Dat7_Pc15 
+\i (00:41:34) xNet Lcd_Dat6_Pc14 
+\i (00:41:34) xNet Lcd_Dat5_Pc13 
+\i (00:41:34) xNet Lcd_Dat4_Pc12 
+\i (00:41:34) xNet Lcd_Disp_Pc29 
+\i (00:41:34) xNet Jtag_Tdo_Pd16 
+\i (00:41:34) xNet Jtag_Tck_Pd14 
+\i (00:41:34) xNet Jtag_Tdi_Pd15 
+\i (00:41:34) xrefdes R94 
+\i (00:41:34) xrefdes R91 
+\i (00:41:34) xrefdes R119 
+\i (00:41:34) xrefdes R117 
+\i (00:41:34) xNet Isc_D8/Spi1_Mosi_Pc2 
+\i (00:41:34) xNet Pmic_Twd0_Pd21 
+\i (00:41:34) xNet Lcd_Vsync_Pc30 
+\i (00:41:34) xNet Isc_D9/Spi1_Miso_Pc3 
+\i (00:41:34) xNet Lcd_Pwm_Pc28 
+\i (00:41:34) xNet Isc_Pck/Spi1_Npcs0_Pc4 
+\i (00:41:34) xNet Lcd_Hsync_Pc31 
+\i (00:41:34) xNet Pmic_Lbo/Exp_Pc8 
+\i (00:41:34) xNet Eth_Int_Pc9 
+\i (00:41:34) xrefdes R115 
+\i (00:41:34) xNet Isc_Vsync/Exp_Pc5 
+\i (00:41:34) xNet Jtag_Tms_Pd17 
+\i (00:41:34) xNet Lcd_Twd1_Pd4 
+\i (00:41:34) xNet Isc_Hsync/Exp_Pc6 
+\i (00:41:34) xname_flush 
+\t (00:41:34) 84 Net(s) highlighted.
+\t (00:41:34) 29 Component(s) highlighted.
+\i (00:41:34) done 
+\i (00:41:34) etchedit 
+\i (00:42:01) xhilite 
+\i (00:42:01) xNet N36981838 
+\i (00:42:01) xNet Acp 
+\i (00:42:01) xrefdes C130 
+\i (00:42:01) xNet N36930008 
+\i (00:42:01) xNet Hsic_Strb 
+\i (00:42:01) xNet Usba_Dp 
+\i (00:42:01) xrefdes R281 
+\i (00:42:01) xNet N42277537 
+\i (00:42:01) xrefdes R270 
+\i (00:42:01) xNet Usba_Dm 
+\i (00:42:01) xrefdes C127 
+\i (00:42:01) xrefdes R263 
+\i (00:42:01) xNet N37041066 
+\i (00:42:01) xNet Nrst 
+\i (00:42:01) xNet Usbb_Dp 
+\i (00:42:01) xNet Usbb_Dm 
+\i (00:42:01) xNet Piobu1 
+\i (00:42:01) xNet Piobu0 
+\i (00:42:01) xNet Piobu3 
+\i (00:42:01) xNet Piobu7 
+\i (00:42:01) xNet Piobu6 
+\i (00:42:01) xNet Piobu5 
+\i (00:42:01) xNet Piobu4 
+\i (00:42:01) xNet Piobu2 
+\i (00:42:01) xrefdes R138 
+\i (00:42:01) xNet N38034659 
+\i (00:42:01) xrefdes R103 
+\i (00:42:01) xrefdes C41 
+\i (00:42:01) xrefdes C48 
+\i (00:42:01) xrefdes Y4 
+\i (00:42:01) xNet Xin 
+\i (00:42:01) xNet Xout32 
+\i (00:42:01) xNet Xin32 
+\i (00:42:01) xNet Xout 
+\i (00:42:01) xrefdes C40 
+\i (00:42:01) xrefdes C47 
+\i (00:42:01) xrefdes Y3 
+\i (00:42:01) xNet Rxd 
+\i (00:42:01) xNet Acn 
+\i (00:42:01) xrefdes R256 
+\i (00:42:01) xNet Wkup 
+\i (00:42:01) xrefdes C109 
+\i (00:42:01) xrefdes R128 
+\i (00:42:01) xNet Hsic_Data 
+\i (00:42:01) xrefdes R127 
+\i (00:42:01) xNet Shdn 
+\i (00:42:01) xNet Clk_Audio 
+\i (00:42:01) xNet N38042255 
+\i (00:42:01) xname_flush 
+\t (00:42:01) 31 Net(s) highlighted.
+\t (00:42:01) 17 Component(s) highlighted.
+\i (00:42:01) done 
+\i (00:42:01) etchedit 
+\i (00:42:09) xhilite 
+\i (00:42:09) xNet N40868741 
+\i (00:42:09) xNet N40878562 
+\i (00:42:09) xrefdes R105 
+\i (00:42:09) xrefdes R100 
+\i (00:42:09) xNet Vdd_5V_In 
+\i (00:42:09) xNet N40895083 
+\i (00:42:09) xrefdes R146 
+\i (00:42:09) xrefdes U7 
+\i (00:42:09) xrefdes R123 
+\i (00:42:09) xrefdes R152 
+\i (00:42:09) xrefdes R155 
+\i (00:42:09) xrefdes R158 
+\i (00:42:09) xrefdes C51 
+\i (00:42:09) xname_flush 
+\i (00:42:09) trapsize 148
+\t (00:42:09) 4 Net(s) highlighted.
+\t (00:42:09) 9 Component(s) highlighted.
+\i (00:42:09) done 
+\i (00:42:09) etchedit 
+\i (00:43:25) xhilite 
+\i (00:43:25) xname_flush 
+\i (00:43:25) done 
+\i (00:43:25) etchedit 
+\i (00:44:07) xhilite 
+\i (00:44:08) xrefdes C161 
+\i (00:44:08) xNet Eeprom_Wp 
+\i (00:44:08) xNet N37719730 
+\i (00:44:08) xrefdes R316 
+\i (00:44:08) xrefdes R319 
+\i (00:44:08) xrefdes U18 
+\i (00:44:08) xrefdes R320 
+\i (00:44:08) xrefdes C52 
+\i (00:44:08) xNet Qspi0_Cs 
+\i (00:44:08) xrefdes U10 
+\i (00:44:08) xname_flush 
+\i (00:44:08) trapsize 148
+\t (00:44:08) 3 Net(s) highlighted.
+\t (00:44:08) 7 Component(s) highlighted.
+\i (00:44:08) done 
+\i (00:44:08) etchedit 
+\i (00:44:13) xhilite 
+\i (00:44:13) xname_flush 
+\i (00:44:13) done 
+\i (00:44:13) etchedit 
+\i (00:44:37) xhilite 
+\i (00:44:37) xrefdes R210 
+\i (00:44:37) xrefdes R212 
+\i (00:44:37) xname_flush 
+\i (00:44:37) trapsize 20
+\t (00:44:37) Symbol "R210" highlighted.
+\t (00:44:37) Symbol "R212" highlighted.
+\i (00:44:37) done 
+\i (00:44:37) etchedit 
+\i (00:44:45) xhilite 
+\i (00:44:45) xrefdes R234 
+\i (00:44:45) xrefdes R151 
+\i (00:44:45) xrefdes R232 
+\i (00:44:45) xrefdes R233 
+\i (00:44:45) xrefdes R142 
+\i (00:44:45) xrefdes R144 
+\i (00:44:45) xrefdes R237 
+\i (00:44:45) xrefdes R147 
+\i (00:44:45) xrefdes R140 
+\i (00:44:45) xrefdes R236 
+\i (00:44:45) xrefdes R255 
+\i (00:44:45) xrefdes R149 
+\i (00:44:45) xrefdes C69 
+\i (00:44:45) xrefdes C61 
+\i (00:44:45) xrefdes C73 
+\i (00:44:45) xrefdes R235 
+\i (00:44:45) xNet N34092473 
+\i (00:44:45) xrefdes C81 
+\i (00:44:45) xname_flush 
+\i (00:44:45) trapsize 148
+\t (00:44:45) 1 Net(s) highlighted.
+\t (00:44:45) 17 Component(s) highlighted.
+\i (00:44:45) done 
+\i (00:44:45) etchedit 
+\i (00:44:49) xhilite 
+\i (00:44:49) xNet N34149423 
+\i (00:44:49) xrefdes C79 
+\i (00:44:49) xrefdes U11 
+\i (00:44:49) xrefdes C85 
+\i (00:44:49) xname_flush 
+\i (00:44:49) trapsize 148
+\t (00:44:49) Net "N34149423" highlighted.
+\t (00:44:49) Symbol "C79" highlighted.
+\t (00:44:49) Symbol "U11" highlighted.
+\t (00:44:49) Symbol "C85" highlighted.
+\i (00:44:49) done 
+\i (00:44:49) etchedit 
+\i (00:45:38) xhilite 
+\i (00:45:39) xname_flush 
+\i (00:45:39) done 
+\i (00:45:39) etchedit 
+\i (00:46:26) xhilite 
+\i (00:46:26) xrefdes R332 
+\i (00:46:26) xrefdes Q8 
+\i (00:46:26) xrefdes R333 
+\i (00:46:26) xNet N42318507 
+\i (00:46:26) xNet Npbstat 
+\i (00:46:26) xrefdes R346 
+\i (00:46:26) xrefdes Q9 
+\i (00:46:26) xname_flush 
+\i (00:46:26) trapsize 148
+\t (00:46:26) Symbol "R332" highlighted.
+\t (00:46:26) Symbol "Q8" highlighted.
+\t (00:46:26) Symbol "R333" highlighted.
+\t (00:46:26) Net "N42318507" highlighted.
+\t (00:46:26) Net "Npbstat" highlighted.
+\t (00:46:26) Symbol "R346" highlighted.
+\t (00:46:26) Symbol "Q9" highlighted.
+\i (00:46:26) done 
+\i (00:46:26) etchedit 
+\i (00:46:27) xdehilite 
+\i (00:46:27) xNet Gnd_Power 
+\i (00:46:27) xrefdes R332 
+\i (00:46:27) xNet Wkup 
+\i (00:46:27) xrefdes Q8 
+\i (00:46:27) xrefdes R333 
+\i (00:46:27) xNet Vsys_5V 
+\i (00:46:27) xNet N42318507 
+\i (00:46:27) xNet Npbstat 
+\i (00:46:27) xNet Vddbu 
+\i (00:46:27) xrefdes R346 
+\i (00:46:27) xrefdes Q9 
+\i (00:46:27) xname_flush 
+\t (00:46:27) 5 Net(s) dehighlighted.
+\t (00:46:27) 5 Component(s) dehighlighted.
+\i (00:46:27) done 
+\i (00:46:27) etchedit 
+\i (00:46:39) xhilite 
+\i (00:46:39) xNet Vdd_5V_In 
+\i (00:46:39) xNet Gnd_Power 
+\i (00:46:39) xrefdes R332 
+\i (00:46:39) xrefdes C59 
+\i (00:46:39) xNet Wkup 
+\i (00:46:39) xrefdes Q8 
+\i (00:46:39) xrefdes R333 
+\i (00:46:39) xNet Vsys_5V 
+\i (00:46:39) xNet N42318507 
+\i (00:46:39) xrefdes C60 
+\i (00:46:39) xNet Npbstat 
+\i (00:46:39) xNet Vddbu 
+\i (00:46:39) xrefdes C58 
+\i (00:46:39) xrefdes R346 
+\i (00:46:39) xrefdes Q9 
+\i (00:46:39) xname_flush 
+\i (00:46:39) trapsize 148
+\t (00:46:39) 7 Net(s) highlighted.
+\t (00:46:39) 8 Component(s) highlighted.
+\i (00:46:39) done 
+\i (00:46:39) etchedit 
+\i (00:46:41) xhilite 
+\i (00:46:41) xNet Vddb_5V 
+\i (00:46:41) xname_flush 
+\i (00:46:41) trapsize 4
+\t (00:46:41) Net "Vddb_5V" highlighted.
+\i (00:46:41) done 
+\i (00:46:41) etchedit 
+\i (00:46:45) xhilite 
+\i (00:46:45) xNet Vdd_3V3 
+\i (00:46:45) xrefdes R280 
+\i (00:46:45) xrefdes R139 
+\i (00:46:45) xrefdes D6 
+\i (00:46:45) xrefdes C46 
+\i (00:46:45) xrefdes C44 
+\i (00:46:45) xNet Vdd_1V35 
+\i (00:46:45) xname_flush 
+\i (00:46:45) trapsize 148
+\t (00:46:45) Net "Vdd_3V3" highlighted.
+\t (00:46:45) Symbol "R280" highlighted.
+\t (00:46:45) Symbol "R139" highlighted.
+\t (00:46:45) Symbol "D6" highlighted.
+\t (00:46:45) Symbol "C46" highlighted.
+\t (00:46:45) Symbol "C44" highlighted.
+\t (00:46:45) Net "Vdd_1V35" highlighted.
+\i (00:46:45) done 
+\i (00:46:45) etchedit 
+\i (00:46:48) xhilite 
+\i (00:46:48) xrefdes R129 
+\i (00:46:48) xNet Vdd_1V2 
+\i (00:46:48) xrefdes L12 
+\i (00:46:48) xNet N36625794 
+\i (00:46:48) xrefdes L16 
+\i (00:46:48) xNet Vddhsic 
+\i (00:46:48) xNet Vddplla 
+\i (00:46:48) xNet Vddutmic 
+\i (00:46:48) xrefdes L18 
+\i (00:46:48) xname_flush 
+\i (00:46:48) trapsize 148
+\t (00:46:48) 5 Net(s) highlighted.
+\t (00:46:48) 4 Component(s) highlighted.
+\i (00:46:48) done 
+\i (00:46:48) etchedit 
+\i (00:46:50) xhilite 
+\i (00:46:50) xNet Vddisc 
+\i (00:46:50) xrefdes L10 
+\i (00:46:50) xNet Vddiop0 
+\i (00:46:50) xrefdes L9 
+\i (00:46:50) xNet Vddiop2 
+\i (00:46:50) xrefdes L7 
+\i (00:46:50) xNet Vddiop1 
+\i (00:46:50) xrefdes L8 
+\i (00:46:50) xname_flush 
+\i (00:46:50) trapsize 148
+\t (00:46:50) Net "Vddisc" highlighted.
+\t (00:46:50) Symbol "L10" highlighted.
+\t (00:46:50) Net "Vddiop0" highlighted.
+\t (00:46:50) Symbol "L9" highlighted.
+\t (00:46:50) Net "Vddiop2" highlighted.
+\t (00:46:50) Symbol "L7" highlighted.
+\t (00:46:50) Net "Vddiop1" highlighted.
+\t (00:46:50) Symbol "L8" highlighted.
+\i (00:46:50) done 
+\i (00:46:50) etchedit 
+\i (00:46:53) xhilite 
+\i (00:46:53) xrefdes L20 
+\i (00:46:53) xrefdes R293 
+\i (00:46:53) xrefdes R300 
+\i (00:46:53) xrefdes L22 
+\i (00:46:53) xNet N38248254 
+\i (00:46:53) xNet N36630600 
+\i (00:46:53) xNet Vdd_3V3_Lp 
+\i (00:46:53) xNet Vddaudiopll 
+\i (00:46:53) xNet Vddana 
+\i (00:46:53) xrefdes L23 
+\i (00:46:53) xNet Vddosc 
+\i (00:46:53) xNet N35984128 
+\i (00:46:53) xNet Vddutmii 
+\i (00:46:53) xrefdes L19 
+\i (00:46:53) xNet N35984160 
+\i (00:46:53) xrefdes R284 
+\i (00:46:53) xrefdes R303 
+\i (00:46:53) xname_flush 
+\i (00:46:53) trapsize 148
+\t (00:46:53) 9 Net(s) highlighted.
+\t (00:46:53) 8 Component(s) highlighted.
+\i (00:46:53) done 
+\i (00:46:53) etchedit 
+\i (00:46:57) xhilite 
+\i (00:46:57) xNet N35974827 
+\i (00:46:57) xrefdes R19 
+\i (00:46:57) xNet N42482892 
+\i (00:46:57) xNet Vbat 
+\i (00:46:57) xNet Pmic_Lbo/Exp_Pc8 
+\i (00:46:57) xNet N35973965 
+\i (00:46:57) xNet N35973957 
+\i (00:46:57) xNet N35973973 
+\i (00:46:57) xrefdes C38 
+\i (00:46:57) xrefdes C22 
+\i (00:46:57) xrefdes C37 
+\i (00:46:57) xrefdes L6 
+\i (00:46:57) xrefdes C163 
+\i (00:46:57) xNet N35974057 
+\i (00:46:57) xNet N35974053 
+\i (00:46:57) xNet Vin_5V 
+\i (00:46:57) xNet N35974077 
+\i (00:46:57) xNet Pmic_Chglev_Pa12 
+\i (00:46:57) xrefdes R7 
+\i (00:46:57) xNet Pmic_Irq_Pb13 
+\i (00:46:57) xNet N35974129 
+\i (00:46:57) xrefdes C3 
+\i (00:46:57) xrefdes C1 
+\i (00:46:57) xrefdes C2 
+\i (00:46:57) xrefdes L1 
+\i (00:46:57) xNet N35974203 
+\i (00:46:57) xrefdes R27 
+\i (00:46:57) xNet Shdn 
+\i (00:46:57) xNet N35974215 
+\i (00:46:57) xrefdes U2 
+\i (00:46:57) xrefdes R22 
+\i (00:46:57) xNet N35974333 
+\i (00:46:57) xNet N35974365 
+\i (00:46:57) xrefdes D9 
+\i (00:46:57) xNet N35974369 
+\i (00:46:57) xrefdes R12 
+\i (00:46:57) xrefdes Tp11 
+\i (00:46:57) xrefdes R18 
+\i (00:46:57) xrefdes R21 
+\i (00:46:57) xrefdes C165 
+\i (00:46:57) xNet Vdd_Led 
+\i (00:46:57) xNet N35974471 
+\i (00:46:57) xNet N35974465 
+\i (00:46:57) xrefdes R24 
+\i (00:46:57) xrefdes R327 
+\i (00:46:57) xrefdes C166 
+\i (00:46:57) xrefdes R15 
+\i (00:46:57) xrefdes R14 
+\i (00:46:57) xNet Vddfuse 
+\i (00:46:57) xrefdes R9 
+\i (00:46:57) xrefdes C10 
+\i (00:46:57) xrefdes R8 
+\i (00:46:57) xrefdes C20 
+\i (00:46:57) xrefdes C24 
+\i (00:46:57) xrefdes C23 
+\i (00:46:57) xrefdes C173 
+\i (00:46:57) xrefdes C169 
+\i (00:46:57) xrefdes C17 
+\i (00:46:57) xrefdes C13 
+\i (00:46:57) xrefdes L5 
+\i (00:46:57) xrefdes R26 
+\i (00:46:57) xNet N35974815 
+\i (00:46:57) xrefdes R330 
+\i (00:46:57) xrefdes C7 
+\i (00:46:57) xrefdes C8 
+\i (00:46:57) xrefdes R16 
+\i (00:46:57) xNet Nrst 
+\i (00:46:57) xrefdes R13 
+\i (00:46:57) xNet Vddsdhc1v8 
+\i (00:46:57) xNet N35974960 
+\i (00:46:57) xrefdes D1 
+\i (00:46:57) xNet N35974983 
+\i (00:46:57) xNet N35975004 
+\i (00:46:57) xNet Pmic_Twd0_Pd21 
+\i (00:46:57) xNet N35975018 
+\i (00:46:57) xNet Pmic_Twck0_Pd22 
+\i (00:46:57) xNet N35975048 
+\i (00:46:57) xrefdes Tp14 
+\i (00:46:57) xrefdes R41 
+\i (00:46:57) xrefdes R30 
+\i (00:46:57) xrefdes C164 
+\i (00:46:57) xrefdes R6 
+\i (00:46:57) xrefdes C176 
+\i (00:46:57) xrefdes R44 
+\i (00:46:57) xrefdes Q1 
+\i (00:46:57) xrefdes Q3 
+\i (00:46:57) xrefdes R17 
+\i (00:46:57) xNet N39320848 
+\i (00:46:57) xrefdes R20 
+\i (00:46:57) xrefdes L3 
+\i (00:46:57) xrefdes C167 
+\i (00:46:57) xrefdes Q2 
+\i (00:46:57) xname_flush 
+\t (00:46:57) 35 Net(s) highlighted.
+\t (00:46:57) 57 Component(s) highlighted.
+\i (00:46:57) done 
+\i (00:46:57) etchedit 
+\i (00:47:10) xhilite 
+\i (00:47:10) xrefdes R182 
+\i (00:47:10) xNet N36838919 
+\i (00:47:10) xNet N36838917 
+\i (00:47:10) xrefdes L14 
+\i (00:47:10) xrefdes C56 
+\i (00:47:10) xrefdes C83 
+\i (00:47:10) xNet Ddr_Vref 
+\i (00:47:10) xrefdes C55 
+\i (00:47:10) xNet Ddr_D2 
+\i (00:47:10) xNet Ddr_D1 
+\i (00:47:10) xNet Ddr_D0 
+\i (00:47:10) xNet Ddr_D7 
+\i (00:47:10) xNet Ddr_D6 
+\i (00:47:10) xNet Ddr_D5 
+\i (00:47:10) xNet Ddr_D4 
+\i (00:47:10) xNet Ddr_D3 
+\i (00:47:10) xNet Ddr_D12 
+\i (00:47:10) xNet Ddr_D11 
+\i (00:47:10) xNet Ddr_D10 
+\i (00:47:10) xNet Ddr_D9 
+\i (00:47:10) xNet Ddr_D8 
+\i (00:47:10) xNet Ddr_D17 
+\i (00:47:10) xNet Ddr_D16 
+\i (00:47:10) xNet Ddr_D15 
+\i (00:47:10) xNet Ddr_D14 
+\i (00:47:10) xNet Ddr_D13 
+\i (00:47:10) xNet Ddr_D23 
+\i (00:47:10) xNet Ddr_D22 
+\i (00:47:10) xNet Ddr_D21 
+\i (00:47:10) xNet Ddr_D20 
+\i (00:47:10) xNet Ddr_D19 
+\i (00:47:10) xNet Ddr_D18 
+\i (00:47:10) xNet Ddr_D27 
+\i (00:47:10) xNet Ddr_D26 
+\i (00:47:10) xNet Ddr_D25 
+\i (00:47:10) xNet Ddr_D24 
+\i (00:47:10) xNet Ddr_Dqm1 
+\i (00:47:10) xNet Ddr_Dqm0 
+\i (00:47:10) xNet Ddr_D31 
+\i (00:47:10) xNet Ddr_D30 
+\i (00:47:10) xNet Ddr_D29 
+\i (00:47:10) xNet Ddr_D28 
+\i (00:47:10) xNet Ddr_Dqs1+ 
+\i (00:47:10) xNet Ddr_Dqs0- 
+\i (00:47:10) xNet Ddr_Dqs0+ 
+\i (00:47:10) xNet Ddr_Dqm3 
+\i (00:47:10) xNet Ddr_Dqm2 
+\i (00:47:10) xNet Ddr_Dqs3- 
+\i (00:47:10) xNet Ddr_Dqs3+ 
+\i (00:47:10) xNet Ddr_Dqs2- 
+\i (00:47:10) xNet Ddr_Dqs2+ 
+\i (00:47:10) xNet Ddr_Dqs1- 
+\i (00:47:10) xNet Ddr_A0 
+\i (00:47:10) xNet Ddr_A5 
+\i (00:47:10) xNet Ddr_A4 
+\i (00:47:10) xNet Ddr_A3 
+\i (00:47:10) xNet Ddr_A2 
+\i (00:47:10) xNet Ddr_A1 
+\i (00:47:10) xNet Ddr_A9 
+\i (00:47:10) xNet Ddr_A8 
+\i (00:47:10) xNet Ddr_A7 
+\i (00:47:10) xNet Ddr_A6 
+\i (00:47:10) xNet Ddr_A13 
+\i (00:47:10) xNet Ddr_A12 
+\i (00:47:10) xNet Ddr_A11 
+\i (00:47:10) xNet Ddr_A10 
+\i (00:47:10) xNet Ddr_Ba1 
+\i (00:47:10) xNet Ddr_Ba0 
+\i (00:47:10) xNet Ddr_Ba2 
+\i (00:47:10) xNet Ddr_Cas 
+\i (00:47:10) xNet Ddr_Ras 
+\i (00:47:10) xNet Ddr_We 
+\i (00:47:10) xNet Ddr_Cs 
+\i (00:47:10) xrefdes R242 
+\i (00:47:10) xNet Ddr_Clk- 
+\i (00:47:10) xNet Ddr_Clk+ 
+\i (00:47:10) xNet Ddr_Resetn 
+\i (00:47:10) xNet Ddr_Cke 
+\i (00:47:10) xrefdes R178 
+\i (00:47:10) xrefdes C152 
+\i (00:47:10) xrefdes C124 
+\i (00:47:10) xrefdes C112 
+\i (00:47:10) xrefdes C94 
+\i (00:47:10) xrefdes C117 
+\i (00:47:10) xrefdes C139 
+\i (00:47:10) xrefdes C153 
+\i (00:47:10) xrefdes C146 
+\i (00:47:10) xrefdes C151 
+\i (00:47:10) xrefdes C116 
+\i (00:47:10) xrefdes C78 
+\i (00:47:10) xrefdes C65 
+\i (00:47:10) xrefdes C67 
+\i (00:47:10) xrefdes C141 
+\i (00:47:10) xrefdes C77 
+\i (00:47:10) xrefdes C87 
+\i (00:47:10) xrefdes C68 
+\i (00:47:10) xrefdes C98 
+\i (00:47:10) xrefdes C154 
+\i (00:47:10) xrefdes C113 
+\i (00:47:10) xrefdes C92 
+\i (00:47:10) xrefdes C150 
+\i (00:47:10) xrefdes C93 
+\i (00:47:10) xrefdes C96 
+\i (00:47:10) xrefdes C95 
+\i (00:47:10) xrefdes C89 
+\i (00:47:10) xrefdes C129 
+\i (00:47:10) xrefdes C76 
+\i (00:47:10) xrefdes C123 
+\i (00:47:10) xrefdes C126 
+\i (00:47:10) xrefdes C149 
+\i (00:47:10) xrefdes R153 
+\i (00:47:10) xrefdes C74 
+\i (00:47:10) xrefdes C82 
+\i (00:47:10) xrefdes C66 
+\i (00:47:10) xrefdes C115 
+\i (00:47:10) xrefdes R238 
+\i (00:47:10) xrefdes U8 
+\i (00:47:10) xNet N36840902 
+\i (00:47:10) xrefdes U4 
+\i (00:47:10) xrefdes R124 
+\i (00:47:10) xNet N36841022 
+\i (00:47:10) xrefdes C100 
+\i (00:47:10) xrefdes C99 
+\i (00:47:10) xrefdes R180 
+\i (00:47:10) xrefdes R243 
+\i (00:47:10) xNet N41880304 
+\i (00:47:10) xrefdes C106 
+\i (00:47:10) xNet N38442261 
+\i (00:47:10) xNet N38426208 
+\i (00:47:10) xrefdes C145 
+\i (00:47:10) xrefdes C90 
+\i (00:47:10) xrefdes R250 
+\i (00:47:10) xrefdes C54 
+\i (00:47:10) xrefdes C91 
+\i (00:47:10) xrefdes C72 
+\i (00:47:10) xrefdes R179 
+\i (00:47:10) xrefdes C121 
+\i (00:47:10) xrefdes R258 
+\i (00:47:10) xrefdes R254 
+\i (00:47:10) xrefdes R181 
+\i (00:47:10) xname_flush 
+\t (00:47:10) 77 Net(s) highlighted.
+\t (00:47:10) 63 Component(s) highlighted.
+\i (00:47:10) done 
+\i (00:47:10) etchedit 
+\i (00:47:11) xdehilite 
+\i (00:47:11) xNet Gnd_Power 
+\i (00:47:11) xrefdes R182 
+\i (00:47:11) xNet N36838919 
+\i (00:47:11) xNet N36838917 
+\i (00:47:11) xrefdes L14 
+\i (00:47:11) xrefdes C56 
+\i (00:47:11) xrefdes C83 
+\i (00:47:11) xNet Ddr_Vref 
+\i (00:47:11) xrefdes C55 
+\i (00:47:11) xNet Ddr_D2 
+\i (00:47:11) xNet Ddr_D1 
+\i (00:47:11) xNet Ddr_D0 
+\i (00:47:11) xNet Ddr_D7 
+\i (00:47:11) xNet Ddr_D6 
+\i (00:47:11) xNet Ddr_D5 
+\i (00:47:11) xNet Ddr_D4 
+\i (00:47:11) xNet Ddr_D3 
+\i (00:47:11) xNet Ddr_D12 
+\i (00:47:11) xNet Ddr_D11 
+\i (00:47:11) xNet Ddr_D10 
+\i (00:47:11) xNet Ddr_D9 
+\i (00:47:11) xNet Ddr_D8 
+\i (00:47:11) xNet Ddr_D17 
+\i (00:47:11) xNet Ddr_D16 
+\i (00:47:11) xNet Ddr_D15 
+\i (00:47:11) xNet Ddr_D14 
+\i (00:47:11) xNet Ddr_D13 
+\i (00:47:11) xNet Ddr_D23 
+\i (00:47:11) xNet Ddr_D22 
+\i (00:47:11) xNet Ddr_D21 
+\i (00:47:11) xNet Ddr_D20 
+\i (00:47:11) xNet Ddr_D19 
+\i (00:47:11) xNet Ddr_D18 
+\i (00:47:11) xNet Ddr_D27 
+\i (00:47:11) xNet Ddr_D26 
+\i (00:47:11) xNet Ddr_D25 
+\i (00:47:11) xNet Ddr_D24 
+\i (00:47:11) xNet Ddr_Dqm1 
+\i (00:47:11) xNet Ddr_Dqm0 
+\i (00:47:11) xNet Ddr_D31 
+\i (00:47:11) xNet Ddr_D30 
+\i (00:47:11) xNet Ddr_D29 
+\i (00:47:11) xNet Ddr_D28 
+\i (00:47:11) xNet Ddr_Dqs1+ 
+\i (00:47:11) xNet Ddr_Dqs0- 
+\i (00:47:11) xNet Ddr_Dqs0+ 
+\i (00:47:11) xNet Ddr_Dqm3 
+\i (00:47:11) xNet Ddr_Dqm2 
+\i (00:47:11) xNet Ddr_Dqs3- 
+\i (00:47:11) xNet Ddr_Dqs3+ 
+\i (00:47:11) xNet Ddr_Dqs2- 
+\i (00:47:11) xNet Ddr_Dqs2+ 
+\i (00:47:11) xNet Ddr_Dqs1- 
+\i (00:47:11) xNet Vdd_1V35 
+\i (00:47:11) xNet Ddr_A0 
+\i (00:47:11) xNet Ddr_A5 
+\i (00:47:11) xNet Ddr_A4 
+\i (00:47:11) xNet Ddr_A3 
+\i (00:47:11) xNet Ddr_A2 
+\i (00:47:11) xNet Ddr_A1 
+\i (00:47:11) xNet Ddr_A9 
+\i (00:47:11) xNet Ddr_A8 
+\i (00:47:11) xNet Ddr_A7 
+\i (00:47:11) xNet Ddr_A6 
+\i (00:47:11) xNet Ddr_A13 
+\i (00:47:11) xNet Ddr_A12 
+\i (00:47:11) xNet Ddr_A11 
+\i (00:47:11) xNet Ddr_A10 
+\i (00:47:11) xNet Ddr_Ba1 
+\i (00:47:11) xNet Ddr_Ba0 
+\i (00:47:11) xNet Ddr_Ba2 
+\i (00:47:11) xNet Ddr_Cas 
+\i (00:47:11) xNet Ddr_Ras 
+\i (00:47:11) xNet Ddr_We 
+\i (00:47:11) xNet Ddr_Cs 
+\i (00:47:11) xrefdes R242 
+\i (00:47:11) xNet Ddr_Clk- 
+\i (00:47:11) xNet Ddr_Clk+ 
+\i (00:47:11) xNet Ddr_Resetn 
+\i (00:47:11) xNet Ddr_Cke 
+\i (00:47:11) xrefdes R178 
+\i (00:47:11) xrefdes C152 
+\i (00:47:11) xrefdes C124 
+\i (00:47:11) xrefdes C112 
+\i (00:47:11) xrefdes C94 
+\i (00:47:11) xrefdes C117 
+\i (00:47:11) xrefdes C139 
+\i (00:47:11) xrefdes C153 
+\i (00:47:11) xrefdes C146 
+\i (00:47:11) xrefdes C151 
+\i (00:47:11) xrefdes C116 
+\i (00:47:11) xrefdes C78 
+\i (00:47:11) xrefdes C65 
+\i (00:47:11) xrefdes C67 
+\i (00:47:11) xrefdes C141 
+\i (00:47:11) xrefdes C77 
+\i (00:47:11) xrefdes C87 
+\i (00:47:11) xrefdes C68 
+\i (00:47:11) xrefdes C98 
+\i (00:47:11) xrefdes C154 
+\i (00:47:11) xrefdes C113 
+\i (00:47:11) xrefdes C92 
+\i (00:47:11) xrefdes C150 
+\i (00:47:11) xrefdes C93 
+\i (00:47:11) xrefdes C96 
+\i (00:47:11) xrefdes C95 
+\i (00:47:11) xrefdes C89 
+\i (00:47:11) xrefdes C129 
+\i (00:47:11) xrefdes C76 
+\i (00:47:11) xrefdes C123 
+\i (00:47:11) xrefdes C126 
+\i (00:47:11) xrefdes C149 
+\i (00:47:11) xrefdes R153 
+\i (00:47:11) xrefdes C74 
+\i (00:47:11) xrefdes C82 
+\i (00:47:11) xrefdes C66 
+\i (00:47:11) xrefdes C115 
+\i (00:47:11) xrefdes R238 
+\i (00:47:11) xrefdes U8 
+\i (00:47:11) xNet N36840902 
+\i (00:47:11) xrefdes U4 
+\i (00:47:11) xrefdes R124 
+\i (00:47:11) xNet N36841022 
+\i (00:47:11) xrefdes C100 
+\i (00:47:11) xrefdes C99 
+\i (00:47:11) xrefdes R180 
+\i (00:47:11) xrefdes R243 
+\i (00:47:11) xNet N41880304 
+\i (00:47:11) xrefdes C106 
+\i (00:47:11) xNet N38442261 
+\i (00:47:11) xNet N38426208 
+\i (00:47:11) xrefdes C145 
+\i (00:47:11) xrefdes C90 
+\i (00:47:11) xrefdes R250 
+\i (00:47:11) xrefdes C54 
+\i (00:47:11) xrefdes C91 
+\i (00:47:11) xrefdes C72 
+\i (00:47:11) xrefdes R179 
+\i (00:47:11) xrefdes C121 
+\i (00:47:11) xrefdes R258 
+\i (00:47:11) xrefdes R254 
+\i (00:47:11) xrefdes R181 
+\i (00:47:11) xname_flush 
+\t (00:47:11) 79 Net(s) dehighlighted.
+\t (00:47:11) 63 Component(s) dehighlighted.
+\i (00:47:11) done 
+\i (00:47:11) etchedit 
+\i (00:47:15) xhilite 
+\i (00:47:15) xrefdes L14 
+\i (00:47:15) xNet Ddr_D2 
+\i (00:47:15) xNet Ddr_D1 
+\i (00:47:15) xNet Ddr_D0 
+\i (00:47:15) xNet Ddr_Vref 
+\i (00:47:15) xNet Ddr_D7 
+\i (00:47:15) xNet Ddr_D6 
+\i (00:47:15) xNet Ddr_D5 
+\i (00:47:15) xNet Ddr_D4 
+\i (00:47:15) xNet Ddr_D3 
+\i (00:47:15) xNet Ddr_D12 
+\i (00:47:15) xNet Ddr_D11 
+\i (00:47:15) xNet Ddr_D10 
+\i (00:47:15) xNet Ddr_D9 
+\i (00:47:15) xNet Ddr_D8 
+\i (00:47:16) xNet Ddr_D17 
+\i (00:47:16) xNet Ddr_D16 
+\i (00:47:16) xNet Ddr_D15 
+\i (00:47:16) xNet Ddr_D14 
+\i (00:47:16) xNet Ddr_D13 
+\i (00:47:16) xNet Ddr_D23 
+\i (00:47:16) xNet Ddr_D22 
+\i (00:47:16) xNet Ddr_D21 
+\i (00:47:16) xNet Ddr_D20 
+\i (00:47:16) xNet Ddr_D19 
+\i (00:47:16) xNet Ddr_D18 
+\i (00:47:16) xNet Ddr_D27 
+\i (00:47:16) xNet Ddr_D26 
+\i (00:47:16) xNet Ddr_D25 
+\i (00:47:16) xNet Ddr_D24 
+\i (00:47:16) xNet Ddr_Dqm1 
+\i (00:47:16) xNet Ddr_Dqm0 
+\i (00:47:16) xNet Ddr_D31 
+\i (00:47:16) xNet Ddr_D30 
+\i (00:47:16) xNet Ddr_D29 
+\i (00:47:16) xNet Ddr_D28 
+\i (00:47:16) xNet Ddr_Dqs1+ 
+\i (00:47:16) xNet Ddr_Dqs0- 
+\i (00:47:16) xNet Ddr_Dqs0+ 
+\i (00:47:16) xNet Ddr_Dqm3 
+\i (00:47:16) xNet Ddr_Dqm2 
+\i (00:47:16) xNet Ddr_Dqs3- 
+\i (00:47:16) xNet Ddr_Dqs3+ 
+\i (00:47:16) xNet Ddr_Dqs2- 
+\i (00:47:16) xNet Ddr_Dqs2+ 
+\i (00:47:16) xNet Ddr_Dqs1- 
+\i (00:47:16) xNet Vdd_1V35 
+\i (00:47:16) xNet Ddr_A0 
+\i (00:47:16) xNet Ddr_A5 
+\i (00:47:16) xNet Ddr_A4 
+\i (00:47:16) xNet Ddr_A3 
+\i (00:47:16) xNet Ddr_A2 
+\i (00:47:16) xNet Ddr_A1 
+\i (00:47:16) xNet Ddr_A9 
+\i (00:47:16) xNet Ddr_A8 
+\i (00:47:16) xNet Ddr_A7 
+\i (00:47:16) xNet Ddr_A6 
+\i (00:47:16) xNet Ddr_A13 
+\i (00:47:16) xNet Ddr_A12 
+\i (00:47:16) xNet Ddr_A11 
+\i (00:47:16) xNet Ddr_A10 
+\i (00:47:16) xNet Ddr_Ba1 
+\i (00:47:16) xNet Ddr_Ba0 
+\i (00:47:16) xNet Ddr_Ba2 
+\i (00:47:16) xNet Ddr_Cas 
+\i (00:47:16) xNet Ddr_Ras 
+\i (00:47:16) xNet Ddr_We 
+\i (00:47:16) xNet Ddr_Cs 
+\i (00:47:16) xNet Gnd_Power 
+\i (00:47:16) xrefdes R242 
+\i (00:47:16) xNet Ddr_Clk- 
+\i (00:47:16) xNet Ddr_Clk+ 
+\i (00:47:16) xNet Ddr_Resetn 
+\i (00:47:16) xNet Ddr_Cke 
+\i (00:47:16) xrefdes R178 
+\i (00:47:16) xrefdes R153 
+\i (00:47:16) xrefdes R238 
+\i (00:47:16) xrefdes U8 
+\i (00:47:16) xNet N36840902 
+\i (00:47:16) xrefdes U4 
+\i (00:47:16) xrefdes R124 
+\i (00:47:16) xNet N36841022 
+\i (00:47:16) xrefdes C100 
+\i (00:47:16) xrefdes C99 
+\i (00:47:16) xrefdes R243 
+\i (00:47:16) xNet N41880304 
+\i (00:47:16) xrefdes C106 
+\i (00:47:16) xNet N38442261 
+\i (00:47:16) xNet N38426208 
+\i (00:47:16) xrefdes C145 
+\i (00:47:16) xrefdes R250 
+\i (00:47:16) xrefdes C91 
+\i (00:47:16) xrefdes C72 
+\i (00:47:16) xrefdes R179 
+\i (00:47:16) xrefdes C121 
+\i (00:47:16) xrefdes R258 
+\i (00:47:16) xrefdes R254 
+\i (00:47:16) xname_flush 
+\t (00:47:16) 77 Net(s) highlighted.
+\t (00:47:16) 20 Component(s) highlighted.
+\i (00:47:16) done 
+\i (00:47:16) etchedit 
+\i (00:47:19) xhilite 
+\i (00:47:19) xrefdes R182 
+\i (00:47:19) xNet N36838919 
+\i (00:47:19) xNet N36838917 
+\i (00:47:19) xrefdes C56 
+\i (00:47:19) xrefdes C83 
+\i (00:47:19) xrefdes C55 
+\i (00:47:19) xrefdes R180 
+\i (00:47:19) xrefdes C54 
+\i (00:47:19) xrefdes R181 
+\i (00:47:19) xname_flush 
+\i (00:47:19) trapsize 148
+\t (00:47:19) 2 Net(s) highlighted.
+\t (00:47:19) 7 Component(s) highlighted.
+\i (00:47:19) done 
+\i (00:47:19) etchedit 
+\i (00:47:22) xhilite 
+\i (00:47:22) xrefdes C152 
+\i (00:47:22) xrefdes C124 
+\i (00:47:22) xrefdes C112 
+\i (00:47:22) xrefdes C94 
+\i (00:47:22) xrefdes C117 
+\i (00:47:22) xrefdes C139 
+\i (00:47:22) xrefdes C153 
+\i (00:47:22) xrefdes C146 
+\i (00:47:22) xrefdes C116 
+\i (00:47:22) xrefdes C151 
+\i (00:47:22) xrefdes C65 
+\i (00:47:22) xrefdes C78 
+\i (00:47:22) xrefdes C67 
+\i (00:47:22) xrefdes C141 
+\i (00:47:22) xrefdes C77 
+\i (00:47:22) xrefdes C87 
+\i (00:47:22) xrefdes C68 
+\i (00:47:22) xrefdes C98 
+\i (00:47:22) xrefdes C154 
+\i (00:47:22) xrefdes C92 
+\i (00:47:22) xrefdes C113 
+\i (00:47:22) xrefdes C93 
+\i (00:47:22) xrefdes C150 
+\i (00:47:22) xrefdes C95 
+\i (00:47:22) xrefdes C96 
+\i (00:47:22) xrefdes C89 
+\i (00:47:22) xrefdes C129 
+\i (00:47:22) xrefdes C76 
+\i (00:47:22) xrefdes C123 
+\i (00:47:22) xrefdes C126 
+\i (00:47:22) xrefdes C149 
+\i (00:47:22) xrefdes C74 
+\i (00:47:22) xrefdes C82 
+\i (00:47:22) xrefdes C66 
+\i (00:47:22) xrefdes C115 
+\i (00:47:22) xrefdes C90 
+\i (00:47:22) xname_flush 
+\t (00:47:22) 36 Component(s) highlighted.
+\i (00:47:22) done 
+\i (00:47:22) etchedit 
+\i (00:47:42) xhilite 
+\i (00:47:42) xNet Sdhc1_Ck_Pa22 
+\i (00:47:42) xNet Sdhc1_Cd_Pa30 
+\i (00:47:42) xNet Vdd_3V3 
+\i (00:47:42) xNet Sdhc1_Dat0_Pa18 
+\i (00:47:42) xNet Sdhc1_Dat3_Pa21 
+\i (00:47:42) xNet Sdhc1_Dat2_Pa20 
+\i (00:47:42) xNet Sdhc1_Dat1_Pa19 
+\i (00:47:42) xNet Sdhc1_Cmd_Pa28 
+\i (00:47:42) xname_flush 
+\i (00:47:42) trapsize 148
+\t (00:47:42) Net "Sdhc1_Ck_Pa22" highlighted.
+\t (00:47:42) Net "Sdhc1_Cd_Pa30" highlighted.
+\t (00:47:42) Net "Vdd_3V3" highlighted.
+\t (00:47:42) Net "Sdhc1_Dat0_Pa18" highlighted.
+\t (00:47:42) Net "Sdhc1_Dat3_Pa21" highlighted.
+\t (00:47:42) Net "Sdhc1_Dat2_Pa20" highlighted.
+\t (00:47:42) Net "Sdhc1_Dat1_Pa19" highlighted.
+\t (00:47:42) Net "Sdhc1_Cmd_Pa28" highlighted.
+\i (00:47:42) done 
+\i (00:47:42) etchedit 
+\i (00:47:44) xdehilite 
+\i (00:47:44) xNet Gnd_Power 
+\i (00:47:44) xNet Sdhc1_Ck_Pa22 
+\i (00:47:44) xNet Sdhc1_Cd_Pa30 
+\i (00:47:44) xNet Vdd_3V3 
+\i (00:47:44) xNet Sdhc1_Dat0_Pa18 
+\i (00:47:44) xNet Sdhc1_Dat3_Pa21 
+\i (00:47:44) xNet Sdhc1_Dat2_Pa20 
+\i (00:47:44) xNet Sdhc1_Dat1_Pa19 
+\i (00:47:44) xNet Sdhc1_Cmd_Pa28 
+\i (00:47:44) xname_flush 
+\t (00:47:44) 9 Net(s) dehighlighted.
+\i (00:47:44) done 
+\i (00:47:44) etchedit 
+\i (00:48:22) xhilite 
+\i (00:48:22) xname_flush 
+\i (00:48:22) done 
+\i (00:48:22) etchedit 
+\i (00:48:37) xdehilite 
+\i (00:48:37) xname_flush 
+\i (00:48:37) done 
+\i (00:48:37) etchedit 
+\i (00:53:27) zoom out 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom out 11749.6 9115.3
+\i (00:53:27) trapsize 296
+\i (00:53:27) zoom out 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom out 11749.7 9115.4
+\i (00:53:27) trapsize 592
+\i (00:53:27) zoom out 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom out 7293.1 9079.8
+\i (00:53:27) trapsize 899
+\i (00:53:27) zoom out 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom out 11105.7 9829.8
+\i (00:53:27) trapsize 899
+\i (00:53:27) zoom out 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom out 11159.6 9704.0
+\i (00:53:27) trapsize 899
+\i (00:53:27) zoom in 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom in 7170.2 5570.8
+\i (00:53:27) trapsize 449
+\i (00:53:27) zoom in 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom in 6920.2 5570.8
+\i (00:53:27) trapsize 225
+\i (00:53:27) zoom in 1 
+\i (00:53:27) setwindow pcb
+\i (00:53:27) zoom in 6920.3 5570.8
+\i (00:53:27) trapsize 112
+\i (00:53:31) rats all 
+\i (00:53:31) etchedit 
+\i (00:53:31) unrats all 
+\i (00:53:31) etchedit 
+\i (00:53:32) pick grid 6754.0 6676.0
+\t (00:53:32) last pick:  6750.0  6675.0
+\i (00:54:26) pick grid 6781.0 5501.2
+\t (00:54:26) last pick:  6775.0  5500.0
+\i (00:54:27) pick grid 8173.7 5009.3
+\t (00:54:27) last pick:  8175.0  5000.0
+\i (00:54:27) pick grid 8173.7 5009.3
+\t (00:54:27) last pick:  8175.0  5000.0
+\i (01:25:28) xhilite 
+\i (01:25:28) xNet Vdd_3V3 
+\i (01:25:28) xNet Gnd 
+\i (01:25:28) xNet Vcc_Bat 
+\i (01:25:28) xNet Classd_R3_Pb4 
+\i (01:25:28) xNet Classd_R1_Pb2 
+\i (01:25:28) xNet Lcd_Id_Pb0 
+\i (01:25:28) xNet Classd_R2_Pb3 
+\i (01:25:28) xNet Classd_R0_Pb1 
+\i (01:25:28) xNet Exp/Xpro_Pb5 
+\i (01:25:28) xNet Lcd_Irq2_Pb8 
+\i (01:25:28) xNet Lcd_Irq1_Pb7 
+\i (01:25:28) xNet Exp/Xpro_Pb6 
+\i (01:25:28) xNet Pmic_Irq_Pb13 
+\i (01:25:28) xNet Isc_Pwd/Exp_Pb12 
+\i (01:25:28) xNet Usbb_En5v_Pb10 
+\i (01:25:28) xNet User_Pb_Pb9 
+\i (01:25:28) xNet Isc_Rst/Exp_Pb11 
+\i (01:25:28) xrefdes J18 
+\i (01:25:28) xNet Eth_Grxer_Pb17 
+\i (01:25:28) xNet Eth_Grxdv_Pb16 
+\i (01:25:28) xNet Eth_Gtxck_Pb14 
+\i (01:25:28) xNet Eth_Gtxen_Pb15 
+\i (01:25:28) xNet Eth_Gtx0_Pb20 
+\i (01:25:28) xNet Eth_Gmdio_Pb23 
+\i (01:25:28) xNet Eth_Gtx1_Pb21 
+\i (01:25:28) xNet Eth_Grx1_Pb19 
+\i (01:25:28) xNet Eth_Grx0_Pb18 
+\i (01:25:28) xNet Isc_D1/Exp_Pb27 
+\i (01:25:28) xNet Isc_D11/Exp_Pb25 
+\i (01:25:28) xNet Eth_Gmdc_Pb22 
+\i (01:25:28) xNet Isc_D2/Exp/Xpro_Pb28 
+\i (01:25:28) xNet Isc_D0/Exp_Pb26 
+\i (01:25:28) xNet Isc_D10/Exp_Pb24 
+\i (01:25:28) xNet Isc_D5/Exp/Xpro_Pb31 
+\i (01:25:28) xNet Isc_D3/Exp/Xpro_Pb29 
+\i (01:25:28) xNet Isc_D4/Exp_Pb30 
+\i (01:25:28) xrefdes J19 
+\i (01:25:28) xNet Spi0_Spck_Pa14 
+\i (01:25:28) xNet Sdhc0_Vddsel_Pa11 
+\i (01:25:28) xNet Sdhc1_Dat3_Pa21 
+\i (01:25:28) xNet Sdhc1_Dat1_Pa19 
+\i (01:25:28) xNet Spi0_Npcs0_Pa17 
+\i (01:25:28) xNet Spi0_Mosi_Pa15 
+\i (01:25:28) xNet Sdhc0_Cd_Pa13 
+\i (01:25:28) xNet Sdhc1_Ck_Pa22 
+\i (01:25:28) xNet Sdhc1_Dat2_Pa20 
+\i (01:25:28) xNet Sdhc1_Dat0_Pa18 
+\i (01:25:28) xNet Spi0_Miso_Pa16 
+\i (01:25:28) xNet Isc_D6/Exp/Xpro_Pc0 
+\i (01:25:28) xNet Isc_D9/Spi1_Miso_Pc3 
+\i (01:25:28) xNet Isc_D7/Spi1_Spck_Pc1 
+\i (01:25:28) xNet Isc_Mck/Exp_Pc7 
+\i (01:25:28) xNet Isc_Vsync/Exp_Pc5 
+\i (01:25:28) xNet Eth_Int_Pc9 
+\i (01:25:28) xNet Isc_Hsync/Exp_Pc6 
+\i (01:25:28) xNet Isc_Pck/Spi1_Npcs0_Pc4 
+\i (01:25:28) xNet Isc_D8/Spi1_Mosi_Pc2 
+\i (01:25:28) xNet Lcd_Dat7_Pc15 
+\i (01:25:28) xNet Lcd_Dat5_Pc13 
+\i (01:25:28) xNet Lcd_Dat3_Pc11 
+\i (01:25:28) xNet Lcd_Dat21_Pc25 
+\i (01:25:28) xNet Lcd_Dat19_Pc23 
+\i (01:25:28) xNet Lcd_Dat15_Pc21 
+\i (01:25:28) xNet Lcd_Dat13_Pc19 
+\i (01:25:28) xNet Lcd_Dat11_Pc17 
+\i (01:25:28) xNet Lcd_Dat23_Pc27 
+\i (01:25:28) xNet Acp 
+\i (01:25:28) xNet Acn 
+\i (01:25:28) xNet Usbb_Ovcur_Pa29 
+\i (01:25:28) xNet Usba_Vbus_5V_Pa31 
+\i (01:25:28) xNet Rxd 
+\i (01:25:28) xNet Qspi0_Io2_Pa26 
+\i (01:25:28) xNet Sdhc1_Cmd_Pa28 
+\i (01:25:28) xNet Sdhc1_Cd_Pa30 
+\i (01:25:28) xNet Qspi0_Cs_Pa23 
+\i (01:25:28) xNet Qspi0_Io1_Pa25 
+\i (01:25:28) xNet Qspi0_Io3_Pa27 
+\i (01:25:28) xNet Qspi0_Io0_Pa24 
+\i (01:25:28) xNet Pmic_Chglev_Pa12 
+\i (01:25:28) xNet Lcd_Dat10_Pc16 
+\i (01:25:28) xNet Lcd_Dat6_Pc14 
+\i (01:25:28) xNet Lcd_Dat4_Pc12 
+\i (01:25:28) xNet Lcd_Dat2_Pc10 
+\i (01:25:28) xNet Lcd_Dat22_Pc26 
+\i (01:25:28) xNet Lcd_Dat20_Pc24 
+\i (01:25:28) xNet Lcd_Dat18_Pc22 
+\i (01:25:28) xNet Lcd_Dat14_Pc20 
+\i (01:25:28) xNet Lcd_Dat12_Pc18 
+\i (01:25:28) xNet Pmic_Lbo/Exp_Pc8 
+\i (01:25:28) xNet Lcd_Pck_Pd0 
+\i (01:25:28) xNet Lcd_Den_Pd1 
+\i (01:25:28) xNet Lcd_Hsync_Pc31 
+\i (01:25:28) xNet Lcd_Disp_Pc29 
+\i (01:25:28) xNet Lcd_Vsync_Pc30 
+\i (01:25:28) xNet Lcd_Pwm_Pc28 
+\i (01:25:28) xNet Jtag_Tdi_Pd15 
+\i (01:25:28) xNet Jtag_Tdo_Pd16 
+\i (01:25:28) xNet Jtag_Tck_Pd14 
+\i (01:25:28) xNet Jtag_Tms_Pd17 
+\i (01:25:28) xNet Lcd_Ad0_Xp_Pd19 
+\i (01:25:28) xNet Lcd_Ad2_Yp_Pd21 
+\i (01:25:28) xNet Exp/Xpro_Pd29 
+\i (01:25:28) xNet Exp/Xpro_Pd27 
+\i (01:25:28) xNet Exp/Xpro_Pd25 
+\i (01:25:28) xNet Exp_Pd23 
+\i (01:25:28) xNet Piobu3 
+\i (01:25:28) xNet Piobu1 
+\i (01:25:28) xNet Piobu0 
+\i (01:25:28) xNet Piobu6 
+\i (01:25:28) xNet Piobu7 
+\i (01:25:28) xNet Piobu5 
+\i (01:25:28) xNet Vdd_5V_In 
+\i (01:25:28) xNet Dbgu_Utxd1_Pd3 
+\i (01:25:28) xNet Lcd_Twd1_Pd4 
+\i (01:25:28) xNet 'Wake Up' 
+\i (01:25:28) xNet Reset 
+\i (01:25:28) xNet Boot_Dis 
+\i (01:25:28) xNet Nrst 
+\i (01:25:28) xNet Vsys_5V 
+\i (01:25:28) xNet Piobu4 
+\i (01:25:28) xNet Piobu2 
+\i (01:25:28) xNet Clk_Audio 
+\i (01:25:28) xNet Exp_Pd30 
+\i (01:25:28) xNet Exp/Xpro_Pd28 
+\i (01:25:28) xNet Exp/Xpro_Pd26 
+\i (01:25:28) xNet Exp_Pd24 
+\i (01:25:28) xNet Exp/Xpro_Pd13 
+\i (01:25:28) xNet Xpro_Pd11 
+\i (01:25:28) xNet Xpro_Pd9 
+\i (01:25:28) xNet Xpro_Pd7 
+\i (01:25:28) xNet Lcd_Twck1_Pd5 
+\i (01:25:28) xNet Usba_Dm 
+\i (01:25:28) xNet Hsic_Data 
+\i (01:25:28) xNet Usbb_Dp 
+\i (01:25:28) xNet Usbb_Dm 
+\i (01:25:28) xNet Usba_Dp 
+\i (01:25:28) xNet Hsic_Strb 
+\i (01:25:28) xNet Exp_Pd31 
+\i (01:25:28) xNet Lcd_Ad1_Xm_Pd20 
+\i (01:25:28) xNet Lcd_Ad3_Ym_Pd22 
+\i (01:25:28) xNet Xpro_Pd18 
+\i (01:25:28) xNet Exp/Xpro_Pd12 
+\i (01:25:28) xNet Xpro_Pd10 
+\i (01:25:28) xNet Exp_Pd6 
+\i (01:25:28) xNet Xpro_Pd8 
+\i (01:25:28) xNet Dbgu_Urxd1_Pd2 
+\i (01:25:28) xname_flush 
+\t (01:25:28) 144 Net(s) highlighted.
+\t (01:25:28) 2 Component(s) highlighted.
+\i (01:25:28) done 
+\i (01:25:28) etchedit 
+\i (01:25:32) xdehilite 
+\i (01:25:32) xNet Vdd_3V3 
+\i (01:25:32) xNet Gnd 
+\i (01:25:32) xNet Lcd_Id_Pb0 
+\i (01:25:32) xNet Classd_R1_Pb2 
+\i (01:25:32) xNet Classd_R3_Pb4 
+\i (01:25:32) xNet Vcc_Bat 
+\i (01:25:32) xNet Classd_R0_Pb1 
+\i (01:25:32) xNet Classd_R2_Pb3 
+\i (01:25:32) xNet Lcd_Irq1_Pb7 
+\i (01:25:32) xNet Lcd_Irq2_Pb8 
+\i (01:25:32) xNet Exp/Xpro_Pb5 
+\i (01:25:32) xNet Exp/Xpro_Pb6 
+\i (01:25:32) xNet Isc_Rst/Exp_Pb11 
+\i (01:25:32) xNet User_Pb_Pb9 
+\i (01:25:32) xNet Usbb_En5v_Pb10 
+\i (01:25:32) xNet Isc_Pwd/Exp_Pb12 
+\i (01:25:32) xNet Pmic_Irq_Pb13 
+\i (01:25:32) xrefdes J18 
+\i (01:25:32) xNet Eth_Gtxen_Pb15 
+\i (01:25:32) xNet Eth_Gtxck_Pb14 
+\i (01:25:32) xNet Eth_Grxdv_Pb16 
+\i (01:25:32) xNet Eth_Grxer_Pb17 
+\i (01:25:32) xNet Eth_Grx0_Pb18 
+\i (01:25:32) xNet Eth_Grx1_Pb19 
+\i (01:25:32) xNet Eth_Gtx1_Pb21 
+\i (01:25:32) xNet Eth_Gmdio_Pb23 
+\i (01:25:32) xNet Eth_Gtx0_Pb20 
+\i (01:25:32) xNet Eth_Gmdc_Pb22 
+\i (01:25:32) xNet Isc_D11/Exp_Pb25 
+\i (01:25:32) xNet Isc_D1/Exp_Pb27 
+\i (01:25:32) xNet Isc_D3/Exp/Xpro_Pb29 
+\i (01:25:32) xNet Isc_D5/Exp/Xpro_Pb31 
+\i (01:25:32) xNet Isc_D10/Exp_Pb24 
+\i (01:25:32) xNet Isc_D0/Exp_Pb26 
+\i (01:25:32) xNet Isc_D2/Exp/Xpro_Pb28 
+\i (01:25:32) xNet Isc_D4/Exp_Pb30 
+\i (01:25:32) xrefdes J19 
+\i (01:25:32) xNet Sdhc0_Vddsel_Pa11 
+\i (01:25:32) xNet Spi0_Spck_Pa14 
+\i (01:25:32) xNet Sdhc0_Cd_Pa13 
+\i (01:25:32) xNet Spi0_Mosi_Pa15 
+\i (01:25:32) xNet Spi0_Npcs0_Pa17 
+\i (01:25:32) xNet Sdhc1_Dat1_Pa19 
+\i (01:25:32) xNet Sdhc1_Dat3_Pa21 
+\i (01:25:32) xNet Spi0_Miso_Pa16 
+\i (01:25:32) xNet Sdhc1_Dat0_Pa18 
+\i (01:25:32) xNet Sdhc1_Dat2_Pa20 
+\i (01:25:32) xNet Sdhc1_Ck_Pa22 
+\i (01:25:32) xNet Isc_D6/Exp/Xpro_Pc0 
+\i (01:25:32) xNet Isc_D7/Spi1_Spck_Pc1 
+\i (01:25:32) xNet Isc_D9/Spi1_Miso_Pc3 
+\i (01:25:32) xNet Isc_Vsync/Exp_Pc5 
+\i (01:25:32) xNet Isc_Mck/Exp_Pc7 
+\i (01:25:32) xNet Isc_D8/Spi1_Mosi_Pc2 
+\i (01:25:32) xNet Isc_Pck/Spi1_Npcs0_Pc4 
+\i (01:25:32) xNet Isc_Hsync/Exp_Pc6 
+\i (01:25:32) xNet Eth_Int_Pc9 
+\i (01:25:32) xNet Lcd_Dat3_Pc11 
+\i (01:25:32) xNet Lcd_Dat5_Pc13 
+\i (01:25:32) xNet Lcd_Dat7_Pc15 
+\i (01:25:32) xNet Lcd_Dat11_Pc17 
+\i (01:25:32) xNet Lcd_Dat13_Pc19 
+\i (01:25:32) xNet Lcd_Dat15_Pc21 
+\i (01:25:32) xNet Lcd_Dat19_Pc23 
+\i (01:25:32) xNet Lcd_Dat21_Pc25 
+\i (01:25:32) xNet Lcd_Dat23_Pc27 
+\i (01:25:32) xNet Acn 
+\i (01:25:32) xNet Acp 
+\i (01:25:32) xNet Rxd 
+\i (01:25:32) xNet Usba_Vbus_5V_Pa31 
+\i (01:25:32) xNet Usbb_Ovcur_Pa29 
+\i (01:25:32) xNet Qspi0_Io3_Pa27 
+\i (01:25:32) xNet Qspi0_Io1_Pa25 
+\i (01:25:32) xNet Qspi0_Cs_Pa23 
+\i (01:25:32) xNet Sdhc1_Cd_Pa30 
+\i (01:25:32) xNet Sdhc1_Cmd_Pa28 
+\i (01:25:32) xNet Qspi0_Io2_Pa26 
+\i (01:25:32) xNet Qspi0_Io0_Pa24 
+\i (01:25:32) xNet Pmic_Chglev_Pa12 
+\i (01:25:32) xNet Lcd_Dat2_Pc10 
+\i (01:25:32) xNet Lcd_Dat4_Pc12 
+\i (01:25:32) xNet Lcd_Dat6_Pc14 
+\i (01:25:32) xNet Lcd_Dat10_Pc16 
+\i (01:25:32) xNet Lcd_Dat12_Pc18 
+\i (01:25:32) xNet Lcd_Dat14_Pc20 
+\i (01:25:32) xNet Lcd_Dat18_Pc22 
+\i (01:25:32) xNet Lcd_Dat20_Pc24 
+\i (01:25:32) xNet Lcd_Dat22_Pc26 
+\i (01:25:32) xNet Pmic_Lbo/Exp_Pc8 
+\i (01:25:32) xNet Lcd_Den_Pd1 
+\i (01:25:32) xNet Lcd_Pck_Pd0 
+\i (01:25:32) xNet Lcd_Pwm_Pc28 
+\i (01:25:32) xNet Lcd_Vsync_Pc30 
+\i (01:25:32) xNet Lcd_Disp_Pc29 
+\i (01:25:32) xNet Lcd_Hsync_Pc31 
+\i (01:25:32) xNet Jtag_Tdi_Pd15 
+\i (01:25:32) xNet Jtag_Tms_Pd17 
+\i (01:25:32) xNet Jtag_Tck_Pd14 
+\i (01:25:32) xNet Jtag_Tdo_Pd16 
+\i (01:25:32) xNet Lcd_Ad2_Yp_Pd21 
+\i (01:25:32) xNet Lcd_Ad0_Xp_Pd19 
+\i (01:25:32) xNet Exp_Pd23 
+\i (01:25:32) xNet Exp/Xpro_Pd25 
+\i (01:25:32) xNet Exp/Xpro_Pd27 
+\i (01:25:32) xNet Exp/Xpro_Pd29 
+\i (01:25:32) xNet Piobu0 
+\i (01:25:32) xNet Piobu1 
+\i (01:25:32) xNet Piobu3 
+\i (01:25:32) xNet Piobu5 
+\i (01:25:32) xNet Piobu7 
+\i (01:25:32) xNet Piobu6 
+\i (01:25:32) xNet Vdd_5V_In 
+\i (01:25:32) xNet Dbgu_Utxd1_Pd3 
+\i (01:25:32) xNet Lcd_Twd1_Pd4 
+\i (01:25:32) xNet Reset 
+\i (01:25:32) xNet 'Wake Up' 
+\i (01:25:32) xNet Nrst 
+\i (01:25:32) xNet Boot_Dis 
+\i (01:25:32) xNet Vsys_5V 
+\i (01:25:32) xNet Piobu4 
+\i (01:25:32) xNet Piobu2 
+\i (01:25:32) xNet Clk_Audio 
+\i (01:25:32) xNet Exp_Pd30 
+\i (01:25:32) xNet Exp/Xpro_Pd28 
+\i (01:25:32) xNet Exp/Xpro_Pd26 
+\i (01:25:32) xNet Exp_Pd24 
+\i (01:25:32) xNet Exp/Xpro_Pd13 
+\i (01:25:32) xNet Xpro_Pd11 
+\i (01:25:32) xNet Xpro_Pd9 
+\i (01:25:32) xNet Xpro_Pd7 
+\i (01:25:32) xNet Lcd_Twck1_Pd5 
+\i (01:25:32) xNet Usba_Dm 
+\i (01:25:32) xNet Usba_Dp 
+\i (01:25:32) xNet Usbb_Dm 
+\i (01:25:32) xNet Usbb_Dp 
+\i (01:25:32) xNet Hsic_Data 
+\i (01:25:32) xNet Hsic_Strb 
+\i (01:25:32) xNet Exp_Pd31 
+\i (01:25:32) xNet Lcd_Ad3_Ym_Pd22 
+\i (01:25:32) xNet Lcd_Ad1_Xm_Pd20 
+\i (01:25:32) xNet Xpro_Pd18 
+\i (01:25:32) xNet Exp/Xpro_Pd12 
+\i (01:25:32) xNet Xpro_Pd10 
+\i (01:25:32) xNet Xpro_Pd8 
+\i (01:25:32) xNet Exp_Pd6 
+\i (01:25:32) xNet Dbgu_Urxd1_Pd2 
+\i (01:25:32) xname_flush 
+\t (01:25:32) 144 Net(s) dehighlighted.
+\t (01:25:32) 2 Component(s) dehighlighted.
+\i (01:25:32) done 
+\i (01:25:32) etchedit 
+\i (01:25:40) xdehilite 
+\i (01:25:40) xNet Vdd_3V3 
+\i (01:25:40) xNet Gnd 
+\i (01:25:40) xNet Vcc_Bat 
+\i (01:25:40) xNet Classd_R3_Pb4 
+\i (01:25:40) xNet Classd_R1_Pb2 
+\i (01:25:40) xNet Lcd_Id_Pb0 
+\i (01:25:40) xNet Classd_R2_Pb3 
+\i (01:25:40) xNet Classd_R0_Pb1 
+\i (01:25:40) xNet Exp/Xpro_Pb6 
+\i (01:25:40) xNet Exp/Xpro_Pb5 
+\i (01:25:40) xNet Lcd_Irq2_Pb8 
+\i (01:25:40) xNet Lcd_Irq1_Pb7 
+\i (01:25:40) xNet Pmic_Irq_Pb13 
+\i (01:25:40) xNet Isc_Pwd/Exp_Pb12 
+\i (01:25:40) xNet Usbb_En5v_Pb10 
+\i (01:25:40) xNet User_Pb_Pb9 
+\i (01:25:40) xNet Isc_Rst/Exp_Pb11 
+\i (01:25:40) xNet Eth_Grx0_Pb18 
+\i (01:25:40) xNet Eth_Grxer_Pb17 
+\i (01:25:40) xNet Eth_Grxdv_Pb16 
+\i (01:25:40) xNet Eth_Gtxck_Pb14 
+\i (01:25:40) xNet Eth_Gtxen_Pb15 
+\i (01:25:40) xNet Isc_D3/Exp/Xpro_Pb29 
+\i (01:25:40) xNet Isc_D1/Exp_Pb27 
+\i (01:25:40) xNet Isc_D11/Exp_Pb25 
+\i (01:25:40) xNet Eth_Gmdc_Pb22 
+\i (01:25:40) xNet Eth_Gtx0_Pb20 
+\i (01:25:40) xNet Eth_Gmdio_Pb23 
+\i (01:25:40) xNet Eth_Gtx1_Pb21 
+\i (01:25:40) xNet Eth_Grx1_Pb19 
+\i (01:25:40) xNet Isc_D4/Exp_Pb30 
+\i (01:25:40) xNet Isc_D2/Exp/Xpro_Pb28 
+\i (01:25:40) xNet Isc_D0/Exp_Pb26 
+\i (01:25:40) xNet Isc_D10/Exp_Pb24 
+\i (01:25:40) xNet Isc_D5/Exp/Xpro_Pb31 
+\i (01:25:40) xNet Spi0_Spck_Pa14 
+\i (01:25:40) xNet Sdhc0_Vddsel_Pa11 
+\i (01:25:40) xNet Spi0_Miso_Pa16 
+\i (01:25:40) xNet Sdhc1_Dat3_Pa21 
+\i (01:25:40) xNet Sdhc1_Dat1_Pa19 
+\i (01:25:40) xNet Spi0_Npcs0_Pa17 
+\i (01:25:40) xNet Spi0_Mosi_Pa15 
+\i (01:25:40) xNet Sdhc0_Cd_Pa13 
+\i (01:25:40) xNet Sdhc1_Ck_Pa22 
+\i (01:25:40) xNet Sdhc1_Dat2_Pa20 
+\i (01:25:40) xNet Sdhc1_Dat0_Pa18 
+\i (01:25:40) xNet Isc_Pck/Spi1_Npcs0_Pc4 
+\i (01:25:40) xNet Isc_D8/Spi1_Mosi_Pc2 
+\i (01:25:40) xNet Isc_Mck/Exp_Pc7 
+\i (01:25:40) xNet Isc_Vsync/Exp_Pc5 
+\i (01:25:40) xNet Isc_D9/Spi1_Miso_Pc3 
+\i (01:25:40) xNet Isc_D7/Spi1_Spck_Pc1 
+\i (01:25:40) xNet Isc_D6/Exp/Xpro_Pc0 
+\i (01:25:40) xNet Lcd_Dat15_Pc21 
+\i (01:25:40) xNet Lcd_Dat13_Pc19 
+\i (01:25:40) xNet Lcd_Dat11_Pc17 
+\i (01:25:40) xNet Lcd_Dat7_Pc15 
+\i (01:25:40) xNet Lcd_Dat5_Pc13 
+\i (01:25:40) xNet Lcd_Dat3_Pc11 
+\i (01:25:40) xNet Eth_Int_Pc9 
+\i (01:25:40) xNet Isc_Hsync/Exp_Pc6 
+\i (01:25:40) xNet Lcd_Dat23_Pc27 
+\i (01:25:40) xNet Lcd_Dat21_Pc25 
+\i (01:25:40) xNet Lcd_Dat19_Pc23 
+\i (01:25:40) xNet Acn 
+\i (01:25:40) xNet Sdhc1_Cd_Pa30 
+\i (01:25:40) xNet Qspi0_Cs_Pa23 
+\i (01:25:40) xNet Qspi0_Io1_Pa25 
+\i (01:25:40) xNet Qspi0_Io3_Pa27 
+\i (01:25:40) xNet Usbb_Ovcur_Pa29 
+\i (01:25:40) xNet Usba_Vbus_5V_Pa31 
+\i (01:25:40) xNet Rxd 
+\i (01:25:40) xNet Acp 
+\i (01:25:40) xNet Qspi0_Io0_Pa24 
+\i (01:25:40) xNet Qspi0_Io2_Pa26 
+\i (01:25:40) xNet Sdhc1_Cmd_Pa28 
+\i (01:25:40) xNet Pmic_Chglev_Pa12 
+\i (01:25:40) xNet Lcd_Dat18_Pc22 
+\i (01:25:40) xNet Lcd_Dat14_Pc20 
+\i (01:25:40) xNet Lcd_Dat12_Pc18 
+\i (01:25:40) xNet Lcd_Dat10_Pc16 
+\i (01:25:40) xNet Lcd_Dat6_Pc14 
+\i (01:25:40) xNet Lcd_Dat4_Pc12 
+\i (01:25:40) xNet Lcd_Dat2_Pc10 
+\i (01:25:40) xNet Lcd_Pck_Pd0 
+\i (01:25:40) xNet Lcd_Den_Pd1 
+\i (01:25:40) xNet Pmic_Lbo/Exp_Pc8 
+\i (01:25:40) xNet Lcd_Dat22_Pc26 
+\i (01:25:40) xNet Lcd_Dat20_Pc24 
+\i (01:25:40) xNet Lcd_Hsync_Pc31 
+\i (01:25:40) xNet Lcd_Disp_Pc29 
+\i (01:25:40) xNet Lcd_Vsync_Pc30 
+\i (01:25:40) xNet Lcd_Pwm_Pc28 
+\i (01:25:40) xNet Jtag_Tdo_Pd16 
+\i (01:25:40) xNet Jtag_Tck_Pd14 
+\i (01:25:40) xNet Jtag_Tms_Pd17 
+\i (01:25:40) xNet Jtag_Tdi_Pd15 
+\i (01:25:40) xNet Exp/Xpro_Pd25 
+\i (01:25:40) xNet Exp_Pd23 
+\i (01:25:40) xNet Lcd_Ad0_Xp_Pd19 
+\i (01:25:40) xNet Lcd_Ad2_Yp_Pd21 
+\i (01:25:40) xNet Piobu6 
+\i (01:25:40) xNet Piobu7 
+\i (01:25:40) xNet Piobu5 
+\i (01:25:40) xNet Piobu3 
+\i (01:25:40) xNet Piobu1 
+\i (01:25:40) xNet Piobu0 
+\i (01:25:40) xNet Exp/Xpro_Pd29 
+\i (01:25:40) xNet Exp/Xpro_Pd27 
+\i (01:25:40) xNet Vdd_5V_In 
+\i (01:25:40) xNet Lcd_Twd1_Pd4 
+\i (01:25:40) xNet Dbgu_Utxd1_Pd3 
+\i (01:25:40) xNet Boot_Dis 
+\i (01:25:40) xNet Nrst 
+\i (01:25:40) xNet 'Wake Up' 
+\i (01:25:40) xNet Reset 
+\i (01:25:40) xNet Vsys_5V 
+\i (01:25:40) xNet Exp/Xpro_Pd26 
+\i (01:25:40) xNet Exp/Xpro_Pd28 
+\i (01:25:40) xNet Exp_Pd30 
+\i (01:25:40) xNet Clk_Audio 
+\i (01:25:40) xNet Piobu2 
+\i (01:25:40) xNet Piobu4 
+\i (01:25:40) xNet Exp_Pd24 
+\i (01:25:40) xNet Exp/Xpro_Pd13 
+\i (01:25:40) xNet Xpro_Pd7 
+\i (01:25:40) xNet Xpro_Pd9 
+\i (01:25:40) xNet Xpro_Pd11 
+\i (01:25:40) xNet Exp_Pd31 
+\i (01:25:40) xNet Hsic_Strb 
+\i (01:25:40) xNet Hsic_Data 
+\i (01:25:40) xNet Usbb_Dp 
+\i (01:25:40) xNet Usbb_Dm 
+\i (01:25:40) xNet Usba_Dp 
+\i (01:25:40) xNet Usba_Dm 
+\i (01:25:40) xNet Lcd_Twck1_Pd5 
+\i (01:25:40) xNet Dbgu_Urxd1_Pd2 
+\i (01:25:40) xNet Exp_Pd6 
+\i (01:25:40) xNet Xpro_Pd8 
+\i (01:25:40) xNet Xpro_Pd10 
+\i (01:25:40) xNet Exp/Xpro_Pd12 
+\i (01:25:40) xNet Xpro_Pd18 
+\i (01:25:40) xNet Lcd_Ad1_Xm_Pd20 
+\i (01:25:40) xNet Lcd_Ad3_Ym_Pd22 
+\i (01:25:40) xname_flush 
+\t (01:25:40) 139 Net(s) dehighlighted.
+\i (01:25:40) done 
+\i (01:25:40) etchedit 
+\i (01:31:16) xhilite 
+\i (01:31:16) xname_flush 
+\i (01:31:16) done 
+\i (01:31:16) etchedit 
+\i (01:31:17) xdehilite 
+\i (01:31:17) xname_flush 
+\i (01:31:17) done 
+\i (01:31:17) etchedit 
+\i (01:31:19) xhilite 
+\i (01:31:19) xname_flush 
+\i (01:31:19) done 
+\i (01:31:19) etchedit 
+\i (01:31:25) xdehilite 
+\i (01:31:25) xname_flush 
+\i (01:31:25) done 
+\i (01:31:25) etchedit 
+\i (01:31:44) xhilite 
+\i (01:31:44) xNet Isc_D6/Exp/Xpro_Pc0 
+\i (01:31:44) xNet Isc_D5/Exp/Xpro_Pb31 
+\i (01:31:44) xNet Exp/Xpro_Pd25 
+\i (01:31:44) xNet Exp/Xpro_Pd27 
+\i (01:31:44) xNet Exp/Xpro_Pd26 
+\i (01:31:44) xNet Gnd_Power 
+\i (01:31:44) xNet Exp/Xpro_Pb5 
+\i (01:31:44) xNet Exp/Xpro_Pb6 
+\i (01:31:44) xNet Exp/Xpro_Pd28 
+\i (01:31:44) xname_flush 
+\i (01:31:44) trapsize 148
+\t (01:31:44) 9 Net(s) highlighted.
+\i (01:31:44) done 
+\i (01:31:44) etchedit 
+\i (01:32:36) xhilite 
+\i (01:32:36) xname_flush 
+\i (01:32:36) done 
+\i (01:32:36) etchedit 
+\i (01:33:14) xdehilite 
+\i (01:33:14) xname_flush 
+\i (01:33:14) done 
+\i (01:33:14) etchedit 
+\i (01:38:34) xdehilite 
+\i (01:38:34) xname_flush 
+\i (01:38:34) done 
+\i (01:38:34) etchedit 
+\i (01:46:02) xhilite 
+\i (01:46:02) xrefdes U15 
+\i (01:46:02) xname_flush 
+\i (01:46:02) trapsize 10
+\t (01:46:02) Symbol "U15" highlighted.
+\i (01:46:02) done 
+\i (01:46:02) etchedit 
+\i (01:46:09) xhilite 
+\i (01:46:09) xNet Vdd_3V3 
+\i (01:46:09) xname_flush 
+\i (01:46:09) trapsize 148
+\t (01:46:09) Net "Vdd_3V3" highlighted.
+\i (01:46:09) done 
+\i (01:46:09) etchedit 
+\i (01:46:11) xhilite 
+\i (01:46:11) xname_flush 
+\i (01:46:11) done 
+\i (01:46:11) etchedit 
+\i (01:46:12) xhilite 
+\i (01:46:12) xNet Boot_Dis 
+\i (01:46:12) xname_flush 
+\i (01:46:12) trapsize 148
+\t (01:46:12) Net "Boot_Dis" highlighted.
+\i (01:46:12) done 
+\i (01:46:12) etchedit 
+\i (01:46:13) xhilite 
+\i (01:46:13) xNet Gnd_Power 
+\i (01:46:13) xname_flush 
+\i (01:46:13) trapsize 148
+\t (01:46:13) Net "Gnd_Power" highlighted.
+\i (01:46:13) done 
+\i (01:46:13) etchedit 
+\i (01:46:32) xhilite 
+\i (01:46:32) xNet Qspi0_Cs_Pa23 
+\i (01:46:32) xname_flush 
+\i (01:46:32) trapsize 148
+\t (01:46:32) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:46:32) done 
+\i (01:46:32) etchedit 
+\i (01:46:32) xdehilite 
+\i (01:46:32) xNet Qspi0_Cs_Pa23 
+\i (01:46:32) xname_flush 
+\t (01:46:32) Net "Qspi0_Cs_Pa23" dehighlighted.
+\i (01:46:32) done 
+\i (01:46:32) xhilite 
+\i (01:46:32) xNet Qspi0_Cs_Pa23 
+\i (01:46:32) xname_flush 
+\i (01:46:32) trapsize 148
+\t (01:46:32) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:46:32) done 
+\i (01:46:32) etchedit 
+\i (01:46:36) xdehilite 
+\i (01:46:36) xNet Qspi0_Cs_Pa23 
+\i (01:46:36) xname_flush 
+\t (01:46:36) Net "Qspi0_Cs_Pa23" dehighlighted.
+\i (01:46:36) done 
+\i (01:46:36) xhilite 
+\i (01:46:36) xNet Qspi0_Cs_Pa23 
+\i (01:46:36) xname_flush 
+\i (01:46:36) trapsize 148
+\t (01:46:36) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:46:36) done 
+\i (01:46:36) etchedit 
+\i (01:46:47) xdehilite 
+\i (01:46:47) xNet Qspi0_Cs_Pa23 
+\i (01:46:47) xname_flush 
+\t (01:46:47) Net "Qspi0_Cs_Pa23" dehighlighted.
+\i (01:46:47) done 
+\i (01:46:47) etchedit 
+\i (01:46:54) xhilite 
+\i (01:46:54) xNet Qspi0_Cs_Pa23 
+\i (01:46:54) xname_flush 
+\i (01:46:54) trapsize 148
+\t (01:46:54) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:46:54) done 
+\i (01:46:54) etchedit 
+\i (01:46:55) xdehilite 
+\i (01:46:55) xNet Qspi0_Cs_Pa23 
+\i (01:46:55) xname_flush 
+\t (01:46:55) Net "Qspi0_Cs_Pa23" dehighlighted.
+\i (01:46:55) done 
+\i (01:46:55) xhilite 
+\i (01:46:56) xNet Qspi0_Cs_Pa23 
+\i (01:46:56) xname_flush 
+\i (01:46:56) trapsize 148
+\t (01:46:56) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:46:56) done 
+\i (01:46:56) etchedit 
+\i (01:47:12) xhilite 
+\i (01:47:12) xNet Qspi0_Cs_Pa23 
+\i (01:47:12) xname_flush 
+\i (01:47:12) trapsize 148
+\t (01:47:12) Net "Qspi0_Cs_Pa23" highlighted.
+\i (01:47:12) done 
+\i (01:47:12) etchedit 
+\i (01:47:15) xdehilite 
+\i (01:47:15) xNet Qspi0_Cs_Pa23 
+\i (01:47:15) xname_flush 
+\t (01:47:15) Net "Qspi0_Cs_Pa23" dehighlighted.
+\i (01:47:15) done 
+\i (01:47:15) etchedit 
+\i (05:48:42) pick grid 10921.5 7549.2
+\t (05:48:42) last pick:  10925.0  7550.0
+\i (05:48:43) zoom out 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom out 10302.9 7043.0
+\i (05:48:43) trapsize 296
+\i (05:48:43) zoom out 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom out 10302.9 7043.1
+\i (05:48:43) trapsize 592
+\i (05:48:43) zoom out 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom out 10205.5 7043.1
+\i (05:48:43) trapsize 899
+\i (05:48:43) zoom out 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom out 15490.5 10404.9
+\i (05:48:43) trapsize 899
+\i (05:48:43) zoom in 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom in 6523.3 6092.0
+\i (05:48:43) trapsize 449
+\i (05:48:43) zoom in 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom in 6523.3 6092.0
+\i (05:48:43) trapsize 225
+\i (05:48:43) zoom in 1 
+\i (05:48:43) setwindow pcb
+\i (05:48:43) zoom in 6523.3 6092.0
+\i (05:48:43) trapsize 112
+\i (05:48:44) zoom out 1 
+\i (05:48:44) setwindow pcb
+\i (05:48:44) zoom out 6783.9 6145.9
+\i (05:48:44) trapsize 225
+\i (05:48:44) zoom out 1 
+\i (05:48:44) setwindow pcb
+\i (05:48:44) zoom out 6783.9 6145.9
+\i (05:48:44) trapsize 449
+\i (05:48:46) zoom in 1 
+\i (05:48:46) setwindow pcb
+\i (05:48:46) zoom in 7907.0 8338.3
+\i (05:48:46) trapsize 225
+\i (05:48:47) zoom in 1 
+\i (05:48:47) setwindow pcb
+\i (05:48:47) zoom in 7943.0 8580.9
+\i (05:48:47) trapsize 112
+\i (05:48:47) zoom in 1 
+\i (05:48:47) setwindow pcb
+\i (05:48:47) zoom in 7947.5 8580.9
+\i (05:48:47) trapsize 56
+\i (05:48:47) pick grid tgl 8098.0 8601.1
+\t (05:48:47) last pick:  8100.0  8600.0
+\i (05:48:49) pick grid 7913.8 8470.8
+\t (05:48:49) last pick:  7925.0  8475.0
+\i (05:48:49) zoom out 1 
+\i (05:48:49) setwindow pcb
+\i (05:48:49) zoom out 8174.4 8537.1
+\i (05:48:49) trapsize 112
+\i (05:48:49) zoom out 1 
+\i (05:48:49) setwindow pcb
+\i (05:48:49) zoom out 8174.4 8537.1
+\i (05:48:49) trapsize 225
+\i (05:48:50) pick grid 8129.5 8505.7
+\t (05:48:50) last pick:  8125.0  8500.0
+\i (05:48:51) save 
+\i (05:48:53) fillin yes 
+\i (05:48:53) etchedit 
+\i (05:48:54) pick grid 7738.6 8267.6
+\t (05:48:54) last pick:  7750.0  8275.0
+\i (05:48:57) pick grid 9886.1 8177.7
+\t (05:48:57) last pick:  9875.0  8175.0
+\i (05:49:10) pick grid 8969.6 8653.9
+\t (05:49:10) last pick:  8975.0  8650.0
+\i (05:49:30) pick grid 10474.6 8999.9
+\t (05:49:30) last pick:  10475.0  9000.0
+\i (07:21:14) xhilite 
+\i (07:21:14) xname_flush 
+\i (07:21:14) done 
+\i (07:21:14) etchedit 
+\i (07:21:15) xdehilite 
+\i (07:21:15) xname_flush 
+\i (07:21:15) done 
+\i (07:21:15) etchedit 
+\i (07:48:45) xhilite 
+\i (07:48:45) xname_flush 
+\i (07:48:45) done 
+\i (07:48:45) etchedit 
+\i (07:48:46) xdehilite 
+\i (07:48:46) xname_flush 
+\i (07:48:46) done 
+\i (07:48:46) etchedit 
+\i (07:49:14) xhilite 
+\i (07:49:14) xname_flush 
+\i (07:49:14) done 
+\i (07:49:14) etchedit 
+\i (07:49:19) xdehilite 
+\i (07:49:19) xname_flush 
+\i (07:49:19) done 
+\i (07:49:19) etchedit 
+\i (09:08:16) pick grid 6080.8 6627.7
+\t (09:08:16) last pick:  6075.0  6625.0
+\i (09:08:18) zoom out 1 
+\i (09:08:18) setwindow pcb
+\i (09:08:18) zoom out 6813.1 7265.7
+\i (09:08:18) trapsize 449
+\i (09:08:18) zoom out 1 
+\i (09:08:18) setwindow pcb
+\i (09:08:18) zoom out 6813.1 7265.7
+\i (09:08:18) trapsize 899
+\i (09:08:18) zoom in 1 
+\i (09:08:18) setwindow pcb
+\i (09:08:18) zoom in 7170.2 6002.1
+\i (09:08:18) trapsize 449
+\i (09:08:19) zoom in 1 
+\i (09:08:19) setwindow pcb
+\i (09:08:19) zoom in 6920.2 6002.2
+\i (09:08:19) trapsize 225
+\i (09:08:19) pick grid 6668.7 6056.1
+\t (09:08:19) last pick:  6675.0  6050.0
+\i (09:27:28) xhilite 
+\i (09:27:28) xrefdes Q6 
+\i (09:27:28) xNet N42379535 
+\i (09:27:28) xrefdes R230 
+\i (09:27:28) xNet Gnd_Power 
+\i (09:27:28) xNet Vdd_3V3 
+\i (09:27:28) xNet Sdhc0_Cd_Pa13 
+\i (09:27:28) xrefdes R227 
+\i (09:27:28) xrefdes U15 
+\i (09:27:28) xrefdes C63 
+\i (09:27:28) xNet Qspi0_Cs 
+\i (09:27:28) xNet Spi0_Npcs0_Pa17 
+\i (09:27:28) xNet Qspi0_Cs_Pa23 
+\i (09:27:28) xrefdes R226 
+\i (09:27:28) xrefdes R218 
+\i (09:27:28) xname_flush 
+\i (09:27:28) trapsize 148
+\t (09:27:28) 7 Net(s) highlighted.
+\t (09:27:28) 7 Component(s) highlighted.
+\i (09:27:28) done 
+\i (09:27:28) etchedit 
+\i (09:47:56) exit 
+\e (09:47:56) Do you want to save the changes you made to G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd?
+\i (09:47:57) fillin yes 
+\t (09:47:57)     Journal end - Fri Nov 09 18:53:25 2018

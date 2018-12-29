@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SAMA5D2-XULT.brd                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Oct 31 15:03:34 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'G:/Micchip/TOMA5D2/netlist';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd';
+NEW_BOARD_NAME 'G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd';
+
+CmdLine: netrev -$ -i G:/Micchip/TOMA5D2/netlist -y 1 G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/#Taaaadu09692.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read G:/Micchip/TOMA5D2/netlist/pstchip.dat 
+   Finished reading G:/Micchip/TOMA5D2/netlist/pstchip.dat (00:00:00.03)
+Starting to read G:/Micchip/TOMA5D2/netlist/pstxprt.dat 
+   Finished reading G:/Micchip/TOMA5D2/netlist/pstxprt.dat (00:00:00.00)
+Starting to read G:/Micchip/TOMA5D2/netlist/pstxnet.dat 
+   Finished reading G:/Micchip/TOMA5D2/netlist/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  C:/SPB_Data/abthy_lib/ 
+
+PADPATH =  C:/SPB_Data/abthy_lib/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 31 15:03:34 2018
+   DESIGN NAME : 'SAMA5D2C-XULT REVC'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:30
+elapsed time  0:00:00
+

@@ -1,0 +1,73 @@
+Added Component: Designator=C1(0603C)
+Added Component: Designator=C2(0603C)
+Added Component: Designator=C3(0603C)
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=C6(0603C)
+Added Component: Designator=C7(0603C)
+Added Component: Designator=J1(FPC20-0.5mm)
+Added Component: Designator=J2(CON06_2.54)
+Added Component: Designator=J3(JXL12864G-1504)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=R6(0603R)
+Added Pin To Net: NetName=DGND Pin=C1-1
+Added Pin To Net: NetName=DGND Pin=C2-1
+Added Pin To Net: NetName=DP3V3 Pin=C2-2
+Added Pin To Net: NetName=DGND Pin=C3-1
+Added Pin To Net: NetName=DP3V3 Pin=C3-2
+Added Pin To Net: NetName=DP3V3 Pin=C4-1
+Added Pin To Net: NetName=DGND Pin=C4-2
+Added Pin To Net: NetName=DP3V3 Pin=C5-1
+Added Pin To Net: NetName=DGND Pin=C5-2
+Added Pin To Net: NetName=DGND Pin=C7-2
+Added Pin To Net: NetName=S_DIS_CS Pin=J1-1
+Added Pin To Net: NetName=S_DIS_RS Pin=J1-3
+Added Pin To Net: NetName=DP3V3 Pin=J1-4
+Added Pin To Net: NetName=DP3V3 Pin=J1-5
+Added Pin To Net: NetName=S_DIS_SCK Pin=J1-12
+Added Pin To Net: NetName=S_DIS_SDA Pin=J1-13
+Added Pin To Net: NetName=DP3V3 Pin=J1-14
+Added Pin To Net: NetName=DGND Pin=J1-15
+Added Pin To Net: NetName=DP3V3 Pin=J1-19
+Added Pin To Net: NetName=DGND Pin=J1-20
+Added Pin To Net: NetName=DGND Pin=J1-21
+Added Pin To Net: NetName=DGND Pin=J1-22
+Added Pin To Net: NetName=S_DIS_SDA Pin=J2-1
+Added Pin To Net: NetName=S_DIS_RS Pin=J2-2
+Added Pin To Net: NetName=S_DIS_SCK Pin=J2-3
+Added Pin To Net: NetName=S_DIS_CS Pin=J2-4
+Added Pin To Net: NetName=DGND Pin=J2-5
+Added Pin To Net: NetName=DP3V3 Pin=J2-6
+Added Pin To Net: NetName=DGND Pin=J3-2
+Added Pin To Net: NetName=DGND Pin=J3-2
+Added Pin To Net: NetName=DP3V3 Pin=R1-1
+Added Pin To Net: NetName=S_DIS_CS Pin=R2-1
+Added Pin To Net: NetName=DP3V3 Pin=R2-2
+Added Pin To Net: NetName=S_DIS_SCK Pin=R3-1
+Added Pin To Net: NetName=DP3V3 Pin=R3-2
+Added Pin To Net: NetName=S_DIS_RS Pin=R4-1
+Added Pin To Net: NetName=DP3V3 Pin=R4-2
+Added Pin To Net: NetName=S_DIS_SDA Pin=R5-1
+Added Pin To Net: NetName=DP3V3 Pin=R5-2
+Added Pin To Net: NetName=DP3V3 Pin=R6-1
+Added Pin To Net: NetName=DIS_RES Pin=C1-2
+Added Pin To Net: NetName=DIS_RES Pin=J1-2
+Added Pin To Net: NetName=DIS_RES Pin=R1-2
+Added Net: Name=DIS_RES
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=J1-17
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=J1-16
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=J1-18
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetJ3_1 Pin=R6-2
+Added Net: Name=NetJ3_1
+Added Class: Name=√‘ƒ„ÀÊ≥µ≥‰“∫æßœ‘ æ∞Â
+Added Room: Name=√‘ƒ„ÀÊ≥µ≥‰“∫æßœ‘ æ∞Â

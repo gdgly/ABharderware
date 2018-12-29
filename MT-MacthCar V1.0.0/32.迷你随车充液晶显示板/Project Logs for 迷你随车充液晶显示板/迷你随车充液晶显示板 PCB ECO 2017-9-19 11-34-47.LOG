@@ -1,0 +1,8 @@
+Added Component: Designator=R7(0603R)
+Added Component: Designator=R8(0603R)
+Added Pin To Net: NetName=DP3V3 Pin=R7-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R7-2
+Added Pin To Net: NetName=DP3V3 Pin=R8-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R8-2
+Added Member To Class: ClassName=ÃÔÄãËæ³µ³äÒº¾§ÏÔÊ¾°å Member=Component R7 47R
+Added Member To Class: ClassName=ÃÔÄãËæ³µ³äÒº¾§ÏÔÊ¾°å Member=Component R8 47R

@@ -1,0 +1,84 @@
+*
+*
+G04 PADS 9.5 Build Number: 522968 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "MT-StreetLight V1.0.0.p"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD016C,0.012*%
+%ADD024C,0.001*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-StreetLight V1.0.0.p - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name MT-StreetLight V1.0.0.p - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-StreetLight V1.0.0.p - circuitry*
+%LPD*%
+*
+G54D16*
+G01X2196850Y1983858D02*
+X1803150D01*
+Y1216142*
+X2196850*
+Y1983858*
+X2128954Y1874123D02*
+G75*
+G03X2128954I-3417J0D01*
+G01X2073966Y1874098D02*
+G03X2073966I-3518J0D01*
+G54D24*
+G74*
+G01X0Y0D02*
+M02*

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=S_DIS_SDA Pin=J2-1
+Removed Pin From Net: NetName=S_DIS_RS Pin=J2-2
+Removed Pin From Net: NetName=S_DIS_SCK Pin=J2-3
+Removed Pin From Net: NetName=S_DIS_CS Pin=J2-4
+Removed Pin From Net: NetName=DGND Pin=J2-5
+Removed Pin From Net: NetName=DP3V3 Pin=J2-6
+Added Pin To Net: NetName=DP3V3 Pin=J2-1
+Added Pin To Net: NetName=DGND Pin=J2-2
+Added Pin To Net: NetName=S_DIS_CS Pin=J2-3
+Added Pin To Net: NetName=S_DIS_SCK Pin=J2-4
+Added Pin To Net: NetName=S_DIS_RS Pin=J2-5
+Added Pin To Net: NetName=S_DIS_SDA Pin=J2-6

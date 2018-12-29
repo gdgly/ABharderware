@@ -1,0 +1,20 @@
+Added Component: Designator=J1(FH12-10S-1SH)
+Added Pin To Net: NetName=DP3V3 Pin=J1-1
+Added Pin To Net: NetName=DP3V3 Pin=J1-2
+Added Pin To Net: NetName=NTRST Pin=J1-3
+Added Pin To Net: NetName=DGND Pin=J1-4
+Added Pin To Net: NetName=TDI Pin=J1-5
+Added Pin To Net: NetName=DGND Pin=J1-6
+Added Pin To Net: NetName=TMS Pin=J1-7
+Added Pin To Net: NetName=DGND Pin=J1-8
+Added Pin To Net: NetName=TCK Pin=J1-9
+Added Pin To Net: NetName=DGND Pin=J1-10
+Added Pin To Net: NetName=DGND Pin=J1-12
+Added Pin To Net: NetName=TDO Pin=J1-13
+Added Pin To Net: NetName=DGND Pin=J1-14
+Added Pin To Net: NetName=NRST Pin=J1-15
+Added Pin To Net: NetName=DGND Pin=J1-16
+Added Pin To Net: NetName=DGND Pin=J1-18
+Added Pin To Net: NetName=DGND Pin=J1-20
+Added Member To Class: ClassName=MT-SWD V1.0 Member=Component J1 JTAG
+Added Room: Name=MT-SWD V1.0

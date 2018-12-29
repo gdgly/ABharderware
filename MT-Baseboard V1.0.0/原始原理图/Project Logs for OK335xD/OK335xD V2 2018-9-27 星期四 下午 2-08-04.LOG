@@ -1,0 +1,6 @@
+Change Component Comment : Designator=P5 Old Comment=CAN New Comment=RS485
+Change Component Comment : Designator=P4 Old Comment=I2C New Comment=AD
+Change Component Comment : Designator=P2 Old Comment=I2C New Comment=SPI
+Change Component Comment : Designator=P6 Old Comment=I2C New Comment=UART4
+Change Component Comment : Designator=P8 Old Comment=JTAG New Comment=SDIO
+Change Component Comment : Designator=U13 Old Comment=MAX485E New Comment=MAX13487

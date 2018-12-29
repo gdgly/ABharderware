@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RXD1 Pin=J11-2
+Removed Pin From Net: NetName=TXD1 Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J11-5
+Removed Pin From Net: NetName=GND Pin=J11-10
+Removed Pin From Net: NetName=GND Pin=J11-11
+Removed Member From Class: ClassName=NET & UART Member=J11
+Added Component: Designator=J4(KF2EDG-4P-3.81mm)
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=RXD1 Pin=J4-2
+Added Pin To Net: NetName=TXD1 Pin=J4-3
+Added Pin To Net: NetName=VDD5V Pin=J4-4
+Added Member To Class: ClassName=NET & UART Member=Component J4 HEADER 4

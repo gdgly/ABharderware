@@ -1,0 +1,22 @@
+\t (00:00:07) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:07)     Journal start - Mon Nov 12 10:35:31 2018
+\t (00:00:07)         Host=USER-20180512LE User=Administrator Pid=7780 CPUs=12
+\t (00:00:07) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Database opened: G:/Micchip/ATSAMA5D2C-XULT__KitsFiles/ATSAMA5D2C-XULT_PCBA_A/ATSAMA5D2C-XULT_PCBA_A/SAMA5D2-XULT.brd
+\i (00:00:08) trapsize 129
+\i (00:00:08) trapsize 128
+\i (00:00:08) trapsize 130
+\i (00:00:08) trapsize 148
+\i (00:00:08) trapsize 148
+\i (00:00:08) etchedit 
+\i (00:00:13) open 
+\i (00:00:18) fillin "C:\Users\Administrator\Desktop\V0.2_EVO_Main-2.brd"
+\i (00:00:18) cd "C:\Users\Administrator\Desktop"
+\t (00:00:18) Opening existing design...
+\w (00:00:18) WARNING(SPMHDB-214): Allegro PCB Designer (was Performance L) opening an Allegro XL design.
+\w (00:00:18) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:18) WARNING(SPMHOD-33): Design was last saved by a different product (Allegro XL). Constraints and other design data may not be available with this product. Functionality between two products may also be equivalent, you should consult the product functionality matrix to determine differences.
+\i (00:00:19) fillin confirm
+\i (00:00:19) trapsize 8135
+\t (00:00:19)     Journal end - Mon Nov 12 10:35:43 2018
