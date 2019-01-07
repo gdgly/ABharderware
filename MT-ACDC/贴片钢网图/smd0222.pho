@@ -1,0 +1,92 @@
+*
+*
+G04 PADS 9.5 Build Number: 522968 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "MT-ACDC-A.pcb"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.01*%
+%ADD024C,0.001*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-ACDC-A.pcb - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name MT-ACDC-A.pcb - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-ACDC-A.pcb - circuitry*
+%LPD*%
+*
+G54D10*
+G01X2167323Y1690551D02*
+G75*
+G03X2159449Y1698425I-7874J0D01*
+G01X1840551*
+G03X1832677Y1690551I0J-7874*
+G01Y1509449*
+G03X1840551Y1501575I7874J-0*
+G01X2159449*
+G03X2167323Y1509449I-0J7874*
+G01Y1690551*
+X2156693Y1521260D02*
+G03X2156693I-9055J0D01*
+G01Y1678740D02*
+G03X2156693I-9055J0D01*
+G01X1861417D02*
+G03X1861417I-9055J0D01*
+G01Y1521260D02*
+G03X1861417I-9055J0D01*
+G54D24*
+G74*
+G01X0Y0D02*
+M02*
