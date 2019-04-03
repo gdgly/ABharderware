@@ -1,0 +1,84 @@
+*
+*
+G04 PADS 9.5 Build Number: 522968 generated Gerber (RS-274-X) file*
+G04 PC Version=2.1*
+*
+%IN "MT-RGBLVDS-A1 (2).pcb"*%
+*
+%MOIN*%
+*
+%FSLAX35Y35*%
+*
+*
+*
+*
+G04 PC Standard Apertures*
+*
+*
+G04 Thermal Relief Aperture macro.*
+%AMTER*
+1,1,$1,0,0*
+1,0,$1-$2,0,0*
+21,0,$3,$4,0,0,45*
+21,0,$3,$4,0,0,135*
+%
+*
+*
+G04 Annular Aperture macro.*
+%AMANN*
+1,1,$1,0,0*
+1,0,$2,0,0*
+%
+*
+*
+G04 Odd Aperture macro.*
+%AMODD*
+1,1,$1,0,0*
+1,0,$1-0.005,0,0*
+%
+*
+*
+G04 PC Custom Aperture Macros*
+*
+*
+*
+*
+*
+*
+G04 PC Aperture Table*
+*
+%ADD010C,0.01*%
+%ADD024C,0.001*%
+*
+*
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-RGBLVDS-A1 (2).pcb - circuitry*
+%LPD*%
+*
+*
+G04 PC Custom Flashes*
+G04 Layer Name MT-RGBLVDS-A1 (2).pcb - flashes*
+%LPD*%
+*
+*
+G04 PC Circuitry*
+G04 Layer Name MT-RGBLVDS-A1 (2).pcb - circuitry*
+%LPD*%
+*
+G54D10*
+G01X2110236Y1491732D02*
+G75*
+G03X2118110Y1499606I0J7874D01*
+G01Y1700394*
+G03X2110236Y1708268I-7874J-0*
+G01X1889764*
+G03X1881890Y1700394I-0J-7874*
+G01Y1499606*
+G03X1889764Y1491732I7874J0*
+G01X2110236*
+G54D24*
+G74*
+X0Y0D02*
+M02*
